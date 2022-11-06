@@ -2,12 +2,12 @@
 
 | Rool | Creature            | Numbers         |
 | ---- | ------------------- | --------------- |
-| 2    | prosti ob.          | `dice:3d6`      |
-| 3    | zvedi               | `dice: 1d6`     |
-| 4    | past                | 1               |
-| 5    | hrob                | 1               |
-| 6    | fake stezka         | 1               |
-| 7    | loupeznici          | `dice: 1d6+1`   |
+| 2    | [[Prostý občan Barovie]]          | `dice:3d6`      |
+| 3    | [[Strahdův zvěd]]               | `dice: 1d6`     |
+| 4    | [[Lovecká past]]                 | 1               |
+| 5    | [[Hrob]]                | 1               |
+| 6    | [[Falešná stezka]]         | 1               |
+| 7    | [[Vistánký loupežník]]          | `dice: 1d6+1`   |
 | 8    | kostlivec jezdec    | 1               |
 | 9    | cetka               | 1               |
 | 10   | ukryty balicek      | 1               |
