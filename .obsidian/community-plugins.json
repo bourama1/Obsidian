@@ -9,5 +9,7 @@
   "obsidian-extract-pdf-highlights",
   "templater-obsidian",
   "obsidian-5e-statblocks",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-admonition",
+  "table-editor-obsidian"
 ]

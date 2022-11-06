@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6c4e8d7ba6873730",
+        "id": "07c3ed9b11097c14",
         "type": "tabs",
         "children": [
           {
-            "id": "47c9db71fcabdc42",
+            "id": "9e2839617cef3da7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Untitled.md",
+                "file": "Dnd/Campaings/Curse/Random encounters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +98,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Untitled.md",
+                "file": "Dnd/Campaings/Curse/Random encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Untitled.md"
+                "file": "Dnd/Campaings/Curse/Random encounters.md"
               }
             }
           },
@@ -144,24 +140,33 @@
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "6af1ac13ffffbe09",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "47c9db71fcabdc42",
+  "active": "bc21b04bf6620369",
   "lastOpenFiles": [
+    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+    "Dnd/Campaings/Curse/Random encounters.md",
+    "Dnd/Untitled.md",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
     "Dnd/Wiki/Atlas/Bavoria.md",
     "Dnd/Wiki/Online Tools.md",
-    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
     "Dnd/LostMine/tactical-tokens-custom-token.png",
-    "Dnd/Wiki/pdfs/quick-conditions2.png",
-    "Untitled.md"
+    "Dnd/Wiki/pdfs/quick-conditions2.png"
   ]
 }
