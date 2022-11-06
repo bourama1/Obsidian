@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "07c3ed9b11097c14",
+        "id": "17a1fa875bd28e00",
         "type": "tabs",
         "children": [
           {
-            "id": "9e2839617cef3da7",
+            "id": "6ba2845706fb3c02",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Campaings/Curse/Random encounters.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dnd/Campaings/Curse/Random encounters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dnd/Campaings/Curse/Random encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dnd/Campaings/Curse/Random encounters.md"
+              }
             }
           },
           {
@@ -152,17 +160,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "4033808f3351363c",
+  "active": "6ba2845706fb3c02",
   "lastOpenFiles": [
+    "Templates/Spell/Template - Spell.md",
+    "Templates/Spell/Abjuration.png",
+    "Dnd/Campaings/Curse/Untitled.md",
     "Dnd/Campaings/Curse/Random encounters.md",
     "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
     "Dnd/Untitled.md",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
-    "Dnd/Wiki/Atlas/Bavoria.md",
-    "Dnd/Wiki/Online Tools.md",
-    "Dnd/LostMine/tactical-tokens-custom-token.png",
-    "Dnd/Wiki/pdfs/quick-conditions2.png"
+    "Dnd/Wiki/Atlas/Bavoria.md"
   ]
 }
