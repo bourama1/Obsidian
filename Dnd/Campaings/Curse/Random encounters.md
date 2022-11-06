@@ -9,42 +9,42 @@
 | 6    | [[Falešná stezka]]         | 1               |
 | 7    | [[Vistánký loupežník]]          | `dice: 1d6+1`   |
 | 8    | [[Kostlivec jezdec]]    | 1               |
-| 9    | cetka               | 1               |
-| 10   | ukryty balicek      | 1               |
-| 11   | hejno krkavcu       | `dice: 1d4`     |
-| 12   | liti vlci           | `dice: 1d6`     |
-| 13   | vlci                | `dice: 3d6`     |
-| 14   | bersekri            | `dice: 1d4`     |
-| 15   | mrtvola             | 1               |
-| 16   | vlkodlaci lidi      | `dice: 1d6`     |
-| 17   | druid + snete vetvi | 1 + `dice: 2d6` |
-| 18   | jehlicnate sneti    | `dice:2d4`      |
-| 19   | strasaci                    | `dice: 1d6`     |
-| 20   | mstitel             | 1               |
+| 9    | [[Cetka]]               | 1               |
+| 10   | [[Ukryty balicek]]      | 1               |
+| 11   | [[Havran]]       | `dice: 1d4`     |
+| 12   | [[Hrozivý vlk]]           | `dice: 1d6`     |
+| 13   | [[Vlk]]                | `dice: 3d6`     |
+| 14   | [[Bersekr]]            | `dice: 1d4`     |
+| 15   | [[Mrtvola]]  | 1               |
+| 16   | [[Vlkodlak]]      | `dice: 1d6`     |
+| 17   | [[Druid]] + [[Twig Blight]] | 1 + `dice: 2d6` |
+| 18   | [[Needle Blight]]    | `dice:2d4`      |
+| 19   | [[Strasak]]                    | `dice: 1d6`     |
+| 20   | [[Mstitel]]             | 1               |
 
 ## Night dice: 1d12 + 1d8
 
 | Rool | Creature            | Numbers         |
 | ---- | ------------------- | --------------- |
-| 2    | duch                | 1               |
-| 3    | bludicka            | 1               |
-| 4    | past                | 1               |
-| 5    | hrob                | 1               |
-| 6    | cetka               | 1               |
-| 7    | mrtvola             | 1               |
-| 8    | kostlivec jezdec    | 1               |
-| 9    | hejno netopyru      | `dice: 1d8`     |
-| 10   | ukryty balicek      | 1               |
-| 11   | zombie              | `dice: 3d6`     |
-| 12   | liti vlci           | `dice: 1d6`     |
-| 13   | vlci                | `dice: 3d6`     |
-| 14   | bersekri            | `dice: 1d4`     |
-| 15   | Strahdovi zombie    | `dice:1d8`               |
-| 16   | vlkodlaci vlci      | `dice: 1d6`     |
-| 17   | druid + snete vetvi | 1 + `dice: 2d6` |
-| 18   | jehlicnate sneti    | `dice:2d4`      |
-| 19   | strasaci            | `dice: 1d6`     |
-| 20   | mstitel             | 1               |
+| 2    | [[Duch]]                | 1               |
+| 3    | [[Bludicka]]            | 1               |
+| 4    | [[Lovecká past]]                | 1               |
+| 5    | [[Hrob]]              | 1               |
+| 6    |[[Cetka]]               | 1               |
+| 7    | [[Mrtvola]]            | 1               |
+| 8    | [[Kostlivec jezdec]]    | 1               |
+| 9    | [[Netopyr]]      | `dice: 1d8`     |
+| 10   | [[Ukryty balicek]]      | 1               |
+| 11   | [[Zombie]]              | `dice: 3d6`     |
+| 12   | [[Hrozivý vlk]]           | `dice: 1d6`     |
+| 13   | [[Vlk]]     | `dice: 3d6`     |
+| 14   | [[Bersekr]]            | `dice: 1d4`     |
+| 15   | [[Strahdova zombie]]    | `dice:1d8`               |
+| 16   | [[Vlkodlak]]      | `dice: 1d6`     |
+| 17   | [[Druid]] + [[Twig Blight]] | 1 + `dice: 2d6` |
+| 18   | [[Needle Blight]]   | `dice:2d4`      |
+| 19   | [[Strasak]]   | `dice: 1d6`     |
+| 20   | [[Mstitel]]         | 1               |
 
 
 ## Chance dice: 1d20

@@ -2,4 +2,5 @@ Zvuk prasklé větvičky přiláká vaši pozornost k několika temným obrysům
 
 ```statblock
 monster: Barovian Commoner
+image: https://5e.tools/img/CoS/Barovian%20Commoner.png
 ```
