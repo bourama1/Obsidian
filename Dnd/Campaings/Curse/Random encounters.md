@@ -8,7 +8,7 @@
 | 5    | [[Hrob]]                | 1               |
 | 6    | [[Falešná stezka]]         | 1               |
 | 7    | [[Vistánký loupežník]]          | `dice: 1d6+1`   |
-| 8    | kostlivec jezdec    | 1               |
+| 8    | [[Kostlivec jezdec]]    | 1               |
 | 9    | cetka               | 1               |
 | 10   | ukryty balicek      | 1               |
 | 11   | hejno krkavcu       | `dice: 1d4`     |

@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Traps/Falešná stezka.md",
+                "file": "Dnd/Campaings/Curse/Random encounters.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e16f54ff5f17518c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Wiki/bestiary/Kostlivec jezdec.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a43f7eaaed23ccdf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Wiki/Atlas/Bavoria.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9d1bffa66f0deb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Template - Beast.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Traps/Falešná stezka.md",
+                "file": "Templates/Template - Beast.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Traps/Falešná stezka.md",
+                "file": "Templates/Template - Beast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Traps/Falešná stezka.md"
+                "file": "Templates/Template - Beast.md"
               }
             }
           },
@@ -175,17 +212,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d0dabc57c1fb4473",
+  "active": "a9d1bffa66f0deb5",
   "lastOpenFiles": [
-    "Templates/bestiary/Vistánký loupežník.md",
-    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+    "Dnd/Wiki/Atlas/Bavoria.md",
+    "Templates/Spell/Template - Spell.md",
+    "Templates/Spell/Abjuration.png",
+    "Dnd/Wiki/bestiary/Untitled.md",
+    "Dnd/Wiki/bestiary/Kostlivec jezdec.md",
     "Dnd/Campaings/Curse/Random encounters.md",
-    "Templates/Traps/Falešná stezka.md",
-    "Templates/bestiary/Strahdův zvěd.md",
-    "Templates/Traps/Hrob.md",
-    "Templates/Traps/Lovecká past.md",
-    "Templates/bestiary/Prostý občan Barovie.md",
-    "Templates/bestiary/Goblin.md",
-    "Templates/Untitled.md"
+    "Dnd/Wiki/bestiary/Goblin.md",
+    "Dnd/Wiki/Traps/Falešná stezka.md",
+    "Dnd/Wiki/bestiary/Vistánký loupežník.md",
+    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf"
   ]
 }
