@@ -1,0 +1,1 @@
+-   An incapacitated creature can't take actions or [reactions](https://www.dandwiki.com/wiki/5e_SRD:Reactions "5e SRD:Reactions").

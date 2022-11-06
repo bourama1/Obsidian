@@ -1,0 +1,4 @@
+-   A paralyzed creature is [incapacitated](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Incapacitated "5e SRD:Conditions") (see the condition) and can't move or speak.
+-   The creature automatically fails [Strength](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") and [Dexterity](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") [saving throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws").
+-   Attack rolls against the creature have [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage "5e SRD:Advantage").
+-   Any attack that hits the creature is a [critical hit](https://www.dandwiki.com/wiki/5e_SRD:Damage_Rolls#Critical_Hits "5e SRD:Damage Rolls") if the attacker is within 5 feet of the creature.

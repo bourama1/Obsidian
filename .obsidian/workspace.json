@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d8a2b8fbecbefb1e",
+        "id": "23d99ad0e040edba",
         "type": "tabs",
         "children": [
           {
-            "id": "930e7ae5860e7480",
+            "id": "d8d164252abf8fbd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md",
-                "mode": "preview",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -175,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "930e7ae5860e7480",
+  "active": "d8d164252abf8fbd",
   "lastOpenFiles": [
-    "Dnd/Wiki/Traps/Ukryty balicek.md",
-    "Dnd/Campaings/Curse/Random encounters.md",
-    "Dnd/Wiki/Traps/Cetka.md",
-    "Dnd/Wiki/Traps/Mrtvola.md",
-    "Dnd/Wiki/Bestiary/Bludicka.md",
-    "Dnd/Wiki/Bestiary/Zombie.md",
-    "Dnd/Wiki/Bestiary/Strahdova zombie.md",
-    "Dnd/Wiki/Bestiary/Duch.md",
-    "Dnd/Wiki/Bestiary/Needle Blight.md",
-    "Dnd/Wiki/Bestiary/Twig Blight.md"
+    "Dnd/Wiki/Conditions/Unconscious.md",
+    "DM Screen.md",
+    "Dnd/Wiki/Conditions/Poisoned.md",
+    "Dnd/Wiki/Skills/Wisdom.md",
+    "Dnd/Wiki/Conditions/Stunned.md",
+    "Dnd/Wiki/Conditions/Restrained.md",
+    "Dnd/Wiki/Conditions/Prone.md",
+    "Dnd/Wiki/Conditions/Petrified.md",
+    "Dnd/Wiki/Conditions/Paralyzed.md",
+    "Dnd/Wiki/Conditions/Invisible.md"
   ]
 }

@@ -1,0 +1,3 @@
+-   A prone creature's only movement option is to crawl, unless it stands up and thereby ends the condition.
+-   The creature has [disadvantage](https://www.dandwiki.com/wiki/5e_SRD:Disadvantage "5e SRD:Disadvantage") on attack rolls.
+-   An attack roll against the creature has [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage "5e SRD:Advantage") if the attacker is within 5 feet of the creature. Otherwise, the attack roll has [disadvantage](https://www.dandwiki.com/wiki/5e_SRD:Disadvantage "5e SRD:Disadvantage").

@@ -1,0 +1,2 @@
+-   A frightened creature has [disadvantage](https://www.dandwiki.com/wiki/5e_SRD:Disadvantage "5e SRD:Disadvantage") on ability checks and attack rolls while the source of its fear is within line of sight.
+-   The creature can't willingly move closer to the source of its fear.

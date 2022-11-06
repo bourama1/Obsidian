@@ -1,0 +1,6 @@
+-   A petrified creature is transformed, along with any nonmagical object it is wearing or carrying, into a solid inanimate substance (usually stone). Its weight increases by a factor of ten, and it ceases aging.
+-   The creature is [incapacitated](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Incapacitated "5e SRD:Conditions") (see the condition), can't move or speak, and is unaware of its surroundings.
+-   Attack rolls against the creature have [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage "5e SRD:Advantage").
+-   The creature automatically fails [Strength](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") and [Dexterity](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") [saving throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws").
+-   The creature has resistance to all damage.
+-   The creature is immune to poison and disease, although a poison or disease already in its system is suspended, not neutralized.

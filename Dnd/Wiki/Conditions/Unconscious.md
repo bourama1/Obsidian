@@ -1,0 +1,5 @@
+-   An unconscious creature is [incapacitated](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Incapacitated "5e SRD:Conditions") (see the condition), can't move or speak, and is unaware of its surroundings
+-   The creature drops whatever it's holding and falls [prone](https://www.dandwiki.com/wiki/5e_SRD:Conditions#Prone "5e SRD:Conditions").
+-   The creature automatically fails [Strength](https://www.dandwiki.com/wiki/5e_SRD:Strength "5e SRD:Strength") and [Dexterity](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") [saving throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws").
+-   Attack rolls against the creature have [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage "5e SRD:Advantage").
+-   Any attack that hits the creature is a [critical hit](https://www.dandwiki.com/wiki/5e_SRD:Damage_Rolls#Critical_Hits "5e SRD:Damage Rolls") if the attacker is within 5 feet of the creature.

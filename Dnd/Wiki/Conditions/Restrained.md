@@ -1,0 +1,3 @@
+-   A restrained creature's speed becomes 0, and it can't benefit from any bonus to its speed.
+-   Attack rolls against the creature have [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage "5e SRD:Advantage"), and the creature's attack rolls have [disadvantage](https://www.dandwiki.com/wiki/5e_SRD:Disadvantage "5e SRD:Disadvantage").
+-   The creature has [disadvantage](https://www.dandwiki.com/wiki/5e_SRD:Disadvantage "5e SRD:Disadvantage") on [Dexterity](https://www.dandwiki.com/wiki/5e_SRD:Dexterity "5e SRD:Dexterity") [saving throws](https://www.dandwiki.com/wiki/5e_SRD:Saving_Throws "5e SRD:Saving Throws").

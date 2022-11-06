@@ -1,0 +1,2 @@
+-   A blinded creature can't see and automatically fails any ability check that requires sight.
+-   Attack rolls against the creature have [advantage](https://www.dandwiki.com/wiki/5e_SRD:Advantage "5e SRD:Advantage"), and the creature's attack rolls have [disadvantage](https://www.dandwiki.com/wiki/5e_SRD:Disadvantage "5e SRD:Disadvantage").
