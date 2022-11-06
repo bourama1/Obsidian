@@ -33,6 +33,24 @@ kanban-plugin: basic
 - [ ] [[Wisdom]]
 
 
+## Combat
+
+- [ ] [[Quick reference]]
+- [ ] [[Damage types]]
+
+
+## Equipment
+
+- [ ] [[Armor]]
+- [ ] [[Weapons]]
+- [ ] [[Adventuring gear]] ^env9bz
+- [ ] [[Tools]]
+- [ ] [[Mounts and Vehicles]]
+- [ ] [[Trade goods]]
+- [ ] [[Poisons]]
+- [ ] [[Magic Items]]
+
+
 
 
 %% kanban:settings

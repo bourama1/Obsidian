@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23d99ad0e040edba",
+        "id": "e0f0f6d174b57a7e",
         "type": "tabs",
         "children": [
           {
-            "id": "d8d164252abf8fbd",
+            "id": "9249c25b77b691ec",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -173,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d8d164252abf8fbd",
+  "active": "9249c25b77b691ec",
   "lastOpenFiles": [
-    "Dnd/Wiki/Conditions/Unconscious.md",
+    "Dnd/Damage types.md",
     "DM Screen.md",
-    "Dnd/Wiki/Conditions/Poisoned.md",
-    "Dnd/Wiki/Skills/Wisdom.md",
-    "Dnd/Wiki/Conditions/Stunned.md",
-    "Dnd/Wiki/Conditions/Restrained.md",
-    "Dnd/Wiki/Conditions/Prone.md",
-    "Dnd/Wiki/Conditions/Petrified.md",
-    "Dnd/Wiki/Conditions/Paralyzed.md",
-    "Dnd/Wiki/Conditions/Invisible.md"
+    "Dnd/Magic Items.md",
+    "Dnd/Poisons.md",
+    "Dnd/Trade goods.md",
+    "Dnd/Wiki/Equipment/Mounts and Vehicles.md",
+    "Dnd/Quick reference.md",
+    "Dnd/Tools.md",
+    "Dnd/Wiki/Equipment/Adventuring gear.md",
+    "Dnd/Wiki/Equipment/Weapons.md"
   ]
 }
