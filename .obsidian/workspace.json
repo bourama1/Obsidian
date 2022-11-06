@@ -81,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dnd/Campaings/Curse/Random encounters.md"
-              }
+              "state": {}
             }
           },
           {
@@ -150,16 +146,16 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "bc21b04bf6620369",
+  "active": "4033808f3351363c",
   "lastOpenFiles": [
-    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
     "Dnd/Campaings/Curse/Random encounters.md",
+    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
     "Dnd/Untitled.md",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",

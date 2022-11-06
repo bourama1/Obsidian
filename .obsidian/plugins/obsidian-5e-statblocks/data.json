@@ -3,7 +3,7 @@
   "layouts": [],
   "default": "Basic 5e Layout",
   "useDice": true,
-  "renderDice": false,
+  "renderDice": true,
   "export": true,
   "showAdvanced": false,
   "version": {
