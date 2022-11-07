@@ -21,6 +21,7 @@ kanban-plugin: basic
 - [ ] [[Restrained]]
 - [ ] [[Stunned]]
 - [ ] [[Unconscious]]
+- [ ] [[Dnd/Wiki/Conditions/Quick reference]]
 
 
 ## Skills
@@ -31,24 +32,38 @@ kanban-plugin: basic
 - [ ] [[Charisma]]
 - [ ] [[Constitution]]
 - [ ] [[Wisdom]]
+- [ ] [[DC Checks]]
 
 
 ## Combat
 
-- [ ] [[Quick reference]]
+- [ ] [[Dnd/Wiki/Combat/Quick reference]]
 - [ ] [[Damage types]]
+- [ ] [[Cover]] ^8tzxpc
+- [ ] [[Crit Table]]
+- [ ] [[Dying]]
 
 
 ## Equipment
 
 - [ ] [[Armor]]
 - [ ] [[Weapons]]
-- [ ] [[Adventuring gear]] ^env9bz
+- [ ] [[Gear]] ^env9bz
 - [ ] [[Tools]]
-- [ ] [[Mounts and Vehicles]]
+- [ ] [[Transportation]]
 - [ ] [[Trade goods]]
 - [ ] [[Poisons]]
 - [ ] [[Magic Items]]
+- [ ] [[Expenses]]
+
+
+## Gameplay
+
+- [ ] [[Travel]]
+- [ ] [[Special Types of Movement]]
+- [ ] [[Enviroment]]
+- [ ] [[Inspiration]]
+- [ ] [[Languages]]
 
 
 

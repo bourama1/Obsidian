@@ -1,899 +1,108 @@
-<table class="5e" width="100%" style="text-align: left;">
+# Weapons
 
-<tbody><tr>
+Your class grants proficiency in certain weapons, reflecting both the class's focus and the tools you are most likely to use. Whether you favor a longsword or a longbow, your weapon and your ability to wield it effectively can mean the difference between life and death while adventuring.
 
-<th width="20%" style="text-align: left;"><i><span id="x">Simple Melee Weapons</span></i>
+The Weapons table shows the most common weapons used in the fantasy gaming worlds, their price and weight, the damage they deal when they hit, and any special properties they possess. Every weapon is classified as either melee or ranged. A **melee weapon** is used to attack a target within 5 feet of you, whereas a **ranged weapon** is used to attack a target at a distance.
 
-</th>
+## Weapon Proficiency
 
-<th width="10%">Cost
+Your race, class, and feats can grant you proficiency with certain weapons or categories of weapons. The two categories are **simple** and **martial**. Most people can use simple weapons with proficiency. These weapons include clubs, maces, and other weapons often found in the hands of commoners. Martial weapons, including swords, axes, and polearms, require more specialized training to use effectively. Most warriors use martial weapons because these weapons put their fighting style and training to best use.
 
-</th>
+Proficiency with a weapon allows you to add your proficiency bonus to the attack roll for any attack you make with that weapon. If you make an attack roll using a weapon with which you lack proficiency, you do not add your proficiency bonus to the attack roll.
 
-<th width="20%" style="text-align: left;">Damage
+## Weapon Properties
 
-</th>
+Many weapons have special properties related to their use, as shown in the Weapons table.
 
-<th width="10%" style="text-align: left;">Weight
+***Ammunition***. You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Drawing the ammunition from a quiver, case, or other container is part of the attack (you need a free hand to load a one-handed weapon). At the end of the battle, you can recover half your expended ammunition by taking a minute to search the battlefield.
 
-</th>
+If you use a weapon that has the ammunition property to make a melee attack, you treat the weapon as an improvised weapon (see "Improvised Weapons" later in the section). A sling must be loaded to deal any damage when used in this way.
 
-<th width="40%" style="text-align: left;">Properties
+***Finesse***. When making an attack with a finesse weapon, you use your choice of your Strength or Dexterity modifier for the attack and damage rolls. You must use the same modifier for both rolls.
 
-</th></tr>
+***Heavy***. Small creatures have disadvantage on attack rolls with heavy weapons. A heavy weapon's size and bulk make it too large for a Small creature to use effectively.
 
-<tr class="odd">
+***Light***. A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-<td><a href="[/wiki/5e_SRD:Club](https://www.dandwiki.com/wiki/5e_SRD:Club)" title="5e SRD:Club">Club</a></td>
+***Loading***. Because of the time required to load this weapon, you can fire only one piece of ammunition from it when you use an action, bonus action, or reaction to fire it, regardless of the number of attacks you can normally make.
 
-<td style="text-align: left;">1 sp
+***Range***. A weapon that can be used to make a ranged attack has a range in parentheses after the ammunition or thrown property. The range lists two numbers. The first is the weapon's normal range in feet, and the second indicates the weapon's long range. When attacking a target beyond normal range, you have disadvantage on the attack roll. You can't attack a target beyond the weapon's long range.
 
-</td>
+***Reach***. This weapon adds 5 feet to your reach when you attack with it, as well as when determining your reach for opportunity attacks with it.
 
-<td>1d4 bludgeoning
+***Special***. A weapon with the special property has unusual rules governing its use, explained in the weapon's description (see "Special Weapons" later in this section).
 
-</td>
+***Thrown***. If a weapon has the thrown property, you can throw the weapon to make a ranged attack. If the weapon is a melee weapon, you use the same ability modifier for that attack roll and damage roll that you would use for a melee attack with the weapon. For example, if you throw a handaxe, you use your Strength, but if you throw a dagger, you can use either your Strength or your Dexterity, since the dagger has the finesse property.
 
-<td>2 lb.
+***Two-Handed***. This weapon requires two hands when you attack with it.
 
-</td>
+***Versatile***. This weapon can be used with one or two hands. A damage value in parentheses appears with the property-the damage when the weapon is used with two hands to make a melee attack.
 
-<td>Light
+### Improvised Weapons
 
-</td></tr>
+Sometimes characters don't have their weapons and have to attack with whatever is at hand. An improvised weapon includes any object you can wield in one or two hands, such as broken glass, a table leg, a frying pan, a wagon wheel, or a dead goblin.
 
-<tr class="even">
+Often, an improvised weapon is similar to an actual weapon and can be treated as such. For example, a table leg is akin to a club. At the GM's option, a character proficient with a weapon can use a similar object as if it were that weapon and use his or her proficiency bonus.
 
-<td><a href="[/wiki/5e_SRD:Dagger](https://www.dandwiki.com/wiki/5e_SRD:Dagger)" title="5e SRD:Dagger">Dagger</a></td>
+An object that bears no resemblance to a weapon deals 1d4 damage (the GM assigns a damage type appropriate to the object). If a character uses a ranged weapon to make a melee attack, or throws a melee weapon that does not have the thrown property, it also deals 1d4 damage. An improvised thrown weapon has a normal range of 20 feet and a long range of 60 feet.
 
-<td style="text-align: left;">2 gp
+#### Silvered Weapons
 
-</td>
+Some monsters that have immunity or resistance to nonmagical weapons are susceptible to silver weapons, so cautious adventurers invest extra coin to plate their weapons with silver. You can silver a single weapon or ten pieces of ammunition for 100 gp. This cost represents not only the price of the silver, but the time and expertise needed to add silver to the weapon without making it less effective.
 
-<td>1d4 piercing
+#### Special Weapons
 
-</td>
+Weapons with special rules are described here.
 
-<td>1 lb.
+***Lance***. You have disadvantage when you use a lance to attack a target within 5 feet of you. Also, a lance requires two hands to wield when you aren't mounted.
 
-</td>
+***Net***. A Large or smaller creature hit by a net is restrained until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
-<td>Finesse, light, thrown (range 20/60)
+When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
-</td></tr>
+**Table- Weapons**
 
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Greatclub](https://www.dandwiki.com/wiki/5e_SRD:Greatclub)" title="5e SRD:Greatclub">Greatclub</a></td>
-
-<td style="text-align: left;">2 sp
-
-</td>
-
-<td>1d8 bludgeoning
-
-</td>
-
-<td>10 lb.
-
-</td>
-
-<td>Two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Handaxe](https://www.dandwiki.com/wiki/5e_SRD:Handaxe)" title="5e SRD:Handaxe">Handaxe</a></td>
-
-<td style="text-align: left;">5 gp
-
-</td>
-
-<td>1d6 slashing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Light, thrown (range 20/60)
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Javelin](https://www.dandwiki.com/wiki/5e_SRD:Javelin)" title="5e SRD:Javelin">Javelin</a></td>
-
-<td style="text-align: left;">5 sp
-
-</td>
-
-<td>1d6 piercing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Thrown (range 30/120)
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Light_Hammer](https://www.dandwiki.com/wiki/5e_SRD:Light_Hammer)" title="5e SRD:Light Hammer">Light Hammer</a></td>
-
-<td style="text-align: left;">2 sp
-
-</td>
-
-<td>1d4 bludgeoning
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Light, thrown (range 20/60)
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Mace](https://www.dandwiki.com/wiki/5e_SRD:Mace)" title="5e SRD:Mace">Mace</a></td>
-
-<td style="text-align: left;">5 gp
-
-</td>
-
-<td>1d6 bludgeoning
-
-</td>
-
-<td>4 lb.
-
-</td>
-
-<td>&#8212;
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Quarterstaff](https://www.dandwiki.com/wiki/5e_SRD:Quarterstaff)" title="5e SRD:Quarterstaff">Quarterstaff</a></td>
-
-<td style="text-align: left;">2 sp
-
-</td>
-
-<td>1d6 bludgeoning
-
-</td>
-
-<td>4 lb.
-
-</td>
-
-<td>Versatile (1d8)
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Sickle](https://www.dandwiki.com/wiki/5e_SRD:Sickle)" title="5e SRD:Sickle">Sickle</a></td>
-
-<td style="text-align: left;">1 gp
-
-</td>
-
-<td>1d4 slashing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Light
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Spear](https://www.dandwiki.com/wiki/5e_SRD:Spear)" title="5e SRD:Spear">Spear</a></td>
-
-<td style="text-align: left;">1 gp
-
-</td>
-
-<td>1d6 piercing
-
-</td>
-
-<td>3 lb.
-
-</td>
-
-<td>Thrown (range 20/60), versatile (1d8)
-
-</td></tr></tbody></table>
-
-<table class="5e" width="100%" style="text-align: left;">
-
-<tbody><tr>
-
-<th width="20%" style="text-align: left;"><i><span id="x_2">Simple Ranged Weapons</span></i>
-
-</th>
-
-<th width="10%">Cost
-
-</th>
-
-<th width="20%" style="text-align: left;">Damage
-
-</th>
-
-<th width="10%" style="text-align: left;">Weight
-
-</th>
-
-<th width="40%" style="text-align: left;">Properties
-
-</th></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Crossbow,_Light](https://www.dandwiki.com/wiki/5e_SRD:Crossbow,_Light)" title="5e SRD:Crossbow, Light">Crossbow, Light</a></td>
-
-<td style="text-align: left;">25 gp
-
-</td>
-
-<td>1d8 piercing
-
-</td>
-
-<td>5 lb.
-
-</td>
-
-<td>Ammunition (range 80/320), loading, two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Dart](https://www.dandwiki.com/wiki/5e_SRD:Dart)" title="5e SRD:Dart">Dart</a></td>
-
-<td style="text-align: left;">5 cp
-
-</td>
-
-<td>1d4 piercing
-
-</td>
-
-<td><span style="display:none">0.5</span> <big>&#188;</big> lb.
-
-</td>
-
-<td>Finesse, thrown (range 20/60)
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Shortbow](https://www.dandwiki.com/wiki/5e_SRD:Shortbow)" title="5e SRD:Shortbow">Shortbow</a></td>
-
-<td style="text-align: left;">25 gp
-
-</td>
-
-<td>1d6 piercing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Ammunition (range 80/320), two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Sling](https://www.dandwiki.com/wiki/5e_SRD:Sling)" title="5e SRD:Sling">Sling</a></td>
-
-<td style="text-align: left;">1 sp
-
-</td>
-
-<td>1d4 bludgeoning
-
-</td>
-
-<td>&#8212;
-
-</td>
-
-<td>Ammunition (range 30/120)
-
-</td></tr></tbody></table>
-
-<table class="5e" width="100%" style="text-align: left;">
-
-<tbody><tr>
-
-<th width="20%" style="text-align: left;"><i><span id="x_3">Martial Melee Weapons</span></i>
-
-</th>
-
-<th width="10%">Cost
-
-</th>
-
-<th width="20%" style="text-align: left;">Damage
-
-</th>
-
-<th width="10%" style="text-align: left;">Weight
-
-</th>
-
-<th width="40%" style="text-align: left;">Properties
-
-</th></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Battleaxe](https://www.dandwiki.com/wiki/5e_SRD:Battleaxe)" title="5e SRD:Battleaxe">Battleaxe</a></td>
-
-<td style="text-align: left;">10 gp
-
-</td>
-
-<td>1d8 slashing
-
-</td>
-
-<td>4 lb.
-
-</td>
-
-<td>Versatile (1d10)
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Flail](https://www.dandwiki.com/wiki/5e_SRD:Flail)" title="5e SRD:Flail">Flail</a></td>
-
-<td style="text-align: left;">10 gp
-
-</td>
-
-<td>1d8 bludgeoning
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>&#8212;
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Glaive](https://www.dandwiki.com/wiki/5e_SRD:Glaive)" title="5e SRD:Glaive">Glaive</a></td>
-
-<td style="text-align: left;">20 gp
-
-</td>
-
-<td>1d10 slashing
-
-</td>
-
-<td>6 lb.
-
-</td>
-
-<td>Heavy, reach, two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Greataxe](https://www.dandwiki.com/wiki/5e_SRD:Greataxe)" title="5e SRD:Greataxe">Greataxe</a></td>
-
-<td style="text-align: left;">30 gp
-
-</td>
-
-<td>1d12 slashing
-
-</td>
-
-<td>7 lb.
-
-</td>
-
-<td>Heavy, two-handed
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Greatsword](https://www.dandwiki.com/wiki/5e_SRD:Greatsword)" title="5e SRD:Greatsword">Greatsword</a></td>
-
-<td style="text-align: left;">50 gp
-
-</td>
-
-<td>2d6 slashing
-
-</td>
-
-<td>6 lb.
-
-</td>
-
-<td>Heavy, two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Halberd](https://www.dandwiki.com/wiki/5e_SRD:Halberd)" title="5e SRD:Halberd">Halberd</a></td>
-
-<td style="text-align: left;">20 gp
-
-</td>
-
-<td>1d10 slashing
-
-</td>
-
-<td>6 lb.
-
-</td>
-
-<td>Heavy, reach, two-handed
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Lance](https://www.dandwiki.com/wiki/5e_SRD:Lance)" title="5e SRD:Lance">Lance</a></td>
-
-<td style="text-align: left;">10 gp
-
-</td>
-
-<td>1d12 piercing
-
-</td>
-
-<td>6 lb.
-
-</td>
-
-<td>Reach, special
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Longsword](https://www.dandwiki.com/wiki/5e_SRD:Longsword)" title="5e SRD:Longsword">Longsword</a></td>
-
-<td style="text-align: left;">15 gp
-
-</td>
-
-<td>1d8 slashing
-
-</td>
-
-<td>3 lb.
-
-</td>
-
-<td>Versatile (1d10)
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Maul](https://www.dandwiki.com/wiki/5e_SRD:Maul)" title="5e SRD:Maul">Maul</a></td>
-
-<td style="text-align: left;">10 gp
-
-</td>
-
-<td>2d6 bludgeoning
-
-</td>
-
-<td>10 lb.
-
-</td>
-
-<td>Heavy, two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Morningstar](https://www.dandwiki.com/wiki/5e_SRD:Morningstar)" title="5e SRD:Morningstar">Morningstar</a></td>
-
-<td style="text-align: left;">15 gp
-
-</td>
-
-<td>1d8 piercing
-
-</td>
-
-<td>4 lb.
-
-</td>
-
-<td>&#8212;
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Pike](https://www.dandwiki.com/wiki/5e_SRD:Pike)" title="5e SRD:Pike">Pike</a></td>
-
-<td style="text-align: left;">5 gp
-
-</td>
-
-<td>1d10 piercing
-
-</td>
-
-<td>18 lb.
-
-</td>
-
-<td>Heavy, reach, two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Rapier](https://www.dandwiki.com/wiki/5e_SRD:Rapier)" title="5e SRD:Rapier">Rapier</a></td>
-
-<td style="text-align: left;">25 gp
-
-</td>
-
-<td>1d8 piercing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Finesse
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Scimitar](https://www.dandwiki.com/wiki/5e_SRD:Scimitar)" title="5e SRD:Scimitar">Scimitar</a></td>
-
-<td style="text-align: left;">25 gp
-
-</td>
-
-<td>1d6 slashing
-
-</td>
-
-<td>3 lb.
-
-</td>
-
-<td>Finesse, light
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Shortsword](https://www.dandwiki.com/wiki/5e_SRD:Shortsword)" title="5e SRD:Shortsword">Shortsword</a></td>
-
-<td style="text-align: left;">10 gp
-
-</td>
-
-<td>1d6 piercing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Finesse, light
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Trident](https://www.dandwiki.com/wiki/5e_SRD:Trident)" title="5e SRD:Trident">Trident</a></td>
-
-<td style="text-align: left;">5 gp
-
-</td>
-
-<td>1d6 piercing
-
-</td>
-
-<td>4 lb.
-
-</td>
-
-<td>Thrown (range 20/60), versatile (1d8)
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:War_Pick](https://www.dandwiki.com/wiki/5e_SRD:War_Pick)" title="5e SRD:War Pick">War Pick</a></td>
-
-<td style="text-align: left;">5 gp
-
-</td>
-
-<td>1d8 piercing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>&#8212;
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Warhammer](https://www.dandwiki.com/wiki/5e_SRD:Warhammer)" title="5e SRD:Warhammer">Warhammer</a></td>
-
-<td style="text-align: left;">15 gp
-
-</td>
-
-<td>1d8 bludgeoning
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Versatile (1d10)
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Whip](https://www.dandwiki.com/wiki/5e_SRD:Whip)" title="5e SRD:Whip">Whip</a></td>
-
-<td style="text-align: left;">2 gp
-
-</td>
-
-<td>1d4 slashing
-
-</td>
-
-<td>3 lb.
-
-</td>
-
-<td>Finesse, reach
-
-</td></tr></tbody></table>
-
-<table class="5e" width="100%" style="text-align: left;">
-
-<tbody><tr>
-
-<th width="20%" style="text-align: left;"><i><span id="x_4">Martial Ranged Weapons</span></i>
-
-</th>
-
-<th width="10%">Cost
-
-</th>
-
-<th width="20%" style="text-align: left;">Damage
-
-</th>
-
-<th width="10%" style="text-align: left;">Weight
-
-</th>
-
-<th width="40%" style="text-align: left;">Properties
-
-</th></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Blowgun](https://www.dandwiki.com/wiki/5e_SRD:Blowgun)" title="5e SRD:Blowgun">Blowgun</a></td>
-
-<td style="text-align: left;">10 gp
-
-</td>
-
-<td>1 piercing
-
-</td>
-
-<td>1 lb.
-
-</td>
-
-<td>Ammunition (range 25/100), loading
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Crossbow,_Hand](https://www.dandwiki.com/wiki/5e_SRD:Crossbow,_Hand)" title="5e SRD:Crossbow, Hand">Crossbow, Hand</a></td>
-
-<td style="text-align: left;">75 gp
-
-</td>
-
-<td>1d6 piercing
-
-</td>
-
-<td>3 lb.
-
-</td>
-
-<td>Ammunition (range 30/120), light, loading
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Crossbow,_Heavy](https://www.dandwiki.com/wiki/5e_SRD:Crossbow,_Heavy)" title="5e SRD:Crossbow, Heavy">Crossbow, Heavy</a></td>
-
-<td style="text-align: left;">50 gp
-
-</td>
-
-<td>1d10 piercing
-
-</td>
-
-<td>18 lb.
-
-</td>
-
-<td>Ammunition (range 100/400), heavy, loading, two-handed
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Longbow](https://www.dandwiki.com/wiki/5e_SRD:Longbow)" title="5e SRD:Longbow">Longbow</a></td>
-
-<td style="text-align: left;">50 gp
-
-</td>
-
-<td>1d8 piercing
-
-</td>
-
-<td>2 lb.
-
-</td>
-
-<td>Ammunition (range 150/600), heavy, two-handed
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Net](https://www.dandwiki.com/wiki/5e_SRD:Net)" title="5e SRD:Net">Net</a></td>
-
-<td style="text-align: left;">1 gp
-
-</td>
-
-<td>&#8212;
-
-</td>
-
-<td>3 lb.
-
-</td>
-
-<td>Special, thrown (range 5/15)
-
-</td></tr></tbody></table>
-
-<table class="5e" width="100%" style="text-align: left;">
-
-<tbody><tr>
-
-<th width="20%" style="text-align: left;"><i><span id="x_5">Ammunition</span></i>
-
-</th>
-
-<th width="10%">Cost
-
-</th>
-
-<th width="20%" style="text-align: left;">Weight
-
-</th></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Arrows_(20)](https://www.dandwiki.com/wiki/5e_SRD:Arrows_(20))" title="5e SRD:Arrows (20)">Arrows (20)</a></td>
-
-<td style="text-align: left;">1 gp
-
-</td>
-
-<td>1 lb.
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Blowgun_Needles_(50)](https://www.dandwiki.com/wiki/5e_SRD:Blowgun_Needles_(50))" title="5e SRD:Blowgun Needles (50)">Blowgun Needles (50)</a></td>
-
-<td style="text-align: left;">1 gp
-
-</td>
-
-<td>1 lb.
-
-</td></tr>
-
-<tr class="odd">
-
-<td><a href="[/wiki/5e_SRD:Crossbow_Bolts_(20)](https://www.dandwiki.com/wiki/5e_SRD:Crossbow_Bolts_(20))" title="5e SRD:Crossbow Bolts (20)">Crossbow Bolts (20)</a></td>
-
-<td style="text-align: left;">1 gp
-
-</td>
-
-<td>1<span style="display:none">0.5</span> <big>&#189;</big> lb.
-
-</td></tr>
-
-<tr class="even">
-
-<td><a href="[/wiki/5e_SRD:Sling_Bullets_(20)](https://www.dandwiki.com/wiki/5e_SRD:Sling_Bullets_(20))" title="5e SRD:Sling Bullets (20)">Sling Bullets (20)</a></td>
-
-<td style="text-align: left;">4 cp
-
-</td>
-
-<td>1<span style="display:none">0.5</span> <big>&#189;</big> lb.
-
-</td></tr></tbody></table>
+| Name                       | Cost  | Damage          | Weight  | Properties                                             |
+|----------------------------|-------|-----------------|---------|--------------------------------------------------------|
+| **Simple Melee Weapons**   |       |                 |         |                                                        |
+| Club                       | 1 sp  | 1d4 bludgeoning | 2 lb.   | Light                                                  |
+| Dagger                     | 2 gp  | 1d4 piercing    | 1 lb.   | Finesse, light, thrown (range 20/60)                   |
+| Greatclub                  | 2 sp  | 1d8 bludgeoning | 10 lb.  | Two-handed                                             |
+| Handaxe                    | 5 gp  | 1d6 slashing    | 2 lb.   | Light, thrown (range 20/60)                            |
+| Javelin                    | 5 sp  | 1d6 piercing    | 2 lb.   | Thrown (range 30/120)                                  |
+| Light hammer               | 2 gp  | 1d4 bludgeoning | 2 lb.   | Light, thrown (range 20/60)                            |
+| Mace                       | 5 gp  | 1d6 bludgeoning | 4 lb.   | -                                                      |
+| Quarterstaff               | 2 sp  | 1d6 bludgeoning | 4 lb.   | Versatile (1d8)                                        |
+| Sickle                     | 1 gp  | 1d4 slashing    | 2 lb.   | Light                                                  |
+| Spear                      | 1 gp  | 1d6 piercing    | 3 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| **Simple Ranged Weapons**  |       |                 |         |                                                        |
+| Crossbow, light            | 25 gp | 1d8 piercing    | 5 lb.   | Ammunition (range 80/320), loading, two-handed         |
+| Dart                       | 5 cp  | 1d4 piercing    | 1/4 lb. | Finesse, thrown (range 20/60)                          |
+| Shortbow                   | 25 gp | 1d6 piercing    | 2 lb.   | Ammunition (range 80/320), two-handed                  |
+| Sling                      | 1 sp  | 1d4 bludgeoning | -       | Ammunition (range 30/120)                              |
+| **Martial Melee Weapons**  |       |                 |         |                                                        |
+| Battleaxe                  | 10 gp | 1d8 slashing    | 4 lb.   | Versatile (1d10)                                       |
+| Flail                      | 10 gp | 1d8 bludgeoning | 2 lb.   | -                                                      |
+| Glaive                     | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
+| Greataxe                   | 30 gp | 1d12 slashing   | 7 lb.   | Heavy, two-handed                                      |
+| Greatsword                 | 50 gp | 2d6 slashing    | 6 lb.   | Heavy, two-handed                                      |
+| Halberd                    | 20 gp | 1d10 slashing   | 6 lb.   | Heavy, reach, two-handed                               |
+| Lance                      | 10 gp | 1d12 piercing   | 6 lb.   | Reach, special                                         |
+| Longsword                  | 15 gp | 1d8 slashing    | 3 lb.   | Versatile (1d10)                                       |
+| Maul                       | 10 gp | 2d6 bludgeoning | 10 lb.  | Heavy, two-handed                                      |
+| Morningstar                | 15 gp | 1d8 piercing    | 4 lb.   | -                                                      |
+| Pike                       | 5 gp  | 1d10 piercing   | 18 lb.  | Heavy, reach, two-handed                               |
+| Rapier                     | 25 gp | 1d8 piercing    | 2 lb.   | Finesse                                                |
+| Scimitar                   | 25 gp | 1d6 slashing    | 3 lb.   | Finesse, light                                         |
+| Shortsword                 | 10 gp | 1d6 piercing    | 2 lb.   | Finesse, light                                         |
+| Trident                    | 5 gp  | 1d6 piercing    | 4 lb.   | Thrown (range 20/60), versatile (1d8)                  |
+| War pick                   | 5 gp  | 1d8 piercing    | 2 lb.   | -                                                      |
+| Warhammer                  | 15 gp | 1d8 bludgeoning | 2 lb.   | Versatile (1d10)                                       |
+| Whip                       | 2 gp  | 1d4 slashing    | 3 lb.   | Finesse, reach                                         |
+| **Martial Ranged Weapons** |       |                 |         |                                                        |
+| Blowgun                    | 10 gp | 1 piercing      | 1 lb.   | Ammunition (range 25/100), loading                     |
+| Crossbow, hand             | 75 gp | 1d6 piercing    | 3 lb.   | Ammunition (range 30/120), light, loading              |
+| Crossbow, heavy            | 50 gp | 1d10 piercing   | 18 lb.  | Ammunition (range 100/400), heavy, loading, two-handed |
+| Longbow                    | 50 gp | 1d8 piercing    | 2 lb.   | Ammunition (range 150/600), heavy, two-handed          |
+| Net                        | 1 gp  | -               | 3 lb.   | Special, thrown (range 5/15)                           |
+|                            |       |                 |         |                                                        |

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0f0f6d174b57a7e",
+        "id": "39c85011fbfdd6ec",
         "type": "tabs",
         "children": [
           {
-            "id": "9249c25b77b691ec",
+            "id": "4873e38af04c489c",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -173,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9249c25b77b691ec",
+  "active": "4873e38af04c489c",
   "lastOpenFiles": [
-    "Dnd/Damage types.md",
+    "Dnd/Wiki/Equipment/Expenses.md",
     "DM Screen.md",
-    "Dnd/Magic Items.md",
-    "Dnd/Poisons.md",
-    "Dnd/Trade goods.md",
-    "Dnd/Wiki/Equipment/Mounts and Vehicles.md",
-    "Dnd/Quick reference.md",
-    "Dnd/Tools.md",
-    "Dnd/Wiki/Equipment/Adventuring gear.md",
-    "Dnd/Wiki/Equipment/Weapons.md"
+    "Dnd/Wiki/Equipment/Coinage.md",
+    "Dnd/Wiki/Equipment/Poisons.md",
+    "Dnd/Wiki/Equipment/Tools.md",
+    "Dnd/Wiki/Equipment/Weapons.md",
+    "Dnd/Wiki/Equipment/Transportation.md",
+    "Dnd/Wiki/Equipment/Trade goods.md",
+    "Dnd/Wiki/Equipment/Selling Treasure.md",
+    "Dnd/Wiki/Equipment/Armor.md"
   ]
 }

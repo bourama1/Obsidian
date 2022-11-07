@@ -1,0 +1,31 @@
+### Dropping to 0 Hit Points
+
+When you drop to 0 hit points, you either die outright or fall unconscious, as explained in the following sections.
+
+### [](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Gameplay/Combat.md#instant-death)Instant Death
+
+Massive damage can kill you instantly. When damage reduces you to 0 hit points and there is damage remaining, you die if the remaining damage equals or exceeds your hit point maximum.
+
+For example, a cleric with a maximum of 12 hit points currently has 6 hit points. If she takes 18 damage from an attack, she is reduced to 0 hit points, but 12 damage remains. Because the remaining damage equals her hit point maximum, the cleric dies.
+
+### [](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Gameplay/Combat.md#falling-unconscious)Falling Unconscious
+
+If damage reduces you to 0 hit points and fails to kill you, you fall unconscious (see appendix ##). This unconsciousness ends if you regain any hit points.
+
+### [](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Gameplay/Combat.md#death-saving-throws)Death Saving Throws
+
+Whenever you start your turn with 0 hit points, you must make a special saving throw, called a death saving throw, to determine whether you creep closer to death or hang onto life. Unlike other saving throws, this one isn't tied to any ability score. You are in the hands of fate now, aided only by spells and features that improve your chances of succeeding on a saving throw.
+
+Roll a d20. If the roll is 10 or higher, you succeed. Otherwise, you fail. A success or failure has no effect by itself. On your third success, you become stable (see below). On your third failure, you die. The successes and failures don't need to be consecutive; keep track of both until you collect three of a kind. The number of both is reset to zero when you regain any hit points or become stable.
+
+_**Rolling 1 or 20**_. When you make a death saving throw and roll a 1 on the d20, it counts as two failures. If you roll a 20 on the d20, you regain 1 hit point.
+
+_**Damage at 0 Hit Points**_. If you take any damage while you have 0 hit points, you suffer a death saving throw failure. If the damage is from a critical hit, you suffer two failures instead. If the damage equals or exceeds your hit point maximum, you suffer instant death.
+
+#### [](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Gameplay/Combat.md#stabilizing-a-creature)Stabilizing a Creature
+
+The best way to save a creature with 0 hit points is to heal it. If healing is unavailable, the creature can at least be stabilized so that it isn't killed by a failed death saving throw.
+
+You can use your action to administer first aid to an unconscious creature and attempt to stabilize it, which requires a successful DC 10 Wisdom (Medicine) check.
+
+A **stable** creature doesn't make death saving throws, even though it has 0 hit points, but it does remain unconscious. The creature stops being stable, and must start making death saving throws again, if it takes any damage. A stable creature that isn't healed regains 1 hit point after 1d4 hours.
