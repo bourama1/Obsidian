@@ -1,4 +1,17 @@
-## Day dice: 1d12 + 1d8
+## Chance dice:  ``dice:1d20``
+
+| Roll  | Chance | Day/Night | Place |
+| ----- | ------ | --------- | ----- |
+| 1-17  | no     | Day       | Road  |
+| 18-20 | yes    | Day       | Road  |
+| 1-14  | no     | Day       | Wild  |
+| 15-20 | yes    | Day       | Wild  |
+| 1-14  | no     | Night     | Road  |
+| 15-20 | yes    | Night     | Road  |
+| 1-10  | no     | Night     | Wild  |
+| 11-20 | yes    | Night     | Wild  |
+
+## Day dice: ``dice: 1d12 + 1d8``
 
 | Rool | Creature            | Numbers         |
 | ---- | ------------------- | --------------- |
@@ -22,7 +35,7 @@
 | 19   | [[Strasak]]                    | `dice: 1d6`     |
 | 20   | [[Mstitel]]             | 1               |
 
-## Night dice: 1d12 + 1d8
+## Night dice: ``dice: 1d12 + 1d8``
 
 | Rool | Creature            | Numbers         |
 | ---- | ------------------- | --------------- |
@@ -47,16 +60,4 @@
 | 20   | [[Mstitel]]         | 1               |
 
 
-## Chance dice: 1d20
-
-| Roll  | Chance | Day/Night | Place |
-| ----- | ------ | --------- | ----- |
-| 1-17  | no     | Day       | Road  |
-| 18-20 | yes    | Day       | Road  |
-| 1-14  | no     | Day       | Wild  |
-| 15-20 | yes    | Day       | Wild  |
-| 1-14  | no     | Night     | Road  |
-| 15-20 | yes    | Night     | Road  |
-| 1-10  | no     | Night     | Wild  |
-| 11-20 | yes    | Night     | Wild  |
 

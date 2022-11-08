@@ -53,7 +53,7 @@ kanban-plugin: basic
 - [ ] [[Transportation]]
 - [ ] [[Trade goods]]
 - [ ] [[Poisons]]
-- [ ] [[Magic Items]]
+- [ ] [[Treasure]]
 - [ ] [[Expenses]]
 
 
@@ -64,6 +64,11 @@ kanban-plugin: basic
 - [ ] [[Enviroment]]
 - [ ] [[Inspiration]]
 - [ ] [[Languages]]
+
+
+## Campaings
+
+- [ ] [[Curse]]
 
 
 

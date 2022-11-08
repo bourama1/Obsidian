@@ -1,7 +1,6 @@
 [
   "obsidian-banners",
   "obsidian-dice-roller",
-  "initiative-tracker",
   "markdown-prettifier",
   "obsidian-git",
   "obsidian-leaflet-plugin",
@@ -15,5 +14,11 @@
   "obsidian-style-settings",
   "image-window",
   "obsidian-kanban",
-  "dataview"
+  "dataview",
+  "buttons",
+  "find-unlinked-files",
+  "folder-note-plugin",
+  "homepage",
+  "initiative-tracker",
+  "obsidian-pandoc"
 ]
