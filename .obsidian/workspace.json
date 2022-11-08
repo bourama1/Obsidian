@@ -8,12 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5d5632e3d67a06ba",
+            "id": "93d2646126a969c6",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf"
+              }
+            }
+          },
+          {
+            "id": "523f1479dbd705e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf"
               }
             }
           },
@@ -159,17 +171,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "5d5632e3d67a06ba",
+  "active": "93d2646126a969c6",
   "lastOpenFiles": [
+    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
     "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+    "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
     "Dnd/Campaings/Curse/00. Hooks/Mlha.md",
+    "Dnd/Campaings/Curse/Curse.md",
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Dolní patra.jpg",
+    "DM Screen.md",
     "Dnd/Campaings/Curse/Players/Libor.md",
     "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
-    "Dnd/Campaings/Curse/Curse.md",
-    "DM Screen.md",
-    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
-    "Dnd/Campaings/Curse/00. Hooks/ForRealms.png",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Dům smrti.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Pasti v K73.jpg"
+    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md"
   ]
 }
