@@ -8,36 +8,22 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2360b6c8efe9802a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "867b3605f46d230b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ea2d4003df0efa6b",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf"
+                "file": "DM Screen.md"
+              }
+            }
+          },
+          {
+            "id": "52d2765014593756",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DM Screen.md"
               }
             }
           }
@@ -108,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -177,24 +163,24 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 388.5,
     "collapsed": true
   },
-  "active": "867b3605f46d230b",
+  "active": "52d2765014593756",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+    "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
     "Dnd/Campaings/Curse/00. Hooks/Mlha.md",
     "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
-    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
     "Dnd/Campaings/Curse/00. Hooks/ForRealms.png",
-    "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
     "Dnd/Campaings/Curse/Mapy/Hráčské/Dům smrti.jpg",
     "Dnd/Campaings/Curse/Mapy/Hráčské/Pasti v K73.jpg",
     "Dnd/Campaings/Curse/Mapy/Hráčské/Vinařství U Mága.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Vesnice Barovie.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Vallaki.jpg"
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Vesnice Barovie.jpg"
   ]
 }

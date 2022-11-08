@@ -7,7 +7,7 @@ Kočovníci jsou utábořeni na kopci za branami Brodu Dýky, blízko silnice. S
 > [!important]
 > Přichází tma a vy vidíte tucet (12) mužů a žen, shromážděných kolem praskající vatry. Skupinka je v dobrém rozmaru. Někteří kolem ohně zpívají a tančí, zatímco jiní nacházejí štěstí v placatkách a měších na víno. Vedle jsou ledabyle postavené tři maringotky. K blízkému stromu je přivázáno půl tuctu tažných koní s pestrými přehozy s přívěsky a střapci.
 
-Tito muži a ženy jsou Vistáni a Brod Dýky je nezajímá. Jejich úkolem je postavy bezpečně dopravit do Barovie. Vůdcem skupiny je Stanimír 
+Tito muži a ženy jsou Vistáni a Brod Dýky je nezbajímá. Jejich úkolem je postavy bezpečně dopravit do Barovie. Vůdcem skupiny je Stanimír 
 ```statblock
 monster: Stanimir
 ```
