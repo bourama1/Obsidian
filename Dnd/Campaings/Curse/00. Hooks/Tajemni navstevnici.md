@@ -1,3 +1,7 @@
+---
+banner: "![[Vistani Camp wagons.jpg]]"
+banner_y: 0.696
+---
 > [!important] 
 > Vévodkyně Morwen z Brodu Dýky pozvala na večeři hosty – a vy jste zváni. V Brodu Dýky nejste žádnými cizinci. Přispěchali jste městu na pomoc při více příležitostech a lady Morwen berete jako přítelkyni a mecenáše. 
 > Cestou k pevnosti fouká ulicemi studený podzimní vánek. Hodujete na horké pikantní polévce, doměkka upečeném bažantovi a vidíte, že vévodkyně není ve své kůži. Když se rozmluví o svých obavách ze skupiny neotesaných vandráků, utábořených za městem, na setkání padne tísnivá atmosféra. Nejprve vypadali neškodní, ale Morwen dostává zprávy, že začali obtěžovat občany města a další návštěvníky. Vyžadují peníze, víno a vyhrožují kletbami všem, kteří nezaplatí. Včera vévodkyně několika strážným nařídila, aby tajemné návštěvníky vyhnali, ale nepovedlo se. Po návratu se o návštěvnících začali vyjadřovat soucitně. Jako by stráže byly magicky zmámené. Morwen netouží po ozbrojeném konfliktu, ale chce kočkovníkům poslat ráznou výzvu, a požádá vás o její doručení jejím jménem. „Pokud neodejdou před rozedněním,“ říká, „spálím jejich vozy na prach. Doructe jim tuto zpravu ihned po veceri prosim.“
@@ -29,3 +33,5 @@ Pokud postavy souhlasí, že si Stanimírův příběh vyslechnou, pozve je k oh
 
 Vistáni odmítnou říct jméno svého „strašlivého pána“ a nesdělí žádné další informace. Vyžadují-li postavy další podrobnosti, Vistáni odpoví: „Madam Eva má odpovědi, které hledáte.“
 Pokud postavy souhlasí, že Vistány doprovodí, ti s nimi pojedou po Obchodní cestě. Po několika dnech klidné cesty pohltí karavanu ravenloftská mlha, která postavy i Vistány přenese do Barovie. Vistáni pak družinu bezpečně dovezou ke své vůdkyni madam Evě v oblasti G (viz kapitola 2). Postavy přijedou do oblasti A a cestou do tábora madam Evy projedou oblastmi B, E a F. Zbaví-li se postavy svých vistánských hostitelů, než do tábora dojedou, musí se o sebe postarat samy. Odmítnou-li postavy Stanimírovo pozvání, Vistáni jsou zklamaní, ale odjedou, jak slíbili. O den nebo dva později použij k přesunu postav do Barovie námět „Plíživá mlha“ nebo jeho variaci.
+
+![[flame.png]]

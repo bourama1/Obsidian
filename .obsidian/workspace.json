@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea2d4003df0efa6b",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DM Screen.md"
-              }
-            }
-          },
-          {
-            "id": "52d2765014593756",
+            "id": "5d5632e3d67a06ba",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -27,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,17 +159,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "52d2765014593756",
+  "active": "5d5632e3d67a06ba",
   "lastOpenFiles": [
-    "DM Screen.md",
     "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
-    "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
     "Dnd/Campaings/Curse/00. Hooks/Mlha.md",
+    "Dnd/Campaings/Curse/Players/Libor.md",
+    "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
+    "Dnd/Campaings/Curse/Curse.md",
+    "DM Screen.md",
     "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
     "Dnd/Campaings/Curse/00. Hooks/ForRealms.png",
     "Dnd/Campaings/Curse/Mapy/Hráčské/Dům smrti.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Pasti v K73.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Vinařství U Mága.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Vesnice Barovie.jpg"
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Pasti v K73.jpg"
   ]
 }
