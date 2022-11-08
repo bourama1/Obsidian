@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2de71a8c6726fd79",
+        "id": "c822a346cb6f4199",
         "type": "tabs",
         "children": [
           {
-            "id": "93d2646126a969c6",
+            "id": "15dfe02ee178a725",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf"
-              }
-            }
-          },
-          {
-            "id": "523f1479dbd705e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
-                "mode": "source",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           }
@@ -95,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -171,17 +159,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "93d2646126a969c6",
+  "active": "15dfe02ee178a725",
   "lastOpenFiles": [
-    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
     "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
     "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
-    "Dnd/Campaings/Curse/00. Hooks/Mlha.md",
+    "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md",
     "Dnd/Campaings/Curse/Curse.md",
     "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Dolní patra.jpg",
     "DM Screen.md",
     "Dnd/Campaings/Curse/Players/Libor.md",
-    "Dnd/Campaings/Curse/00. Hooks/Tajemni navstevnici.md",
+    "Dnd/Campaings/Curse/00. Hooks/1. Tajemni navstevnici.md",
     "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md"
   ]
 }
