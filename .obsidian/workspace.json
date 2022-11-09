@@ -8,13 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "15dfe02ee178a725",
+            "id": "6076f61fd15c0ee7",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DM Screen.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Screen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -159,17 +153,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "15dfe02ee178a725",
+  "active": "6076f61fd15c0ee7",
   "lastOpenFiles": [
+    "Dnd/Campaings/Curse/00. Hooks/Mapa_SZFearun_HR.jpg",
+    "DM Screen.md",
+    "Dnd/Wiki/Online Tools.md",
+    "Dnd/Adventuring gear.md",
+    "Dnd/Wiki/Gamemastering/Madness.md",
+    "Dnd/Wiki/Gameplay/Languages.md",
     "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
     "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
     "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
-    "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md",
-    "Dnd/Campaings/Curse/Curse.md",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Dolní patra.jpg",
-    "DM Screen.md",
-    "Dnd/Campaings/Curse/Players/Libor.md",
-    "Dnd/Campaings/Curse/00. Hooks/1. Tajemni navstevnici.md",
-    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md"
+    "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md"
   ]
 }
