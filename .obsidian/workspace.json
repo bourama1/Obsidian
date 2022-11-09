@@ -11,8 +11,10 @@
             "id": "6076f61fd15c0ee7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf"
+              }
             }
           },
           {
@@ -155,15 +161,15 @@
   },
   "active": "6076f61fd15c0ee7",
   "lastOpenFiles": [
+    "Dnd/PDF Rules/Xanathar-kouzla.pdf",
+    "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
+    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+    "Dnd/PDF Rules/PHB_5e_sahy.pdf",
+    "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
     "Dnd/Campaings/Curse/00. Hooks/Mapa_SZFearun_HR.jpg",
     "DM Screen.md",
     "Dnd/Wiki/Online Tools.md",
     "Dnd/Adventuring gear.md",
-    "Dnd/Wiki/Gamemastering/Madness.md",
-    "Dnd/Wiki/Gameplay/Languages.md",
-    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
-    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
-    "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
-    "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md"
+    "Dnd/Wiki/Gamemastering/Madness.md"
   ]
 }
