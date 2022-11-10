@@ -11,9 +11,9 @@
             "id": "6076f61fd15c0ee7",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf"
+                "file": "DM Screen.md"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/PDF Rules/Xanatharuv-pruvodce-vsim.pdf"
+                "file": "DM Screen.md"
               }
             }
           },
