@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "268af573af9def69",
+        "id": "880ab8a797a2e6d9",
         "type": "tabs",
         "children": [
           {
-            "id": "c717f16481cd98d2",
+            "id": "5995c1b0b9b156f6",
             "type": "leaf",
             "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {}
+              "type": "kanban",
+              "state": {
+                "file": "DM Screen.md"
+              }
             }
           }
         ]
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DM Screen.md"
+              }
             }
           },
           {
@@ -153,17 +159,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "c717f16481cd98d2",
+  "active": "5995c1b0b9b156f6",
   "lastOpenFiles": [
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Země Barovie.jpg",
+    "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
+    "Dnd/Campaings/Curse/01a.Barovie/01a.Barovie.md",
+    "Templates/3_Markdown/Insert Map (Leaflet).md",
     "DM Screen.md",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Dům smrti.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Doupě vlkodlaků.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Berez.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Horní patra.jpg",
-    "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Dolní patra.jpg",
-    "Dnd/Wiki/Spells/Spell List.md",
-    "2022-11-12.md",
-    "Dnd/Wiki/Spells/Fireball.md"
+    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
+    "Dnd/Campaings/Curse/00. Hooks/1. Tajemni navstevnici.md",
+    "Templates/3_Markdown/Template - Map.md",
+    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
+    "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md",
+    "Vistani Camp wagons.md"
   ]
 }

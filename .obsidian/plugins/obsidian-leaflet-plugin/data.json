@@ -1,9 +1,100 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "Faerun_Map",
+      "lastAccessed": 1668252953395,
+      "markers": [
+        {
+          "id": "ID_291b8958faea",
+          "type": "default",
+          "loc": [
+            1077.1887927900568,
+            1376.2065728843183
+          ],
+          "link": "1. Tajemni navstevnici",
+          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a39faaa7b3a",
+          "type": "default",
+          "loc": [
+            1061.6324436039529,
+            1409.0870382094927
+          ],
+          "link": "2. Mlha",
+          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
+        "Templates/3_Markdown/Insert Map (Leaflet).md",
+        "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md"
+      ]
+    },
+    {
+      "id": "leaflet-map",
+      "lastAccessed": 1668252975880,
+      "markers": [
+        {
+          "id": "ID_3af8db3b298a",
+          "type": "default",
+          "loc": [
+            -5.1942901611328125,
+            9.7587890625
+          ],
+          "link": "1. Tajemni navstevnici",
+          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_69698b29b9d8",
+          "type": "default",
+          "loc": [
+            -5.349517822265625,
+            10.041015625
+          ],
+          "link": "2. Mlha",
+          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
-    "color": "#dddddd",
+    "color": "#ff0000",
     "transform": {
       "size": 6,
       "x": 0,
