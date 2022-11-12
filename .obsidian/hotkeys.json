@@ -6,14 +6,5 @@
       ],
       "key": "T"
     }
-  ],
-  "homepage:open-homepage": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
-  "workspace:new-tab": []
+  ]
 }

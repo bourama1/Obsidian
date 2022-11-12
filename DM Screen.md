@@ -60,10 +60,11 @@ kanban-plugin: basic
 ## Gameplay
 
 - [ ] [[Travel]]
-- [ ] [[Special Types of Movement]]
 - [ ] [[Enviroment]]
 - [ ] [[Inspiration]]
 - [ ] [[Languages]]
+- [ ] [[Special Types of Movement]]
+- [ ] [[Spell List]]
 
 
 ## Campaings

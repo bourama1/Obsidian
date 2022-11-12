@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6114b4b55dc50d4a",
+        "id": "268af573af9def69",
         "type": "tabs",
         "children": [
           {
-            "id": "4d14b66d15dd8328",
+            "id": "c717f16481cd98d2",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DM Screen.md"
-              }
+              "type": "obsidian-leaflet-map-view",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DM Screen.md"
-              }
+              "state": {}
             }
           },
           {
@@ -152,24 +146,24 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 388.5,
     "collapsed": true
   },
-  "active": "4d14b66d15dd8328",
+  "active": "c717f16481cd98d2",
   "lastOpenFiles": [
-    "Dnd/Wiki/Classes/Cleric.md",
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Země Barovie.jpg",
     "DM Screen.md",
-    "Dnd/PDF Rules/PHB_5e_sahy.pdf",
-    "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
-    "Dnd/PDF Rules/Xanathar-kouzla.pdf",
-    "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
-    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
-    "Dnd/Campaings/Curse/00. Hooks/Mapa_SZFearun_HR.jpg",
-    "Dnd/Wiki/Online Tools.md",
-    "Dnd/Adventuring gear.md"
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Dům smrti.jpg",
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Doupě vlkodlaků.jpg",
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Berez.jpg",
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Horní patra.jpg",
+    "Dnd/Campaings/Curse/Mapy/Hráčské/Argynvostholt_Dolní patra.jpg",
+    "Dnd/Wiki/Spells/Spell List.md",
+    "2022-11-12.md",
+    "Dnd/Wiki/Spells/Fireball.md"
   ]
 }
