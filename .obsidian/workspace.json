@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c822a346cb6f4199",
+        "id": "6114b4b55dc50d4a",
         "type": "tabs",
         "children": [
           {
-            "id": "6076f61fd15c0ee7",
+            "id": "4d14b66d15dd8328",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -159,17 +159,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "6076f61fd15c0ee7",
+  "active": "4d14b66d15dd8328",
   "lastOpenFiles": [
+    "Dnd/Wiki/Classes/Cleric.md",
+    "DM Screen.md",
     "Dnd/PDF Rules/PHB_5e_sahy.pdf",
     "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
-    "DM Screen.md",
     "Dnd/PDF Rules/Xanathar-kouzla.pdf",
     "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Campaings/Curse/00. Hooks/Mapa_SZFearun_HR.jpg",
     "Dnd/Wiki/Online Tools.md",
-    "Dnd/Adventuring gear.md",
-    "Dnd/Wiki/Gamemastering/Madness.md"
+    "Dnd/Adventuring gear.md"
   ]
 }
