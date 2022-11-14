@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "880ab8a797a2e6d9",
+        "id": "76a1ab9bb51cfa61",
         "type": "tabs",
         "children": [
           {
-            "id": "5995c1b0b9b156f6",
+            "id": "ad2704037a04942b",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -159,17 +159,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "5995c1b0b9b156f6",
+  "active": "ad2704037a04942b",
   "lastOpenFiles": [
+    "Untitled.md",
+    "{{name}}.webp.md",
+    "DM Screen.md",
+    "Dnd/Campaings/Curse/00. Hooks/1. Tajemni navstevnici.md",
+    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
     "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
     "Dnd/Campaings/Curse/01a.Barovie/01a.Barovie.md",
     "Templates/3_Markdown/Insert Map (Leaflet).md",
-    "DM Screen.md",
-    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
-    "Dnd/Campaings/Curse/00. Hooks/1. Tajemni navstevnici.md",
     "Templates/3_Markdown/Template - Map.md",
-    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md",
-    "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md",
-    "Vistani Camp wagons.md"
+    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md"
   ]
 }
