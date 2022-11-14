@@ -181,21 +181,21 @@ Some magic items have charges that must be expended to activate their properties
 | 33   | [[Bead of force]]                      |
 | 34   | [[Bell Branch]]                        |
 | 35   | [[Blod Stone]]                         |
-| 36   | Bloodwell Vial, +2                 |
-| 37   | Bracer of Flying Daggers           |
-| 38   | Bridle of Capturing                |
-| 39   | Butcher's Bib                      |
-| 40   | Cauldron of Plenty                 |
-| 41   | Claw of the Wyrm Rune              |
-| 42   | Claws of the Umber Hulk            |
-| 43   | Charm of Plant Command             |
-| 44   | Chime of opening                   |
-| 45   | Concertina                         |
-| 46   | Decanter of endless water          |
-| 47   | Docent                             |
-| 48   | Dodecahedron of Doom               |
-| 49   | Duplicitous Manuscript             |
-| 50   | Eagle Whistle                      |
+| 36   | [[Bloodwell Vial]], +2                 |
+| 37   | [[Bracer of Flying Daggers]]           |
+| 38   | [[Bridle of Capturing]]                |
+| 39   | [[Butcher's Bib]]                      |
+| 40   | [[Cauldron of Plenty]]                 |
+| 41   | [[Claw of the Wyrm Rune]]              |
+| 42   | [[Claws of the Umber Hulk]]            |
+| 43   | [[Charm of Plant Command]]             |
+| 44   | [[Chime of opening]]                   |
+| 45   | [[Concertina]]                         |
+| 46   | [[Decanter of endless water]]          |
+| 47   | [[Docent]]                             |
+| 48   | [[Dodecahedron of Doom]]               |
+| 49   | [[Duplicitous Manuscript]]             |
+| 50   | [[Eagle Whistle]]                      |
 | 51   | Elemental Essence Shard            |
 | 52   | Eyes of minute seeing              |
 | 53   | Far Realm Shard                    |

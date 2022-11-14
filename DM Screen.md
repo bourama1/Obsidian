@@ -40,7 +40,7 @@ kanban-plugin: basic
 - [ ] [[Dnd/Wiki/Combat/Quick reference]]
 - [ ] [[Damage types]]
 - [ ] [[Cover]] ^8tzxpc
-- [ ] [[Crit Table]]
+- [ ] [[Crit and Fumble Table]]
 - [ ] [[Dying]]
 
 
