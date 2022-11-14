@@ -1,0 +1,1 @@
+This medium-sized brown paper bag has a pair of rope handles and is highly durable. As an action, you can open it and draw out 30 pounds of food, enough to sustain up to ten medium humanoids for a single day. Once you have used this feature, you can’t use it again until the following dawn. The food is tasty and nourishing, but spoils if uneaten within 24 hours.

@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "76a1ab9bb51cfa61",
+        "id": "449bcff29e2430a3",
         "type": "tabs",
         "children": [
           {
-            "id": "ad2704037a04942b",
+            "id": "3e7243e07381d7da",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Treasure/Magic Items.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Wiki/Treasure/Magic Items.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Wiki/Treasure/Magic Items.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Treasure/Magic Items.md"
               }
             }
           },
@@ -159,17 +161,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "ad2704037a04942b",
+  "active": "3e7243e07381d7da",
   "lastOpenFiles": [
-    "Untitled.md",
-    "{{name}}.webp.md",
-    "DM Screen.md",
-    "Dnd/Campaings/Curse/00. Hooks/1. Tajemni navstevnici.md",
-    "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
-    "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md",
-    "Dnd/Campaings/Curse/01a.Barovie/01a.Barovie.md",
-    "Templates/3_Markdown/Insert Map (Leaflet).md",
-    "Templates/3_Markdown/Template - Map.md",
-    "Dnd/Campaings/Curse/01a.Barovie/Zeme Barovie.md"
+    "Wheel of Wind and Water.md",
+    "Dnd/Wiki/Treasure/Magic Items.md",
+    "Dnd/Wiki/Treasure/Uncommon Glamerwaeve.md",
+    "Dnd/Wiki/Treasure/Spies Murmur.md",
+    "Dnd/Wiki/Treasure/SoulCoin.md",
+    "Dnd/Wiki/Treasure/Smokepowder.md",
+    "Dnd/Wiki/Treasure/Saddle of the Cavalier.md",
+    "Dnd/Wiki/Treasure/Robe of Serpents.md",
+    "Dnd/Wiki/Treasure/Rings of Shared Suffering.md",
+    "Dnd/Wiki/Treasure/Ring of Obscuring.md"
   ]
 }

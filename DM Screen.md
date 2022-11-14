@@ -53,8 +53,8 @@ kanban-plugin: basic
 - [ ] [[Transportation]]
 - [ ] [[Trade goods]]
 - [ ] [[Poisons]]
-- [ ] [[Treasure]]
 - [ ] [[Expenses]]
+- [ ] [[Magic Items]]
 
 
 ## Gameplay

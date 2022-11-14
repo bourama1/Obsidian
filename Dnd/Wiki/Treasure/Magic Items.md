@@ -53,3 +53,96 @@ A magic item, such as certain staffs, may require you to use your own spellcasti
 ### Charges
 
 Some magic items have charges that must be expended to activate their properties. The number of charges an item has remaining is revealed when an identify spell is cast on it, as well as when a creature attunes to it. Additionally, when an item regains charges, the creature attuned to it learns how many charges it regained.
+## Tables
+### A: `dice: 1d100`
+| d100    | -                               |
+| ------- | ------------------------------- |
+| 1       | [[Cracked Driftglobe]]          |
+| 2 - 50  | [[Potion of Healing]]           |
+| 51 - 60 | [[Spell Scroll]] (cantrip)      |
+| 61 - 70 | [[Potion of Climbing]]          |
+| 71 - 90 | [[Spell Scroll]] (1. level)     |
+| 91 - 94 | [[Spell Scroll]] (2. level)     |
+| 95 - 98 | [[Potion of Healing]] (greater) |
+| 99      | [[Bag of Holding]]              |
+| 100     | [[Driftglobe]]                  |
+
+### B: `dice: d100`
+| d100    | Magic Item                            |
+| ------- | ------------------------------------- |
+| 01 – 15 | [[Potion of Healing]] (greater)       |
+| 16 - 22 | [[Potion of Fire Breath]]             |
+| 23 - 31 | [[Potion of Resistance]]              |
+| 32      | [[Blood of the Lycanthrope Antidote]] |
+| 33      | [[Mummy Rot Antidote]]                |
+| 34      | [[Ammunition, +1, +2, or +3]] (+1)    |
+| 35      | [[Potion of Animal Friendship]]       |
+| 36      | [[Potion of Giant Strength]]          |
+| 37      | [[Potion of Growth]]                  |
+| 38      | [[Potion of Water Breathing]]         |
+| 39      | [[Bottled Breatch]]                   |
+| 40      | [[Spell Scroll]] (2. level)           |
+| 41      | [[Spell Scroll]] (3. level)           |
+| 42      | [[Bag of Bounty]]                     |
+| 43      | [[Bag of Holding]]                    |
+| 44      | [[Barrier Tatto]] (uncommon)          |
+| 45      | [[Crown of the Forest]]               |
+| 46      | [[Coiling Grasp Tatto]]               |
+| 47      | [[Earworm]]                           |
+| 48      | [[Eldritch Claw Tatto]]               |
+| 49      | [[Keoghtom's ointment]]               |
+| 50      | [[Oil of Slipperiness]]               |
+| 51      | [[Dust of Delicousness]]              |
+| 52      | [[Dust of Disappearance]]             |
+| 53      | [[Dust of Dryness]]                   |
+| 54      | [[Dust of Sneezing and Choking]]      |
+| 55      | [[Elemental Gem]]                     |
+| 56      | [[Philter of Love]]                   |
+| 57      | [[Alchemy Jug]]                       |
+| 58      | [[Alchemy Jug]] (Blue)                |
+| 59      | [[Alchemy Jug]] (Orange)              |
+| 60      | [[Balance of Harmony]]                |
+| 61      | [[Baloon Pack]]                       |
+| 62      | [[Brooch of Living Essence]]          |
+| 63      | [[Cap of Water Breathing]]            |
+| 64      | [[Circlet of Human Perfection]]       |
+| 65      | [[Cloak of the Manta Ray]]            |
+| 66      | [[Driftglobe]]                        |
+| 67      | [[Finder's Googles]]                  |
+| 68      | [[Googles of Night]]                  |
+| 69      | [[Googles of Object Reading]]         |
+| 70      | [[Guardian Emblem]]                   |
+| 71      | [[Helm of Comprehending Languages]]   |
+| 72      | [[Helm of Underwater Action]]         |
+| 73      | [[Immovable Rod]]                     |
+| 74      | [[Infernal Puzzle Box]]               |
+| 75      | [[Inquistives goggles]]               |
+| 76      | [[Lantern of Revealing]]              |
+| 77      | [[Living Gloves]]                     |
+| 78      | [[Mask of the Beast]]                 |
+| 79      | [[Mariner's Armor]]                   |
+| 80      | [[Mithral Armor]]                     |
+| 81      | [[Mizzium Apparatus]]                 |
+| 82      | [[Orc Stone]]                         |
+| 83      | [[Paper bird]]                        |
+| 84      | [[Propller Helm]]                     |
+| 85      | [[Potion of Poison]]                  |
+| 86      | [[Ring of Truth Telling]]             |
+| 87      | [[Ring of Swimming]]                  |
+| 88      | [[Ring of Obscuring]]                 |
+| 89      | [[Rings of Shared Suffering]]         |
+| 90      | [[Robe of Useful Items]]              |
+| 91      | [[Robe of Serpents]]                  |
+| 92      | [[Rope of Climbing]]                  |
+| 93      | [[Saddle of the Cavalier]]            |
+| 94      | [[Smokepowder]]                       |
+| 95      | [[SoulCoin]]                          |
+| 96      | [[Spies Murmur]]                      |
+| 97      | [[Uncommon Glamerwaeve]]              |
+| 98      | [[Wand of Magic Detection]]           |
+| 99      | [[Wand of Secrets]]                   |
+| 100     | [[Wheel of Wind and Water]]           |
+
+### C: `dice: d100`
+
+

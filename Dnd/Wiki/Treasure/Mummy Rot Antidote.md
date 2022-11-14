@@ -1,0 +1,4 @@
+White dust swirls constantly within this pale gray potion. When you drink the potion, it cures you of mummy rot.
+
+## Mummy rot
+**Mummy rot** was a condition inflicted upon victims by the touch of a [mummy](https://forgottenrealms.fandom.com/wiki/Mummy "Mummy"). It was usually fatal unless cured.[[5]](https://forgottenrealms.fandom.com/wiki/Mummy_rot#cite_note-MM1e-72-5)[[2]](https://forgottenrealms.fandom.com/wiki/Mummy_rot#cite_note-MM3.5-190-2)[[6]](https://forgottenrealms.fandom.com/wiki/Mummy_rot#cite_note-MM4e-192-6) Mummy rot was a disease that occurred in various strains and could be natural or magical (like a [curse](https://forgottenrealms.fandom.com/wiki/Curse "Curse")) in nature, which required different methods to cure.
