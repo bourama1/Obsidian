@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f8ef4ba282207a14",
+        "id": "46090aa73a10ee64",
         "type": "tabs",
         "children": [
           {
-            "id": "e4e27fc7646ddb68",
+            "id": "16d128567ad34269",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Wiki/Treasure/Magic Items.md",
-                "mode": "source",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Wiki/Treasure/Magic Items.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Wiki/Treasure/Magic Items.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Wiki/Treasure/Magic Items.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -161,7 +159,7 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "e4e27fc7646ddb68",
+  "active": "16d128567ad34269",
   "lastOpenFiles": [
     "Dnd/Wiki/Treasure/Blod Stone.md",
     "Dnd/Wiki/Treasure/Magic Items.md",
