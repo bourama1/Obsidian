@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "95cdb87b8fd0e8d9",
+            "id": "8a7a1b5703284471",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -159,17 +159,17 @@
     "width": 388.5,
     "collapsed": true
   },
-  "active": "95cdb87b8fd0e8d9",
+  "active": "8a7a1b5703284471",
   "lastOpenFiles": [
+    "Dnd/Wiki/Treasure/Concertina.md",
+    "DM Screen.md",
     "Dnd/Wiki/Treasure/Magic Items.md",
     "Dnd/Wiki/Treasure/Eagle Whistle.md",
     "Dnd/Wiki/Treasure/Duplicitous Manuscript.md",
     "Dnd/Wiki/Treasure/Dodecahedron of Doom.md",
     "Dnd/Wiki/Treasure/Docent.md",
-    "Concertina.md",
     "Dnd/Wiki/Treasure/Charm of Plant Command.md",
     "Dnd/Wiki/Treasure/Claws of the Umber Hulk.md",
-    "Dnd/Wiki/Treasure/Chime of Opening.md",
-    "Dnd/Wiki/Treasure/Claw of the Wyrm Rune.md"
+    "Dnd/Wiki/Treasure/Chime of Opening.md"
   ]
 }
