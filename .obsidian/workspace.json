@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "46090aa73a10ee64",
+        "id": "6c4e8d7ba6873730",
         "type": "tabs",
         "children": [
           {
-            "id": "8a7a1b5703284471",
+            "id": "47c9db71fcabdc42",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/th.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/th.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/th.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/th.jpg"
-              }
+              "state": {}
             }
           },
           {
@@ -136,40 +130,31 @@
             }
           },
           {
-            "id": "6af1ac13ffffbe09",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "a039644d9f18832c",
+            "id": "4033808f3351363c",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5,
+    "width": 300,
     "collapsed": true
   },
-  "active": "8a7a1b5703284471",
+  "active": "47c9db71fcabdc42",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
-    "DM Screen.md",
-    "Dnd/Wiki/Treasure/Concertina.md",
-    "Dnd/Wiki/Treasure/Magic Items.md",
-    "Dnd/Wiki/Treasure/Eagle Whistle.md",
-    "Dnd/Wiki/Treasure/Duplicitous Manuscript.md",
-    "Dnd/Wiki/Treasure/Dodecahedron of Doom.md",
-    "Dnd/Wiki/Treasure/Docent.md",
-    "Dnd/Wiki/Treasure/Charm of Plant Command.md",
-    "Dnd/Wiki/Treasure/Claws of the Umber Hulk.md"
+    "Dnd/Untitled.md",
+    "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
+    "Dnd/Wiki/pdfs/Denik_postavy.pdf",
+    "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
+    "Dnd/Wiki/Atlas/Bavoria.md",
+    "Dnd/Wiki/Online Tools.md",
+    "Dnd/Campaings/Curse/Stradovo-prokleti_v2.10.pdf",
+    "Dnd/LostMine/tactical-tokens-custom-token.png",
+    "Dnd/Wiki/pdfs/quick-conditions2.png",
+    "Untitled.md"
   ]
 }
