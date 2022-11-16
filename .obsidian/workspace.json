@@ -11,9 +11,9 @@
             "id": "8a7a1b5703284471",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "image",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/th.jpg"
               }
             }
           }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/th.jpg",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/th.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/th.jpg"
               }
             }
           },
@@ -161,15 +161,15 @@
   },
   "active": "8a7a1b5703284471",
   "lastOpenFiles": [
-    "Dnd/Wiki/Treasure/Concertina.md",
+    "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
     "DM Screen.md",
+    "Dnd/Wiki/Treasure/Concertina.md",
     "Dnd/Wiki/Treasure/Magic Items.md",
     "Dnd/Wiki/Treasure/Eagle Whistle.md",
     "Dnd/Wiki/Treasure/Duplicitous Manuscript.md",
     "Dnd/Wiki/Treasure/Dodecahedron of Doom.md",
     "Dnd/Wiki/Treasure/Docent.md",
     "Dnd/Wiki/Treasure/Charm of Plant Command.md",
-    "Dnd/Wiki/Treasure/Claws of the Umber Hulk.md",
-    "Dnd/Wiki/Treasure/Chime of Opening.md"
+    "Dnd/Wiki/Treasure/Claws of the Umber Hulk.md"
   ]
 }
