@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "0e5cd6d6c6468700",
+    "type": "split",
+    "children": [
+      {
+        "id": "46090aa73a10ee64",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8a7a1b5703284471",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/PDF Rules/PPJ_5e_CZ.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "74fb9515235e5c6a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fbdc20b0e5f181d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc21b04bf6620369",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3f889d29cdeeabe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ef371181ea58bc3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a229a69acc66f7e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "683643d3f9bc3804",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8568055f41e3ea47",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "40da330411900263",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bab0b92dcde205e3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6a41bcbfa5a394d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dnd/PDF Rules/PPJ_5e_CZ.pdf"
+              }
+            }
+          },
+          {
+            "id": "918d54e892afd762",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "6af1ac13ffffbe09",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a039644d9f18832c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 388.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "8a7a1b5703284471",
+  "lastOpenFiles": [
+    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
+    "conflict-files-obsidian-git.md",
+    "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
+    "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_hráƒi.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejτská skr∞τ_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejτská skr∞τ_hráƒi.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Roklisk∞ hrad_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Roklisk∞ hrad_hráƒi.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rokliská skr∞τ_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rokliská skr∞τ_hráƒi.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Meƒové pob²eºí_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy",
+    "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
+    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+    "Dnd/PDF Rules/PHB_5e_sahy.pdf",
+    "Dnd/PDF Rules/Oath of the Dragon Rider Paladin.pdf",
+    "Dnd/PDF Rules/DMs Secret Weapon Magazine Issue #1.pdf",
+    "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
+    "DM Screen.md",
+    "Dnd/Wiki/Treasure/Concertina.md",
+    "Dnd/Wiki/Treasure/Magic Items.md",
+    "Dnd/Wiki/Treasure/Eagle Whistle.md",
+    "Dnd/Wiki/Treasure/Duplicitous Manuscript.md",
+    "Dnd/Wiki/Treasure/Dodecahedron of Doom.md",
+    "Dnd/Wiki/Treasure/Docent.md",
+    "Dnd/Wiki/Treasure/Charm of Plant Command.md",
+    "Dnd/Wiki/Treasure/Claws of the Umber Hulk.md"
+  ]
+}
