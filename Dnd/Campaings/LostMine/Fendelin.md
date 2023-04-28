@@ -1,9 +1,7 @@
 Osada sestává ze čtyřiceti nebo padesáti jednoduchých srubů, některých s kamennými základy. Staré ruiny – svalené kamenné zdi porostlé trním a břečťanem – obklopují novější domy a obchody. Je znát, že před staletími muselo být tohle město daleko větší. Většina nových domů je postavena podél bahnité hlavní ulice, která pozvolna stoupá k troskám panského domu na nedalekém kopci.
 # Hostinec
 - moje mrtvola - Potion of Healing ; zlata soska (hodnota +- 40gp) ; 25gp 35sp
-	- dopis o zrade - Zdravim priteli,
-		doufam ze si nezapomnel na tvuj dluh vuci me osobe. Mozna konecne nadejde den kdy se ho budes moci zbavit. Stala se mi totiz drobna neprijemnost a sice to ze mi chce particka dobrodruhu prekazit plany ohledne jednoho vzacneho dolu. Tuto particku si najal jisty Gundren, ale o nej je jiz postarano. Ted jiz jen potrebuju aby to tak i zustalo, proto infiltruj tuto partu dobrodruhu a podavej mi zpravy o vyvoji udalosti. Idealne se snaz znicit nebo alespon zpomalit jakkykoliv postup co se snazi udelat.
-									Diky Cerny pavouk
+	- dopis o zrade ![[scroll (1).png]]
 - Probouzite se v hostinci u Kamenika, kde jste se vcera se Sildarem ubytovali...
 - Velký, zánovní hostinec z kamene a hrubě otesaných trámů. Lokál je plný místních, kteří si vás zvědavě prohlížejí přes korbele s pivem.
 - Výčepním je malý a bodrý člověk jménem **Toby Kameník**. 
