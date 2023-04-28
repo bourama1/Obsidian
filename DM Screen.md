@@ -66,6 +66,7 @@ kanban-plugin: basic
 - [ ] [[Languages]]
 - [ ] [[Special Types of Movement]]
 - [ ] [[Spell List]]
+- [ ] [[Chasing]]
 
 
 ## Campaings
