@@ -13,6 +13,7 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	- **Člen Panské jednoty** = skupina politických mocností zabývajících se bezpečností a prosperitou
 	- ***Úkol: Hledání Rokliského hradu***
 	- ***Úkol: Hledání Jarna***
+- Jarno = Sklivec = zmrd
 - Toby Kamenik
 	- hospodsky
 	- maly, tlusty, cervene tvare
@@ -46,3 +47,5 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 - starosta- bankéř Hubert Vestička – tlustý, nadutý hlupák
 	-  je zcela pod palcem Rudocejchů - „jsou jenom žoldnéřským cechem a nedělají skoro žádné potíže, opravdu.“
 	-  ***Úkol: Problémy s orky***
+- Cerny pavouk
+	- 

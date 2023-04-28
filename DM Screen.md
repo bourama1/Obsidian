@@ -71,6 +71,7 @@ kanban-plugin: basic
 ## Campaings
 
 - [ ] [[Fendelin]]
+- [ ] [[Background]]
 
 
 
