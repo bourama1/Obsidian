@@ -7,10 +7,12 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	- bratri Nundro(dead) a Tarden(veznen)
 	- velmi pratelsky trpaslik, ktery najal skupiny pro prevoz naradi a materialu k tezbe
 - Sildar Zimohrad
+	- dobrotivý padesátník s  čestným místem u gryfí kavalerie
 	- rytir doprovazejici Gundrena
 	- zachraneny z goblini jeskyne, tezce v pici
-	- **Člen Panské jednoty**
-	- 
+	- **Člen Panské jednoty** = skupina politických mocností zabývajících se bezpečností a prosperitou
+	- ***Úkol: Hledání Rokliského hradu***
+	- ***Úkol: Hledání Jarna***
 - Toby Kamenik
 	- hospodsky
 	- maly, tlusty, cervene tvare
@@ -41,4 +43,6 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	- kvůli nadvládě Rudocejchů na hranici zoufalstvi
 	- ***členkou Harfeníků*** - roztroušené sítě dobrodruhů a špionů prosazujících rovnost
 	- ***Úkol: Dohoda s líticí***
-- Herbert Vesticka
+- starosta- bankéř Hubert Vestička – tlustý, nadutý hlupák
+	-  je zcela pod palcem Rudocejchů - „jsou jenom žoldnéřským cechem a nedělají skoro žádné potíže, opravdu.“
+	-  ***Úkol: Problémy s orky***

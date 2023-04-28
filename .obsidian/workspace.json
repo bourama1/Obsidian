@@ -43,7 +43,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "07bf776644a8eb53",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md"
+                "file": "Dnd/Campaings/LostMine/Fendelin.md"
               }
             }
           },
@@ -226,8 +226,9 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bdf708c75f12c305",
+  "active": "e6aba7ae841c9727",
   "lastOpenFiles": [
+    "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/Fendelin.md",
     "DM Screen.md",
     "Dnd/Wiki/Treasure/Potion of Healing.md",
@@ -247,7 +248,6 @@
     "Pasted image 20230428152806.png",
     "Dnd/Wiki/Equipment/Weapons.md",
     "Dnd/Wiki/Equipment/Armor.md",
-    "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/th.jpg",
     "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
     "Dnd/Campaings/Curse/Curse.md",
