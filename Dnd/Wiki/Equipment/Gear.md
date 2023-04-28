@@ -1,3 +1,4 @@
+![[Pasted image 20230428152806.png]]
 # Adventuring Gear
 
 This section describes items that have special rules or require further explanation.

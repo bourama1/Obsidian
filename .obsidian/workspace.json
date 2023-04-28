@@ -43,12 +43,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "07bf776644a8eb53",
         "type": "tabs",
-        "dimension": 57.265342960288805,
+        "dimension": 57.26534296028881,
         "children": [
           {
             "id": "86d2e3724642159d",
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md"
+                "file": "Dnd/Campaings/LostMine/Background.md"
               }
             }
           },
@@ -226,13 +226,28 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "e6aba7ae841c9727",
+  "active": "bdf708c75f12c305",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Background.md",
-    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/Campaings/LostMine/Fendelin.md",
     "DM Screen.md",
+    "Dnd/Wiki/Treasure/Potion of Healing.md",
+    "Pasted image 20230428152616.png",
+    "Pasted image 20230428152711.png",
+    "Dnd/Wiki/Online Tools.md",
+    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
+    "Dnd/Wiki/Treasure/Magic Items.md",
+    "Dnd/Wiki/Equipment/Expenses.md",
     "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
+    "Dnd/PDF Rules/PHB_5e_sahy.pdf",
+    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+    "Pasted image 20230428152921.png",
+    "Pasted image 20230428152907.png",
+    "Dnd/Wiki/Equipment/Tools.md",
+    "Dnd/Wiki/Equipment/Gear.md",
+    "Pasted image 20230428152806.png",
+    "Dnd/Wiki/Equipment/Weapons.md",
+    "Dnd/Wiki/Equipment/Armor.md",
+    "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/th.jpg",
     "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
     "Dnd/Campaings/Curse/Curse.md",
@@ -248,28 +263,14 @@
     "Dnd/Campaings/Curse/00. Hooks/2. Mlha.md",
     "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
     "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
-    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
-    "Dnd/PDF Rules/PHB_5e_sahy.pdf",
     "Dnd/PDF Rules/Oath of the Dragon Rider Paladin.pdf",
     "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
     "Dnd/PDF Rules/DMs Secret Weapon Magazine Issue #1.pdf",
     "conflict-files-obsidian-git.md",
     "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_PJ.jpg",
     "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_hráƒi.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Rudocejτská skr∞τ_PJ.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Rudocejτská skr∞τ_hráƒi.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Roklisk∞ hrad_PJ.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Roklisk∞ hrad_hráƒi.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Rokliská skr∞τ_PJ.jpg",
     "Dnd/Campaings/LostMine/Mapy",
-    "Dnd/Wiki/Treasure/Concertina.md",
-    "Dnd/Wiki/Treasure/Magic Items.md",
-    "Dnd/Wiki/Treasure/Eagle Whistle.md",
-    "Dnd/Wiki/Treasure/Duplicitous Manuscript.md",
-    "Dnd/Wiki/Treasure/Dodecahedron of Doom.md",
-    "Dnd/Wiki/Treasure/Docent.md",
-    "Dnd/Wiki/Treasure/Charm of Plant Command.md",
-    "Dnd/Wiki/Treasure/Claws of the Umber Hulk.md"
+    "Dnd/Wiki/Treasure/Concertina.md"
   ]
 }

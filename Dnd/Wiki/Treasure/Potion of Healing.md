@@ -6,10 +6,9 @@ You regain hit points when you drink this potion. The number of hit points depen
 
 **Table- Potions of Healing**
 
-| Potion of ...    | Rarity    | HP Regained |
-|------------------|-----------|-------------|
-| Healing          | Common    | 2d4+2       |
-| Greater healing  | Uncommon  | 4d4+4       |
-| Superior healing | Rare      | 8d4+8       |
-| Supreme healing  | Very rare | 10d4+20     |
-|                  |           |             |
+| Potion of ...    | Rarity    | HP Regained | Price|
+|------------------|-----------|-------------|-------|
+| Healing          | Common    | 2d4+2       |50gp|
+| Greater healing  | Uncommon  | 4d4+4       |200gp|
+| Superior healing | Rare      | 8d4+8       |2000gp|
+| Supreme healing  | Very rare | 10d4+20     |20000gp|

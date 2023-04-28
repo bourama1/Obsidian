@@ -4,19 +4,41 @@ Zkazky o  pohřbeném bohatství lákaly po staletí hledače pokladů a  jin�
 Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn zajímá. Záhadný padouch známý jako Černý pavouk ovládá síť band lapků a gobliních kmenů v oblasti a jeho agenti sledovali Skálohledy k jejich nálezu. Nyní chce Černý pavouk jeskyni pro sebe a zařizuje, aby jen on sám věděl, kde je.
 # Postavy
 - Gundren Skalohled
+	- bratri Nundro(dead) a Tarden(veznen)
 	- velmi pratelsky trpaslik, ktery najal skupiny pro prevoz naradi a materialu k tezbe
 - Sildar Zimohrad
 	- rytir doprovazejici Gundrena
 	- zachraneny z goblini jeskyne, tezce v pici
-	- Člen Panské jednoty
+	- **Člen Panské jednoty**
 	- 
 - Toby Kamenik
 	- hospodsky
 	- maly, tlusty, cervene tvare
 	- vesely, vecne lehce namol
 	- klepy
-- Elmar Barten
+- Elmar Barten - proviant - veci do 25zl
 	- majitel bartenova proviantu
 	- štíhlý, plešatějící padesátník s uhlazenými způsoby
 	- Zaměstnává dva učně (Andyho a Kopřivku), kteří pomáhají nakládat a vykládat povozy a v Bartenově nepřítomnosti obsluhují zákazníky
-	- 
+- Daran Vavrinec - sad
+	- vysloužilý dobrodruh (sip v koleni) žijící v  útulné chaloupce v jabloňovém sadu. Stříbrovlasý, více než století starý, ale stále čilý půlelf
+	- **člen Řádu rukavice**
+	- ***Úkol: Problémy ve Starovýří studni***
+- Lina Sediva - Lvi Stit - obchod i zbrane a armory plus 2 potiony
+	- 30 let; drza pizda
+	- pod pultem zbrane
+- Halina Trnista - smenarna
+	- ambiciózní a  vypočítavá
+	- **členkou Zentarimu** - organizace snažící se skrz bohatství a vliv získat tajnou nadvládu nad Severem
+	- ***Úkol: Halinina pracovní příležitost***
+- Kelyna Olsova - statek
+	- pětačtyřicetiletá hobití selka
+	- laskavou hostitelkou a bez okolků nechá postavy nocovat na svém seníku, pokud nechtějí spát v hostinci
+	- syn Kaprik - viz klepy
+	- ***Úkol: Druid Červenka***
+- Sestra Garaela - kaple stesti = malá kaplička postavená z kamenů z nedalekých rozvalin ;zasvěcena Tymoře, bohyni štěstí
+	- vzdělana a horliva elfí akolytky
+	- kvůli nadvládě Rudocejchů na hranici zoufalstvi
+	- ***členkou Harfeníků*** - roztroušené sítě dobrodruhů a špionů prosazujících rovnost
+	- ***Úkol: Dohoda s líticí***
+- Herbert Vesticka

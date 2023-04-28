@@ -1,3 +1,4 @@
+![[Pasted image 20230428152616.png]]
 | Armor           | Cost    | AC            | Strenght | Stealth | Weight |
 | --------------- | ------- | ------------- | -------- | ------- | ------ |
 | **Light Armor**     |         | **+ Dex**         |          |         |        |
@@ -17,3 +18,4 @@
 | Plate           | 1500 gp | 18            | 15       |         | 65 lb  |
 | **Shield**          |         |               |          |         |        |
 | Shield          | 10 gp   | + 2           | ---      | ---     | 6 lb   |
+

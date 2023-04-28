@@ -55,6 +55,7 @@ kanban-plugin: basic
 - [ ] [[Poisons]]
 - [ ] [[Expenses]]
 - [ ] [[Magic Items]]
+- [ ] [[Potion of Healing]]
 
 
 ## Gameplay
