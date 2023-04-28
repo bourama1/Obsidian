@@ -41,6 +41,23 @@
               }
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a21d412cb5e2da2d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4def915bd85030c",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
+              }
+            }
+          }
         ]
       }
     ],
@@ -107,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Background.md"
               }
             }
           },
@@ -211,10 +228,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6ebc7f09a768c7cc",
+  "active": "bdf708c75f12c305",
   "lastOpenFiles": [
-    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "DM Screen.md",
+    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Wiki/Combat/Dying.md",
     "Dnd/Wiki/Gamemastering/Chasing.md",
     "Pasted image 20230428202425.png",
@@ -225,7 +243,6 @@
     "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
     "Dnd/Campaings/LostMine/chars/Libor - Fabio.md",
     "Dnd/Campaings/LostMine/chars/Untitled.md",
-    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/Campaings/LostMine/chars",
     "Dnd/favorites_4_28_23.html",
     "Dnd/Campaings/LostMine/scroll (1).png",
