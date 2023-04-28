@@ -24,7 +24,7 @@
 | 100          | Insta kill                                    |
 
 ## Fumble table
-| `dice: d20` | efekt                                     |
+| `dice: d100` | efekt                                     |
 | ----------- | ----------------------------------------- |
 | 1 - 9       | drop weapon                               |
 | 10 - 17     | + 10 feet daleko                          |

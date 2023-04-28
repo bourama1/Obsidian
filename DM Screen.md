@@ -69,7 +69,7 @@ kanban-plugin: basic
 
 ## Campaings
 
-- [ ] [[Curse]]
+- [ ] [[Fendelin]]
 
 
 
