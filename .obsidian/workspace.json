@@ -40,43 +40,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d7ae9a10728997c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7112612dd7dfeb2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/chars/Libor - Fabio.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "86d2e3724642159d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
+                "file": "Dnd/Campaings/LostMine/Fendelin.md"
               }
             }
           },
@@ -211,11 +177,26 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
+      },
+      {
+        "id": "6ec587a51a9afbcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "664b0091c5a576b8",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 388.5
+    "width": 470.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,12 +212,13 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "86d2e3724642159d",
+  "active": "e6aba7ae841c9727",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/chars/Libor - Fabio.md",
-    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
-    "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
     "Dnd/Campaings/LostMine/Background.md",
+    "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
+    "Dnd/Campaings/LostMine/chars/Libor - Fabio.md",
+    "Dnd/Campaings/LostMine/chars/Untitled.md",
+    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/Campaings/LostMine/chars",
     "DM Screen.md",
     "Dnd/Campaings/LostMine/Fendelin.md",
