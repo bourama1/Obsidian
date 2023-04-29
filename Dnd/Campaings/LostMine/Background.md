@@ -4,7 +4,7 @@ Zkazky o  pohřbeném bohatství lákaly po staletí hledače pokladů a  jin�
 Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn zajímá. Záhadný padouch známý jako Černý pavouk ovládá síť band lapků a gobliních kmenů v oblasti a jeho agenti sledovali Skálohledy k jejich nálezu. Nyní chce Černý pavouk jeskyni pro sebe a zařizuje, aby jen on sám věděl, kde je.
 # Postavy
 - Gundren Skalohled
-	- bratri Nundro(dead) a Tarden(veznen)
+	- bratri Nundro(dead) a Tarden(veznen) => spolecne nasli vstup do jeskyne ***Hromovych ozven*
 	- velmi pratelsky trpaslik, ktery najal skupiny pro prevoz naradi a materialu k tezbe
 - Sildar Zimohrad
 	- dobrotivý padesátník s  čestným místem u gryfí kavalerie
@@ -48,4 +48,4 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	-  je zcela pod palcem Rudocejchů - „jsou jenom žoldnéřským cechem a nedělají skoro žádné potíže, opravdu.“
 	-  ***Úkol: Problémy s orky***
 - Cerny pavouk
-	- 
+	- ovládá síť band lapků a gobliních kmenů v oblasti a jeho agenti sledovali Skálohledy k jejich nálezu
