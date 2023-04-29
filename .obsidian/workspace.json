@@ -12,9 +12,11 @@
             "id": "6ebc7f09a768c7cc",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Combat/Crit and Fumble Table.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -254,11 +256,12 @@
   },
   "active": "0f3a084582d04a47",
   "lastOpenFiles": [
+    "Dnd/Wiki/Combat/Crit and Fumble Table.md",
+    "DM Screen.md",
+    "Dnd/Campaings/LostMine/note.md",
     "Dnd/Campaings/LostMine/scroll (1).png",
     "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/Fendelin.md",
-    "Dnd/Campaings/LostMine/note.md",
-    "DM Screen.md",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_hraci.jpg",
     "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
@@ -295,7 +298,6 @@
     "Dnd/Campaings/Curse/Curse.md",
     "Dnd/Wiki/Gameplay/Special Types of Movement.md",
     "Dnd/Wiki/Combat/Cover.md",
-    "Dnd/Wiki/Combat/Crit and Fumble Table.md",
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Wiki/Skills/Strength.md",
     "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf"
