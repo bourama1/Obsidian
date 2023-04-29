@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dnd/Campaings/LostMine/Fendelin.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -40,41 +40,21 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4f42af1ea27e2e83",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/Mapy/Meƒové pob²eºí_PJ.jpg"
-              }
-            }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "a21d412cb5e2da2d",
+        "id": "6f2343cac90c8204",
         "type": "tabs",
         "children": [
           {
-            "id": "c4def915bd85030c",
+            "id": "786c757ab7614b08",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
-              }
-            }
-          },
-          {
-            "id": "7287e3d6c0b468e7",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/PDF Rules/Starter_CZ.pdf"
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
               }
             }
           }
@@ -251,20 +231,24 @@
   "active": "e6aba7ae841c9727",
   "lastOpenFiles": [
     "Dnd/Campaings/LostMine/Background.md",
-    "Dnd/Campaings/LostMine/Fendelin.md",
-    "Dnd/Campaings/LostMine/Mapy/Meƒové pob²eºí_PJ.jpg",
     "DM Screen.md",
-    "Dnd/Wiki/Equipment/Expenses.md",
-    "Pasted image 20230428152616.png",
+    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Roklisky hrad_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Roklisky hrad_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rokliska skrys_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rokliska skrys_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_hraci.jpg",
+    "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/PDF Rules/Starter_CZ.pdf",
+    "Dnd/Wiki/Equipment/Expenses.md",
     "Dnd/PDF Rules/Bestiar_5e_CZ.pdf",
     "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
-    "Pasted image 20230428202425.png",
-    "Pasted image 20230428152921.png",
-    "Pasted image 20230428152806.png",
-    "Pasted image 20230428152907.png",
-    "Pasted image 20230428152711.png",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Wiki/Combat/Dying.md",
     "Dnd/Wiki/Gamemastering/Chasing.md",
@@ -275,17 +259,14 @@
     "Dnd/Campaings/LostMine/chars/Untitled.md",
     "Dnd/Campaings/LostMine/chars",
     "Dnd/favorites_4_28_23.html",
-    "Dnd/Campaings/LostMine/scroll (1).png",
     "Dnd/Wiki/Treasure/Potion of Healing.md",
     "Dnd/Wiki/Online Tools.md",
     "Dnd/Wiki/Treasure/Magic Items.md",
-    "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
     "Dnd/PDF Rules/PHB_5e_sahy.pdf",
     "Dnd/Wiki/Equipment/Tools.md",
     "Dnd/Wiki/Equipment/Gear.md",
     "Dnd/Wiki/Equipment/Weapons.md",
     "Dnd/Wiki/Equipment/Armor.md",
-    "Dnd/Campaings/LostMine/th.jpg",
     "Dnd/Campaings/Curse/Curse.md",
     "Dnd/Wiki/Gameplay/Special Types of Movement.md",
     "Dnd/Wiki/Combat/Cover.md",
@@ -293,7 +274,6 @@
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Wiki/Skills/Strength.md",
     "Dnd/Wiki/Conditions/Blinded.md",
-    "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
-    "Dnd/PDF Rules/Oath of the Dragon Rider Paladin.pdf"
+    "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf"
   ]
 }
