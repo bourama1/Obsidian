@@ -24,7 +24,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dnd/Campaings/LostMine/Fendelin.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -42,17 +42,17 @@
             }
           },
           {
-            "id": "154b46b9229f8d1f",
+            "id": "4f42af1ea27e2e83",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "Pasted image 20230428152616.png"
+                "file": "Dnd/Campaings/LostMine/Mapy/Meƒové pob²eºí_PJ.jpg"
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "a21d412cb5e2da2d",
@@ -65,6 +65,16 @@
               "type": "pdf",
               "state": {
                 "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
+              }
+            }
+          },
+          {
+            "id": "7287e3d6c0b468e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/PDF Rules/Starter_CZ.pdf"
               }
             }
           }
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md"
+                "file": "Dnd/Campaings/LostMine/Fendelin.md"
               }
             }
           },
@@ -238,22 +248,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "bdf708c75f12c305",
+  "active": "e6aba7ae841c9727",
   "lastOpenFiles": [
+    "Dnd/Campaings/LostMine/Background.md",
+    "Dnd/Campaings/LostMine/Fendelin.md",
+    "Dnd/Campaings/LostMine/Mapy/Meƒové pob²eºí_PJ.jpg",
+    "DM Screen.md",
+    "Dnd/Wiki/Equipment/Expenses.md",
     "Pasted image 20230428152616.png",
+    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
+    "Dnd/PDF Rules/Starter_CZ.pdf",
+    "Dnd/PDF Rules/Bestiar_5e_CZ.pdf",
+    "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
     "Pasted image 20230428202425.png",
     "Pasted image 20230428152921.png",
     "Pasted image 20230428152806.png",
     "Pasted image 20230428152907.png",
     "Pasted image 20230428152711.png",
-    "Dnd/Campaings/LostMine/Background.md",
-    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
-    "DM Screen.md",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Wiki/Combat/Dying.md",
     "Dnd/Wiki/Gamemastering/Chasing.md",
     "Dnd/Wiki/Spells/Spell List.md",
-    "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Wiki/Combat/Quick reference.md",
     "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
     "Dnd/Campaings/LostMine/chars/Libor - Fabio.md",
@@ -264,7 +279,6 @@
     "Dnd/Wiki/Treasure/Potion of Healing.md",
     "Dnd/Wiki/Online Tools.md",
     "Dnd/Wiki/Treasure/Magic Items.md",
-    "Dnd/Wiki/Equipment/Expenses.md",
     "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
     "Dnd/PDF Rules/PHB_5e_sahy.pdf",
     "Dnd/Wiki/Equipment/Tools.md",
@@ -272,7 +286,6 @@
     "Dnd/Wiki/Equipment/Weapons.md",
     "Dnd/Wiki/Equipment/Armor.md",
     "Dnd/Campaings/LostMine/th.jpg",
-    "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
     "Dnd/Campaings/Curse/Curse.md",
     "Dnd/Wiki/Gameplay/Special Types of Movement.md",
     "Dnd/Wiki/Combat/Cover.md",
@@ -280,10 +293,7 @@
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Wiki/Skills/Strength.md",
     "Dnd/Wiki/Conditions/Blinded.md",
-    "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
     "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf",
-    "Dnd/PDF Rules/Oath of the Dragon Rider Paladin.pdf",
-    "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
-    "Dnd/PDF Rules/DMs Secret Weapon Magazine Issue #1.pdf"
+    "Dnd/PDF Rules/Oath of the Dragon Rider Paladin.pdf"
   ]
 }

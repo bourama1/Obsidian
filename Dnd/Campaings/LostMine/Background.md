@@ -8,12 +8,13 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	- velmi pratelsky trpaslik, ktery najal skupiny pro prevoz naradi a materialu k tezbe
 - Sildar Zimohrad
 	- dobrotivý padesátník s  čestným místem u gryfí kavalerie
-	- rytir doprovazejici Gundrena
+	-  hlavni cil = zjistit co se stalo s Jarnem = kolega z Panske jednoty
 	- zachraneny z goblini jeskyne, tezce v pici
-	- **Člen Panské jednoty** = skupina politických mocností zabývajících se bezpečností a prosperitou
+	- **Člen Panské jednoty** = skupina politických mocností zabývajících se bezpečností a prosperitou  ***=> nabidne titul Pláště***
 	- ***Úkol: Hledání Rokliského hradu***
 	- ***Úkol: Hledání Jarna***
 - Jarno = Sklivec = zmrd
+	- maly lidsky kouzelník s tmavými vousy, mezi třiceti a čtyřiceti lety.
 - Toby Kamenik
 	- hospodsky
 	- maly, tlusty, cervene tvare
@@ -25,24 +26,24 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	- Zaměstnává dva učně (Andyho a Kopřivku), kteří pomáhají nakládat a vykládat povozy a v Bartenově nepřítomnosti obsluhují zákazníky
 - Daran Vavrinec - sad
 	- vysloužilý dobrodruh (sip v koleni) žijící v  útulné chaloupce v jabloňovém sadu. Stříbrovlasý, více než století starý, ale stále čilý půlelf
-	- **člen Řádu rukavice**
+	- **člen Řádu rukavice** = oddana a bděla skupina ochraňující slabé před útlakem padouchů  ***=> nabidne titul rytire***
 	- ***Úkol: Problémy ve Starovýří studni***
 - Lina Sediva - Lvi Stit - obchod i zbrane a armory plus 2 potiony
 	- 30 let; drza pizda
 	- pod pultem zbrane
 - Halina Trnista - smenarna
 	- ambiciózní a  vypočítavá
-	- **členkou Zentarimu** - organizace snažící se skrz bohatství a vliv získat tajnou nadvládu nad Severem
+	- ví, že Rudocejchům slouží nějaký goblin. Myslí si, že ten by to místo znát mohl.
+	- **členkou Zentarimu** - organizace snažící se skrz bohatství a vliv získat tajnou nadvládu nad Severem ***=> nabidne titul tesaka***
 	- ***Úkol: Halinina pracovní příležitost***
 - Kelyna Olsova - statek
 	- pětačtyřicetiletá hobití selka
 	- laskavou hostitelkou a bez okolků nechá postavy nocovat na svém seníku, pokud nechtějí spát v hostinci
-	- syn Kaprik - viz klepy
-	- ***Úkol: Druid Červenka***
+	- mladší syn Kapřík zná tajný vchod do jeskyně Rudocejchů
 - Sestra Garaela - kaple stesti = malá kaplička postavená z kamenů z nedalekých rozvalin ;zasvěcena Tymoře, bohyni štěstí
-	- vzdělana a horliva elfí akolytky
+	- vzdělana a horliva elfí akolytka
 	- kvůli nadvládě Rudocejchů na hranici zoufalstvi
-	- ***členkou Harfeníků*** - roztroušené sítě dobrodruhů a špionů prosazujících rovnost
+	- ***členkou Harfeníků*** - roztroušené sítě dobrodruhů a špionů prosazujících rovnost; Pomáhají slabým, chudým a utlačovaným  ***=> nabidne titul Strážce***
 	- ***Úkol: Dohoda s líticí***
 - starosta- bankéř Hubert Vestička – tlustý, nadutý hlupák
 	-  je zcela pod palcem Rudocejchů - „jsou jenom žoldnéřským cechem a nedělají skoro žádné potíže, opravdu.“
