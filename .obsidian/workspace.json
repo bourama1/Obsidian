@@ -67,7 +67,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "6f2343cac90c8204",
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/note.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/note.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/note.md"
+                "file": "Dnd/Campaings/LostMine/Background.md"
               }
             }
           },
@@ -254,11 +254,11 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "0f3a084582d04a47",
+  "active": "bdf708c75f12c305",
   "lastOpenFiles": [
+    "Dnd/Campaings/LostMine/note.md",
     "Dnd/Wiki/Combat/Crit and Fumble Table.md",
     "DM Screen.md",
-    "Dnd/Campaings/LostMine/note.md",
     "Dnd/Campaings/LostMine/scroll (1).png",
     "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/Fendelin.md",
