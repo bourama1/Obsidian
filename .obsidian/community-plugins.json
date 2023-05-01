@@ -10,5 +10,13 @@
   "templater-obsidian",
   "obsidian-5e-statblocks",
   "url-into-selection",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-admonition",
+  "obsidian-custom-frames",
+  "table-editor-obsidian",
+  "dataview",
+  "new-tab-default-page",
+  "folder-note-plugin",
+  "image-window",
+  "obsidian-style-settings"
 ]
