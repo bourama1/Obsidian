@@ -18,5 +18,11 @@
   "new-tab-default-page",
   "folder-note-plugin",
   "image-window",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "auto-note-mover",
+  "buttons",
+  "obsidian-excel-to-markdown-table",
+  "find-unlinked-files",
+  "homepage",
+  "obsidian-pandoc"
 ]

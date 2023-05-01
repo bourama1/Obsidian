@@ -42,6 +42,7 @@ kanban-plugin: basic
 - [ ] [[Cover]] ^8tzxpc
 - [ ] [[Crit and Fumble Table]]
 - [ ] [[Dying]]
+- [ ] [[Concentration]]
 
 
 ## Equipment
@@ -73,6 +74,10 @@ kanban-plugin: basic
 
 - [ ] [[Fendelin]]
 - [ ] [[Background]]
+- [ ] [[Fabio]]
+- [ ] [[Hilda]]
+- [ ] [[Krutus]]
+- [ ] [[Vincent]]
 
 
 
