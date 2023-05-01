@@ -1,11 +1,8 @@
 Osada sestává ze čtyřiceti nebo padesáti jednoduchých srubů, některých s kamennými základy. Staré ruiny – svalené kamenné zdi porostlé trním a břečťanem – obklopují novější domy a obchody. Je znát, že před staletími muselo být tohle město daleko větší. Většina nových domů je postavena podél bahnité hlavní ulice, která pozvolna stoupá k troskám panského domu na nedalekém kopci.
-# Hostinec - dluzi 2 zl + 1zl sildar
+# Hostinec
 - moje mrtvola - Potion of Healing ; nefritovou sošku žáby se zlacenýma očima (40 zl) ; 25gp 35sp
 	- dopis o zrade ![[scroll (1).png]]
-- Probouzite se v hostinci u Kamenika, kde jste se vcera se Sildarem ubytovali...
 - Velký, zánovní hostinec z kamene a hrubě otesaných trámů. Lokál je plný místních, kteří si vás zvědavě prohlížejí přes korbele s pivem.
-- Výčepním je malý a bodrý člověk jménem **Toby Kameník**. 
-	- Pochází z městečka Trojkance na východ odtud. Přišel do Fendelinu jako zlatokop, ale brzy si uvědomil, že toho ví víc o  vedení hospody než o  hledání zlata. Nové město mu poskytlo bohatou příležitost se podle toho zařídit. Toby je roztrpčen řáděním Rudocejchů a tím, že s tím starosta Herbert Vestička nic nedělá. Nicméně se nesnaží rozdmýchávat půtky, aby to neodnesla jeho žena a děti.
 - Klepy
 	- Toby:
 		- „Rudocejši otravují každý podnik v osadě, kromě Hornické směnárny. Nechtějí se dostat do křížku s  Halinou Trnistou, která ho vede“ (viz oddíl „Hornická směnárna“).
@@ -27,5 +24,5 @@ Osada sestává ze čtyřiceti nebo padesáti jednoduchých srubů, některých 
 
 # Radnice
 - Radnice má pevné kamenné zdi, strmou šindelovou střechu a zvoničku. 
-- Na nástěnce vedle dveří je připevněno oznámení: „ODMĚNA – Orkové poblíž Vyverní skály! Kdo by se s nimi utkal, nechť se hlásí uvnitř.“ Na oznámení je pečeť a nerozluštitelný podpis.
+- Na nástěnce vedle dveří je připevněno oznámení: „***ODMĚNA – Orkové poblíž Vyverní skály!*** Kdo by se s nimi utkal, nechť se hlásí uvnitř.“ Na oznámení je pečeť a nerozluštitelný podpis.
 - 
