@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
-                "mode": "preview",
+                "file": "Dnd/Campaings/LostMine/Skrys.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
+                "file": "Dnd/Campaings/LostMine/Skrys.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md",
+                "file": "Dnd/Campaings/LostMine/Skrys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Background.md"
+                "file": "Dnd/Campaings/LostMine/Skrys.md"
               }
             }
           },
@@ -195,6 +195,11 @@
   },
   "active": "c1e468dfce2f0185",
   "lastOpenFiles": [
+    "Dnd/Campaings/LostMine/sklivecDopis.png",
+    "Dnd/Campaings/LostMine/chars/Fabio.md",
+    "Dnd/Campaings/LostMine/chars/dnd beyond.md",
+    "Dnd/Campaings/LostMine/Skrys.md",
+    "Dnd/Campaings/LostMine/Background.md",
     "DM Screen.md",
     "Dnd/Wiki/Equipment/Armor.md",
     "Dnd/Wiki/Equipment/Weapons.md",
@@ -225,15 +230,10 @@
     "Templates/images/Pasted image 20230428152711.png",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
-    "Dnd/Campaings/LostMine/note.md",
-    "Dnd/Campaings/LostMine/chars/Fabio.md",
     "Dnd/Campaings/LostMine/chars/Krutus.md",
     "Dnd/Campaings/LostMine/chars/Hilda.md",
     "Dnd/Campaings/LostMine/chars/Vincent.md",
-    "Dnd/Campaings/LostMine/chars/dnd beyond.md",
     "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
-    "Dnd/Campaings/LostMine/Fendelin.md",
-    "Dnd/Campaings/LostMine/Background.md",
     "Dnd/PDF Rules/Starter_CZ.pdf",
     "Dnd/PDF Rules/Bestiar_5e_CZ.pdf",
     "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
