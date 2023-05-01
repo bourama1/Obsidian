@@ -11,9 +11,11 @@
             "id": "c1e468dfce2f0185",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Background.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -99,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Background.md"
               }
             }
           },
@@ -193,8 +195,8 @@
   },
   "active": "c1e468dfce2f0185",
   "lastOpenFiles": [
-    "Dnd/Wiki/Equipment/Armor.md",
     "DM Screen.md",
+    "Dnd/Wiki/Equipment/Armor.md",
     "Dnd/Wiki/Equipment/Weapons.md",
     "Templates/images/Pasted image 20230428152616.png",
     "Templates/images",
