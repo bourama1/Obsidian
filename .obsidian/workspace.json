@@ -6,17 +6,14 @@
       {
         "id": "46090aa73a10ee64",
         "type": "tabs",
-        "dimension": 42.766497461928935,
         "children": [
           {
             "id": "6ebc7f09a768c7cc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Wiki/Combat/Crit and Fumble Table.md",
-                "mode": "preview",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           },
@@ -24,9 +21,11 @@
             "id": "e6aba7ae841c9727",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_hraci.jpg"
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -37,60 +36,35 @@
               "type": "markdown",
               "state": {
                 "file": "Dnd/Campaings/LostMine/Background.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bf515dcc6140d7a4",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/scroll (1).png"
-              }
-            }
-          },
-          {
-            "id": "0f3a084582d04a47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b6c12fdfea86e110",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       },
       {
-        "id": "6f2343cac90c8204",
+        "id": "a21d412cb5e2da2d",
         "type": "tabs",
-        "dimension": 57.233502538071065,
         "children": [
           {
-            "id": "786c757ab7614b08",
+            "id": "c4def915bd85030c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
+                "file": "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
+              }
+            }
+          },
+          {
+            "id": "7287e3d6c0b468e7",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/PDF Rules/Starter_CZ.pdf"
               }
             }
           }
@@ -160,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md",
+                "file": "Dnd/Campaings/LostMine/Fendelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md"
+                "file": "Dnd/Campaings/LostMine/Fendelin.md"
               }
             }
           },
@@ -264,28 +238,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "b6c12fdfea86e110",
+  "active": "e6aba7ae841c9727",
   "lastOpenFiles": [
     "Dnd/Campaings/LostMine/note.md",
     "Dnd/Campaings/LostMine/chars/dnd beyond.md",
-    "Dnd/Wiki/Combat/Crit and Fumble Table.md",
-    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_hraci.jpg",
-    "Dnd/Campaings/LostMine/tactical-tokens-custom-token.png",
-    "Dnd/Campaings/LostMine/Fendelin.md",
-    "Dnd/Campaings/LostMine/Background.md",
-    "DM Screen.md",
-    "Dnd/Campaings/LostMine/scroll (1).png",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
-    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_PJ.jpg",
     "Dnd/Campaings/LostMine/Mapy/Ruiny Hromostromu_hraci.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Roklisky hrad_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
     "Dnd/Campaings/LostMine/Mapy/Roklisky hrad_hraci.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Rokliska skrys_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Roklisky hrad_PJ.jpg",
     "Dnd/Campaings/LostMine/Mapy/Rokliska skrys_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rokliska skrys_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_hraci.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Jeskyne Hromovych ozven_hraci.jpg",
+    "Dnd/Campaings/LostMine/Background.md",
+    "Dnd/Campaings/LostMine/Fendelin.md",
+    "DM Screen.md",
+    "Dnd/Wiki/Equipment/Expenses.md",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/PDF Rules/Starter_CZ.pdf",
-    "Dnd/Wiki/Equipment/Expenses.md",
     "Dnd/PDF Rules/Bestiar_5e_CZ.pdf",
     "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
@@ -295,6 +268,7 @@
     "Dnd/Wiki/Combat/Quick reference.md",
     "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
     "Dnd/Campaings/LostMine/chars/Libor - Fabio.md",
+    "Dnd/Campaings/LostMine/chars/Untitled.md",
     "Dnd/Campaings/LostMine/chars",
     "Dnd/favorites_4_28_23.html",
     "Dnd/Wiki/Treasure/Potion of Healing.md",
@@ -308,6 +282,7 @@
     "Dnd/Campaings/Curse/Curse.md",
     "Dnd/Wiki/Gameplay/Special Types of Movement.md",
     "Dnd/Wiki/Combat/Cover.md",
+    "Dnd/Wiki/Combat/Crit and Fumble Table.md",
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Wiki/Skills/Strength.md",
     "Dnd/PDF Rules/Voluv_pruvodce_netvory.pdf"
