@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "87fc7d16099501a4",
+            "id": "b3eaa3400da04382",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Wiki/Conditions/Exhaustion.md",
-                "mode": "preview",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Wiki/Conditions/Exhaustion.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Wiki/Conditions/Exhaustion.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Wiki/Conditions/Exhaustion.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -177,8 +175,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bc21b04bf6620369",
+  "active": "b3eaa3400da04382",
   "lastOpenFiles": [
+    "Dnd/Wiki/Conditions/Exhaustion.md",
     "DM Screen.md",
     "Templates/images/Pasted image 20230502132038.png",
     "Dnd/Wiki/Combat/Dying.md",
@@ -196,7 +195,6 @@
     "Dnd/Wiki/Equipment/Transportation.md",
     "Dnd/Wiki/Gameplay/Inspiration.md",
     "Dnd/Wiki/Gameplay/Travel.md",
-    "Dnd/Wiki/Conditions/Exhaustion.md",
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Campaings/LostMine/dopisy/scroll (1).png",
     "Dnd/Campaings/LostMine/dopisy",
