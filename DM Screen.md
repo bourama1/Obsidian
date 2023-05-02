@@ -69,6 +69,9 @@ kanban-plugin: basic
 - [ ] [[Special Types of Movement]]
 - [ ] [[Spell List]]
 - [ ] [[Chasing]]
+- [ ] [[Rozhovor]]
+- [ ] [[Poskozeni predmetu]]
+- [ ] [[Improvizovane zraneni]]
 
 
 ## Campaings
