@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b3eaa3400da04382",
+            "id": "6551411c078289ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Wiki/Skills/DC Checks.md",
-                "mode": "preview",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Wiki/Skills/DC Checks.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Wiki/Skills/DC Checks.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Wiki/Skills/DC Checks.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -177,10 +175,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b3eaa3400da04382",
+  "active": "6551411c078289ec",
   "lastOpenFiles": [
-    "Templates/images/Pasted image 20230502141250.png",
+    "Dnd/Wiki/Skills/DC Checks.md",
     "DM Screen.md",
+    "Pasted image 20230502141500.png",
+    "Dnd/Wiki/Skills/Wisdom.md",
+    "Templates/images/Pasted image 20230502141250.png",
     "Dnd/Wiki/Conditions/Exhaustion.md",
     "Templates/images/Pasted image 20230502132038.png",
     "Dnd/Wiki/Combat/Dying.md",
@@ -198,7 +199,6 @@
     "Dnd/Wiki/Equipment/Transportation.md",
     "Dnd/Wiki/Gameplay/Inspiration.md",
     "Dnd/Wiki/Gameplay/Travel.md",
-    "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Campaings/LostMine/dopisy/scroll (1).png",
     "Dnd/Campaings/LostMine/dopisy",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
@@ -210,9 +210,7 @@
     "Templates/images/Pasted image 20230502111900.png",
     "Dnd/Wiki/Gamemastering/Improvizovane zraneni.md",
     "Templates/images/Pasted image 20230502104652.png",
-    "Templates/images/Pasted image 20230502104637.png",
     "Dnd/Wiki/Gamemastering/Poskozeni predmetu.md",
-    "Templates/images/Pasted image 20230502104456.png",
     "Dnd/Wiki/Gamemastering/Rozhovor.md",
     "Dnd/Wiki/Gamemastering/Perception alternativy.md",
     "Dnd/Wiki/Gamemastering/Madness.md",
@@ -220,7 +218,6 @@
     "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/Skrys.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
-    "Dnd/Campaings/LostMine/chars/dnd beyond.md",
     "Templates/images",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/PDF Rules/Starter_CZ.pdf",
