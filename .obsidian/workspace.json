@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b067816b11371725",
+            "id": "6e34885029eaa6ef",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -175,12 +175,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b067816b11371725",
+  "active": "6e34885029eaa6ef",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Skrys.md",
+    "Dnd/Sword-Coast-Map_HighRes.jpg",
+    "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_hraci.jpg",
     "DM Screen.md",
     "Dnd/Wiki/Skills/DC Checks.md",
-    "Pasted image 20230502141500.png",
+    "Templates/images/Pasted image 20230502141500.png",
+    "Templates/images/Pasted image 20230502142341.png",
+    "Dnd/Wiki/Prevody jednotek + skok a pad.md",
+    "Dnd/Wiki/Gamemastering/Uspech a neuspech.md",
+    "Dnd/Wiki/Gameplay/Inspiration.md",
+    "Dnd/Campaings/LostMine/Skrys.md",
     "Dnd/Wiki/Skills/Wisdom.md",
     "Templates/images/Pasted image 20230502141250.png",
     "Dnd/Wiki/Conditions/Exhaustion.md",
@@ -194,11 +202,9 @@
     "Dnd/Campaings/LostMine/chars/Krutus.md",
     "Dnd/Campaings/LostMine/chars/Vincent.md",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
-    "Dnd/Wiki/Prevody jednotek + skok a pad.md",
     "Templates/images/Pasted image 20230502120006.png",
     "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Wiki/Equipment/Transportation.md",
-    "Dnd/Wiki/Gameplay/Inspiration.md",
     "Dnd/Wiki/Gameplay/Travel.md",
     "Dnd/Campaings/LostMine/dopisy/scroll (1).png",
     "Dnd/Campaings/LostMine/dopisy",
@@ -207,20 +213,15 @@
     "Templates/images/Pasted image 20230502104301.png",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
-    "Templates/images/Pasted image 20230502112011.png",
-    "Templates/images/Pasted image 20230502111900.png",
     "Dnd/Wiki/Gamemastering/Improvizovane zraneni.md",
-    "Templates/images/Pasted image 20230502104652.png",
     "Dnd/Wiki/Gamemastering/Poskozeni predmetu.md",
     "Dnd/Wiki/Gamemastering/Rozhovor.md",
     "Dnd/Wiki/Gamemastering/Perception alternativy.md",
     "Dnd/Wiki/Gamemastering/Madness.md",
     "Dnd/Wiki/Gamemastering/Planes.md",
-    "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
     "Templates/images",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
-    "Dnd/PDF Rules/Starter_CZ.pdf",
-    "Dnd/PDF Rules/Bestiar_5e_CZ.pdf"
+    "Dnd/PDF Rules/Starter_CZ.pdf"
   ]
 }

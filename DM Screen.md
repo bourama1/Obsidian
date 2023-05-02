@@ -17,6 +17,7 @@ kanban-plugin: basic
 - [ ] [[Poskozeni predmetu]]
 - [ ] [[Improvizovane zraneni]]
 - [ ] [[Prevody jednotek + skok a pad]]
+- [ ] [[Uspech a neuspech]]
 
 
 ## Campaings
