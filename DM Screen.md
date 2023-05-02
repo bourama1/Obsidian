@@ -16,7 +16,7 @@ kanban-plugin: basic
 - [ ] [[Rozhovor]]
 - [ ] [[Poskozeni predmetu]]
 - [ ] [[Improvizovane zraneni]]
-- [ ] [[Prevody jednotek]]
+- [ ] [[Prevody jednotek + skok a pad]]
 
 
 ## Campaings
