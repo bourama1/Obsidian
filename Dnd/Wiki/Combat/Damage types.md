@@ -1,3 +1,4 @@
+![[Pasted image 20230502132038.png]]
 ### Damage Types
 
 Different attacks, damaging spells, and other harmful effects deal different types of damage. Damage types have no rules of their own, but other rules, such as damage resistance, rely on the types.

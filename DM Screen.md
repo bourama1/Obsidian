@@ -63,6 +63,7 @@ kanban-plugin: basic
 - [ ] [[Crit and Fumble Table]]
 - [ ] [[Dying]]
 - [ ] [[Concentration]]
+- [ ] [[Chvaty]]
 
 
 ## Conditions
