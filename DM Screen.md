@@ -21,12 +21,14 @@ kanban-plugin: basic
 
 ## Campaings
 
-- [ ] [[Fendelin]]
 - [ ] [[Background]]
+- [ ] [[Fendelin]]
+- [ ] [[Skrys]]
 - [ ] [[Fabio]]
 - [ ] [[Hilda]]
 - [ ] [[Krutus]]
 - [ ] [[Vincent]]
+- [ ] > [!important] Navrh inspirace od hrace jinemu hraci
 
 
 ## Equipment
