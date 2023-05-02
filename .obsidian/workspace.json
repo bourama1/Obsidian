@@ -33,9 +33,11 @@
             "id": "73676c2fdf702c08",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Skills/DC Checks.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -106,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Wiki/Skills/DC Checks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Wiki/Skills/DC Checks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Skills/DC Checks.md"
               }
             }
           },
@@ -200,8 +202,8 @@
   },
   "active": "73676c2fdf702c08",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/dopisy/scroll (1).png",
     "DM Screen.md",
+    "Dnd/Campaings/LostMine/dopisy/scroll (1).png",
     "Dnd/Campaings/LostMine/dopisy",
     "Dnd/Wiki/Prevody jednotek.md",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
@@ -236,7 +238,6 @@
     "Dnd/Wiki/Equipment/Weapons.md",
     "Templates/images/Pasted image 20230428152616.png",
     "Templates/images",
-    "Templates/z_Assets/Misc/MapPlaceholder.png",
     "Templates/bestiary/Template - Beast.md",
     "Templates/3_Markdown/Chart Examples (Mermaid).md",
     "Templates/3_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
