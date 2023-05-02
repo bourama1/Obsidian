@@ -28,18 +28,9 @@
                 "file": "DM Screen.md"
               }
             }
-          },
-          {
-            "id": "32647d7bc33294c2",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
-              }
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -105,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Shnuti.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Shnuti.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Shnuti.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -197,11 +188,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7277f8f01d1e6b8a",
+  "active": "df2fcf40a03b834d",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/Shnuti.md",
     "DM Screen.md",
+    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
+    "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
     "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/LostMine/img/BarthensProvisions.webp",
     "Dnd/Campaings/LostMine/img/LionshieldCoster.webp",
@@ -219,7 +211,6 @@
     "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_hraci.jpg",
     "Dnd/Wiki/Skills/DC Checks.md",
     "Templates/images/Pasted image 20230502141500.png",
-    "Templates/images/Pasted image 20230502142341.png",
     "Dnd/Wiki/Prevody jednotek + skok a pad.md",
     "Dnd/Wiki/Gamemastering/Uspech a neuspech.md",
     "Dnd/Wiki/Gameplay/Inspiration.md",

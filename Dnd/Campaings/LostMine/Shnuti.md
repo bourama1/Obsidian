@@ -6,7 +6,21 @@
 	2. Porazi gobliny a dostanou se do Rokliske skryse odkud goblini utoci na cesty
 	3. Vsechny v jeskyni vymlati a zachrani Sildara a ten je pozada o doprovod do Fendelinu
 3. Cast = Fendelin
-	1. 
+	1. Prijedou do mesta, pokecaji se vsema a dostanou 3 side questy
+	2. Dostanou se do potycky s cervenyma a najdou jejich zakladnu
+	3. Vymlati vse
+		1. krome goblina - ten jim povi lokaci hradu pokud ho nechaji jit
+		2. Iarno
+			1. utece
+			2. bojuje
+				1. zabit
+				2. zajat
+					1. rekne co vi a jde do radnice do cely
+					2. ideal pro Sildara
+			3. v kazdem pripade najdou dopis
+4. Cast = Side questy / Info gathering
+	1. asd
+5. Cast = Jeskyne Hromovych Ozven
 ## Historie
 Před více než pěti sty lety vytvořily klany trpaslíků a gnómů dohodu zvanou Fendelverský pakt, podle níž sdíleli bohatý důl v podivuhodné jeskyni zvané ***jeskyně Hromových ozvěn***. Krom nerostného bohatství zde byla velká magická síla. Lidští sesilatelé se spojili s  gnómy a  trpaslíky, aby svedli a svázali tuto sílu do obrovské kovárny (zvané ***Kovárna kouzel***), kde bylo možné kovat kouzelné předměty. Časy byly dobré a nedaleké lidské městečko Fendelin rovněž vzkvétalo. 
 Ale pak přišla pohroma v podobě orkské hordy, která se prohnala celým Severem a zpustošila všechno, co jí stálo v cestě. Silná jednotka orků, podpořená žoldnéřskými kouzelníky, zaútočila na jeskyni Hromových ozvěn, aby se zmocnila jejího bohatství a kouzelných pokladů. Lidští kouzelníci bojovali po boku svých trpasličích a  gnómských spojenců, aby Kovárnu kouzel ubránili, a rozpoutavší se magická bitva zničila většinu jeskyně. Následné sesuvy a zemětřesení přežila jen hrstka tvorů a jeskyně Hromových ozvěn zmizela z map. 
