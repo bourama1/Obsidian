@@ -9,6 +9,12 @@
 | Very hard         | 25 |
 | Nearly impossible | 30 |
 
+
+> [!important] Difficulty
+> Stava se jednodussi cim blize k tomu co je potreba udelat specifikuji svoji akci.
+> Napr. pokud hledaji skryte veci v celem stole je investigation dc 15; pokud budou hledat pod stole tak jen 5, protoze klic je zespod stolu
+
+
 ## Working Together
 
 Sometimes two or more characters team up to attempt a task. The character who's leading the effort-or the one with the highest ability modifier-can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.
