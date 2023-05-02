@@ -18,7 +18,7 @@
 > [!note] Passive
 > Pokud se vyuziva pasivni hodnoty, ale maji hraci vyhodu/nevyhodu, tak se misto toho pricte/odecte 5 k Dc
 
-
+![[Pasted image 20230502141250.png]]
 ## Working Together
 
 Sometimes two or more characters team up to attempt a task. The character who's leading the effort-or the one with the highest ability modifier-can make an ability check with advantage, reflecting the help provided by the other characters. In combat, this requires the Help action.

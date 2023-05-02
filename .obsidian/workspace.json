@@ -11,9 +11,11 @@
             "id": "b3eaa3400da04382",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Skills/DC Checks.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Wiki/Skills/DC Checks.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Wiki/Skills/DC Checks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Skills/DC Checks.md"
               }
             }
           },
@@ -177,8 +179,9 @@
   },
   "active": "b3eaa3400da04382",
   "lastOpenFiles": [
-    "Dnd/Wiki/Conditions/Exhaustion.md",
+    "Templates/images/Pasted image 20230502141250.png",
     "DM Screen.md",
+    "Dnd/Wiki/Conditions/Exhaustion.md",
     "Templates/images/Pasted image 20230502132038.png",
     "Dnd/Wiki/Combat/Dying.md",
     "Dnd/Wiki/Combat/Damage types.md",
