@@ -6,7 +6,6 @@
       {
         "id": "46090aa73a10ee64",
         "type": "tabs",
-        "dimension": 50.36101083032491,
         "children": [
           {
             "id": "c1e468dfce2f0185",
@@ -21,7 +20,17 @@
             }
           },
           {
-            "id": "3e2acabbcdf54959",
+            "id": "c181b8b25c2df361",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
+              }
+            }
+          },
+          {
+            "id": "73676c2fdf702c08",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -31,24 +40,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "e0641cf52c48c48b",
-        "type": "tabs",
-        "dimension": 49.63898916967509,
-        "children": [
-          {
-            "id": "c181b8b25c2df361",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -206,17 +198,26 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3e2acabbcdf54959",
+  "active": "73676c2fdf702c08",
   "lastOpenFiles": [
-    "Dnd/Wiki/Combat/Dying.md",
+    "Dnd/Campaings/LostMine/dopisy/scroll (1).png",
     "DM Screen.md",
+    "Dnd/Campaings/LostMine/dopisy",
+    "Dnd/Wiki/Prevody jednotek.md",
+    "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
+    "Dnd/Wiki/pdfs/quick-conditions2.png",
+    "Templates/images/Pasted image 20230502104301.png",
+    "Dnd/Wiki/pdfs/Denik_postavy.pdf",
+    "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
+    "Templates/images/Pasted image 20230502112011.png",
+    "Templates/images/Pasted image 20230502111900.png",
+    "Dnd/Wiki/Combat/Dying.md",
     "Dnd/Wiki/Gamemastering/Improvizovane zraneni.md",
-    "Pasted image 20230502104652.png",
-    "Pasted image 20230502104637.png",
+    "Templates/images/Pasted image 20230502104652.png",
+    "Templates/images/Pasted image 20230502104637.png",
     "Dnd/Wiki/Gamemastering/Poskozeni predmetu.md",
-    "Pasted image 20230502104456.png",
+    "Templates/images/Pasted image 20230502104456.png",
     "Dnd/Wiki/Gamemastering/Rozhovor.md",
-    "Pasted image 20230502104301.png",
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Campaings/LostMine/chars/Vincent.md",
     "Dnd/Campaings/LostMine/chars/Krutus.md",
@@ -229,30 +230,21 @@
     "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/Skrys.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
-    "Dnd/Campaings/LostMine/sklivecDopis.png",
+    "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
     "Dnd/Campaings/LostMine/chars/dnd beyond.md",
     "Dnd/Wiki/Equipment/Armor.md",
     "Dnd/Wiki/Equipment/Weapons.md",
     "Templates/images/Pasted image 20230428152616.png",
     "Templates/images",
     "Templates/z_Assets/Misc/MapPlaceholder.png",
-    "Templates/z_Assets/Misc/ImagePlaceholder.png",
-    "Templates/Spell/Abjuration.png",
     "Templates/bestiary/Template - Beast.md",
     "Templates/3_Markdown/Chart Examples (Mermaid).md",
     "Templates/3_Markdown/Combat Templates/Insert Monster Into Table (Initiative Tracker).md",
     "Templates/3_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
     "Templates/3_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - GM Direction.md",
-    "Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Flavor.md",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
-    "Templates/images/Pasted image 20230428202425.png",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/PDF Rules/Starter_CZ.pdf",
-    "Dnd/PDF Rules/Bestiar_5e_CZ.pdf",
-    "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",
-    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
-    "Dnd/Campaings/LostMine/chars",
-    "Dnd/favorites_4_28_23.html"
+    "Dnd/PDF Rules/Bestiar_5e_CZ.pdf"
   ]
 }

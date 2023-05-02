@@ -4,24 +4,43 @@ kanban-plugin: basic
 
 ---
 
-## Conditions
+## Gameplay
 
-- [ ] [[Blinded]]
-- [ ] [[Charmed]]
-- [ ] [[Deafened]]
-- [ ] [[Exhaustion]]
-- [ ] [[Frightened]]
-- [ ] [[Grappled]]
-- [ ] [[Incapacitated]]
-- [ ] [[Invisible]]
-- [ ] [[Paralyzed]]
-- [ ] [[Petrified]]
-- [ ] [[Poisoned]]
-- [ ] [[Prone]]
-- [ ] [[Restrained]]
-- [ ] [[Stunned]]
-- [ ] [[Unconscious]]
-- [ ] [[Dnd/Wiki/Conditions/Quick reference]]
+- [ ] [[Travel]]
+- [ ] [[Enviroment]]
+- [ ] [[Inspiration]]
+- [ ] [[Languages]]
+- [ ] [[Special Types of Movement]]
+- [ ] [[Spell List]]
+- [ ] [[Chasing]]
+- [ ] [[Rozhovor]]
+- [ ] [[Poskozeni predmetu]]
+- [ ] [[Improvizovane zraneni]]
+- [ ] [[Prevody jednotek]]
+
+
+## Campaings
+
+- [ ] [[Fendelin]]
+- [ ] [[Background]]
+- [ ] [[Fabio]]
+- [ ] [[Hilda]]
+- [ ] [[Krutus]]
+- [ ] [[Vincent]]
+
+
+## Equipment
+
+- [ ] [[Armor]]
+- [ ] [[Weapons]]
+- [ ] [[Gear]] ^env9bz
+- [ ] [[Tools]]
+- [ ] [[Transportation]]
+- [ ] [[Trade goods]]
+- [ ] [[Poisons]]
+- [ ] [[Expenses]]
+- [ ] [[Magic Items]]
+- [ ] [[Potion of Healing]]
 
 
 ## Skills
@@ -46,42 +65,24 @@ kanban-plugin: basic
 - [ ] [[Concentration]]
 
 
-## Equipment
+## Conditions
 
-- [ ] [[Armor]]
-- [ ] [[Weapons]]
-- [ ] [[Gear]] ^env9bz
-- [ ] [[Tools]]
-- [ ] [[Transportation]]
-- [ ] [[Trade goods]]
-- [ ] [[Poisons]]
-- [ ] [[Expenses]]
-- [ ] [[Magic Items]]
-- [ ] [[Potion of Healing]]
-
-
-## Gameplay
-
-- [ ] [[Travel]]
-- [ ] [[Enviroment]]
-- [ ] [[Inspiration]]
-- [ ] [[Languages]]
-- [ ] [[Special Types of Movement]]
-- [ ] [[Spell List]]
-- [ ] [[Chasing]]
-- [ ] [[Rozhovor]]
-- [ ] [[Poskozeni predmetu]]
-- [ ] [[Improvizovane zraneni]]
-
-
-## Campaings
-
-- [ ] [[Fendelin]]
-- [ ] [[Background]]
-- [ ] [[Fabio]]
-- [ ] [[Hilda]]
-- [ ] [[Krutus]]
-- [ ] [[Vincent]]
+- [ ] [[Blinded]]
+- [ ] [[Charmed]]
+- [ ] [[Deafened]]
+- [ ] [[Exhaustion]]
+- [ ] [[Frightened]]
+- [ ] [[Grappled]]
+- [ ] [[Incapacitated]]
+- [ ] [[Invisible]]
+- [ ] [[Paralyzed]]
+- [ ] [[Petrified]]
+- [ ] [[Poisoned]]
+- [ ] [[Prone]]
+- [ ] [[Restrained]]
+- [ ] [[Stunned]]
+- [ ] [[Unconscious]]
+- [ ] [[Dnd/Wiki/Conditions/Quick reference]]
 
 
 
