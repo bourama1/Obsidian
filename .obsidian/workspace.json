@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "38fa989f20b37a3e",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "DM Screen.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "e0641cf52c48c48b",
@@ -101,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -193,16 +204,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c1e468dfce2f0185",
+  "active": "38fa989f20b37a3e",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Background.md",
+    "Dnd/Wiki/Gamemastering/Perception alternativy.md",
+    "DM Screen.md",
+    "Dnd/Wiki/Gamemastering/Madness.md",
+    "Dnd/Wiki/Gamemastering/Planes.md",
     "Dnd/Campaings/LostMine/Fendelin.md",
+    "Dnd/Campaings/LostMine/Background.md",
     "Dnd/Campaings/LostMine/Skrys.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
     "Dnd/Campaings/LostMine/sklivecDopis.png",
     "Dnd/Campaings/LostMine/chars/Fabio.md",
     "Dnd/Campaings/LostMine/chars/dnd beyond.md",
-    "DM Screen.md",
     "Dnd/Wiki/Equipment/Armor.md",
     "Dnd/Wiki/Equipment/Weapons.md",
     "Templates/images/Pasted image 20230428152616.png",
@@ -232,9 +246,6 @@
     "Templates/images/Pasted image 20230428152711.png",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf",
     "Dnd/Campaings/LostMine/chars/Krutus.md",
-    "Dnd/Campaings/LostMine/chars/Hilda.md",
-    "Dnd/Campaings/LostMine/chars/Vincent.md",
-    "Dnd/Campaings/LostMine/chars/Jirka - Vincent.md",
     "Dnd/PDF Rules/Starter_CZ.pdf",
     "Dnd/PDF Rules/Bestiar_5e_CZ.pdf",
     "Dnd/PDF Rules/Uvodni_sada_pravidla_v1.10.pdf",

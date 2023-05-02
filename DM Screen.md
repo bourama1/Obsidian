@@ -33,6 +33,7 @@ kanban-plugin: basic
 - [ ] [[Constitution]]
 - [ ] [[Wisdom]]
 - [ ] [[DC Checks]]
+- [ ] [[Perception alternativy]]
 
 
 ## Combat
