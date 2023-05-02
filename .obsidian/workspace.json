@@ -11,9 +11,31 @@
             "id": "7277f8f01d1e6b8a",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Campaings/LostMine/Shnuti.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df2fcf40a03b834d",
+            "type": "leaf",
+            "state": {
               "type": "kanban",
               "state": {
                 "file": "DM Screen.md"
+              }
+            }
+          },
+          {
+            "id": "32647d7bc33294c2",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
               }
             }
           }
@@ -83,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Shnuti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Shnuti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Shnuti.md"
               }
             }
           },
@@ -177,8 +199,10 @@
   },
   "active": "7277f8f01d1e6b8a",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Fendelin.md",
+    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
+    "Dnd/Campaings/LostMine/Shnuti.md",
     "DM Screen.md",
+    "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/LostMine/img/BarthensProvisions.webp",
     "Dnd/Campaings/LostMine/img/LionshieldCoster.webp",
     "Dnd/Campaings/LostMine/img/PhandalinMinersExchange.webp",
@@ -210,7 +234,6 @@
     "Dnd/Campaings/LostMine/chars/Hilda.md",
     "Dnd/Campaings/LostMine/chars/Krutus.md",
     "Dnd/Campaings/LostMine/chars/Vincent.md",
-    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Wiki/Equipment/Transportation.md",
     "Dnd/Campaings/LostMine/dopisy",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
@@ -218,7 +241,6 @@
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
     "Dnd/Wiki/Gamemastering/Perception alternativy.md",
     "Dnd/Wiki/Gamemastering/Madness.md",
-    "Dnd/Wiki/Gamemastering/Planes.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
     "Templates/images",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"

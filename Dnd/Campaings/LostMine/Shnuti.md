@@ -1,3 +1,13 @@
+1. Cast = Uvod
+	1. Dobrodruzi se sesli v NeverWinteru a dostali od Gundrena ukol
+	2. Cestuji s karavanou az narazi na mrtvoly koni
+2. Cast = Goblini sipy
+	1. Pri obhledavani mrtvol zjisti ze jsou jejich pratel Gundrena a Sildara
+	2. Porazi gobliny a dostanou se do Rokliske skryse odkud goblini utoci na cesty
+	3. Vsechny v jeskyni vymlati a zachrani Sildara a ten je pozada o doprovod do Fendelinu
+3. Cast = Fendelin
+	1. 
+## Historie
 Před více než pěti sty lety vytvořily klany trpaslíků a gnómů dohodu zvanou Fendelverský pakt, podle níž sdíleli bohatý důl v podivuhodné jeskyni zvané ***jeskyně Hromových ozvěn***. Krom nerostného bohatství zde byla velká magická síla. Lidští sesilatelé se spojili s  gnómy a  trpaslíky, aby svedli a svázali tuto sílu do obrovské kovárny (zvané ***Kovárna kouzel***), kde bylo možné kovat kouzelné předměty. Časy byly dobré a nedaleké lidské městečko Fendelin rovněž vzkvétalo. 
 Ale pak přišla pohroma v podobě orkské hordy, která se prohnala celým Severem a zpustošila všechno, co jí stálo v cestě. Silná jednotka orků, podpořená žoldnéřskými kouzelníky, zaútočila na jeskyni Hromových ozvěn, aby se zmocnila jejího bohatství a kouzelných pokladů. Lidští kouzelníci bojovali po boku svých trpasličích a  gnómských spojenců, aby Kovárnu kouzel ubránili, a rozpoutavší se magická bitva zničila většinu jeskyně. Následné sesuvy a zemětřesení přežila jen hrstka tvorů a jeskyně Hromových ozvěn zmizela z map. 
 Zkazky o  pohřbeném bohatství lákaly po staletí hledače pokladů a  jiné prospěcháře do okolí Fendelinu, ale nikdo v hledání dolu neuspěl. V nedávných letech se do oblasti vrátili osadníci. Fendelin je nyní drsná osada na pokraji civilizace. Co je však důležitější, trojice trpaslíků – bratrů Skálohledů  – objevila vstup do jeskyně Hromových ozvěn a  hodlají doly znovu otevřít.

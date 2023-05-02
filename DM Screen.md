@@ -20,9 +20,9 @@ kanban-plugin: basic
 - [ ] [[Uspech a neuspech]]
 
 
-## Campaings
+## LostMine
 
-- [ ] [[Background]]
+- [ ] [[Shnuti]]
 - [ ] [[Fendelin]]
 - [ ] [[Skrys]]
 - [ ] [[Fabio]]
