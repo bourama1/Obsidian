@@ -8,32 +8,15 @@
 	"lk": false,
 	"ps": [
 		{
-			"x": 0,
-			"y": 3,
-			"w": 1,
-			"h": 1,
-			"t": 0
-		},
-		{
-			"x": 1,
-			"y": 3,
-			"w": 1,
-			"h": 1,
-			"t": 0
-		},
-		{
 			"x": 2,
 			"y": 2,
 			"w": 1,
 			"h": 1,
-			"t": 0
-		},
-		{
-			"x": 2,
-			"y": 3,
-			"w": 1,
-			"h": 1,
-			"t": 0
+			"t": 14,
+			"c": {
+				"b": "PHB",
+				"c": 12
+			}
 		},
 		{
 			"x": 3,
@@ -189,32 +172,30 @@
 				"s": "DMG",
 				"u": "wand%20of%20wonder_dmg"
 			}
-		}
-	],
-	"ex": [
-		{
-			"x": 3,
-			"y": 2,
-			"w": 1,
-			"h": 1,
-			"t": 1,
-			"c": {
-				"p": "items.html",
-				"s": "DMG",
-				"u": "goggles%20of%20night_dmg"
-			}
 		},
 		{
-			"x": 3,
-			"y": 2,
-			"w": 1,
+			"x": 0,
+			"y": 3,
+			"w": 3,
 			"h": 1,
-			"t": 1,
-			"c": {
-				"p": "items.html",
-				"s": "DMG",
-				"u": "staff%20of%20the%20python_dmg"
+			"t": 5,
+			"s": {
+				"r": [],
+				"s": "NUMBER",
+				"d": "DESC",
+				"m": false,
+				"g": true,
+				"p": true,
+				"a": false,
+				"k": false,
+				"piHp": false,
+				"piHm": false,
+				"piV": true,
+				"piO": false,
+				"c": [],
+				"n": "1"
 			}
 		}
-	]
+	],
+	"ex": []
 }
