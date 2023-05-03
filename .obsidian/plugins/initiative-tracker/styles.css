@@ -179,5 +179,9 @@ body {
   display: flex;
   justify-content: flex-end;
 }
+.initiative-tracker-textarea + .cm-editor {
+  height: 200px;
+  margin-bottom: 1rem;
+}
 
 /* src/styles.css */

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df2fcf40a03b834d",
+            "id": "c631f1bc24a39c2a",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -18,12 +18,12 @@
             }
           },
           {
-            "id": "1efc39037a5cdc10",
+            "id": "843f9f0f80f6048b",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "kanban",
               "state": {
-                "currentVersion": "1.2.7"
+                "file": "DM Screen.md"
               }
             }
           }
@@ -163,7 +163,7 @@
             }
           },
           {
-            "id": "ee1a0fcf5b266d08",
+            "id": "272bd8f428f3d264",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -172,11 +172,24 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "8364404e95ea8e1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5246438a403448b",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 470.5,
-    "collapsed": true
+    "width": 470.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,13 +204,17 @@
       "templater-obsidian:Templater": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "1efc39037a5cdc10",
+  "active": "272bd8f428f3d264",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Shnuti.md",
+    "Dnd/Wiki/Treasure/Magic Items.md",
     "DM Screen.md",
+    "Dnd/Wiki/Treasure/Potion of Healing.md",
+    "Templates/images/Pasted image 20230503131512.png",
+    "Dnd/Campaings/LostMine/Shnuti.md",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
     "Dnd/Campaings/LostMine/Fendelin.md",
@@ -216,7 +233,6 @@
     "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
     "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_hraci.jpg",
     "Dnd/Wiki/Skills/DC Checks.md",
-    "Templates/images/Pasted image 20230502141500.png",
     "Dnd/Wiki/Prevody jednotek + skok a pad.md",
     "Dnd/Wiki/Gamemastering/Uspech a neuspech.md",
     "Dnd/Wiki/Gameplay/Inspiration.md",
@@ -237,7 +253,6 @@
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
     "Dnd/Wiki/Gamemastering/Perception alternativy.md",
-    "Dnd/Wiki/Gamemastering/Madness.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
     "Templates/images",
     "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
