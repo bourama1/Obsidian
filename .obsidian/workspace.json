@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c631f1bc24a39c2a",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DM Screen.md"
-              }
-            }
-          },
-          {
             "id": "843f9f0f80f6048b",
             "type": "leaf",
             "state": {
@@ -27,8 +17,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,7 +197,7 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "272bd8f428f3d264",
+  "active": "843f9f0f80f6048b",
   "lastOpenFiles": [
     "Dnd/Wiki/Treasure/Magic Items.md",
     "DM Screen.md",
