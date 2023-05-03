@@ -16,8 +16,19 @@
                 "file": "DM Screen.md"
               }
             }
+          },
+          {
+            "id": "1efc39037a5cdc10",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.7"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -60,6 +71,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "444b225968da4a61",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -175,7 +194,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "df2fcf40a03b834d",
+  "active": "1efc39037a5cdc10",
   "lastOpenFiles": [
     "Dnd/Campaings/LostMine/Shnuti.md",
     "DM Screen.md",
