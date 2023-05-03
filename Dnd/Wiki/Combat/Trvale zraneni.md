@@ -1,0 +1,1 @@
+![[Trvale zraneni.png]]

@@ -67,6 +67,8 @@ kanban-plugin: basic
 - [ ] [[Dying]]
 - [ ] [[Concentration]]
 - [ ] [[Chvaty]]
+- [ ] [[Cleaving]]
+- [ ] [[Trvale zraneni]]
 
 
 ## Conditions

@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "843f9f0f80f6048b",
+            "id": "6569f5d381348392",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -197,10 +197,15 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "843f9f0f80f6048b",
+  "active": "6569f5d381348392",
   "lastOpenFiles": [
-    "Dnd/Wiki/Treasure/Magic Items.md",
+    "Dnd/Wiki/Combat/Trvale zraneni.md",
     "DM Screen.md",
+    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
+    "Dnd/Wiki/Combat/Trvale zraneni.png",
+    "Dnd/Wiki/Combat/Cleaving.md",
+    "Pasted image 20230503222729.png",
+    "Dnd/Wiki/Treasure/Magic Items.md",
     "Dnd/Wiki/Treasure/Potion of Healing.md",
     "Templates/images/Pasted image 20230503131512.png",
     "Dnd/Campaings/LostMine/Shnuti.md",
@@ -219,8 +224,6 @@
     "Dnd/Wiki/Gamemastering/Rozhovor.md",
     "Dnd/Wiki/Gameplay/Travel.md",
     "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload",
-    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_hraci.jpg",
     "Dnd/Wiki/Skills/DC Checks.md",
     "Dnd/Wiki/Prevody jednotek + skok a pad.md",
     "Dnd/Wiki/Gamemastering/Uspech a neuspech.md",
@@ -235,15 +238,11 @@
     "Dnd/Campaings/LostMine/chars/Fabio.md",
     "Dnd/Campaings/LostMine/chars/Hilda.md",
     "Dnd/Campaings/LostMine/chars/Krutus.md",
-    "Dnd/Campaings/LostMine/chars/Vincent.md",
-    "Dnd/Wiki/Equipment/Transportation.md",
     "Dnd/Campaings/LostMine/dopisy",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
-    "Dnd/Wiki/Gamemastering/Perception alternativy.md",
     "Dnd/Campaings/LostMine/dm-screen.json",
-    "Templates/images",
-    "Dnd/Campaings/LostMine/Ztracen∞ dàl Fendelveru_v2.20.pdf"
+    "Templates/images"
   ]
 }
