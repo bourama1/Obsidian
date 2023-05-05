@@ -11,9 +11,11 @@
             "id": "6569f5d381348392",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Shnuti.md",
+                "mode": "preview",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Shnuti.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Shnuti.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Shnuti.md"
               }
             }
           },
@@ -197,14 +199,14 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "6569f5d381348392",
+  "active": "272bd8f428f3d264",
   "lastOpenFiles": [
-    "Dnd/Wiki/Combat/Trvale zraneni.md",
     "DM Screen.md",
+    "Dnd/Wiki/Combat/Cleaving.md",
+    "Templates/images/Pasted image 20230503222729.png",
+    "Dnd/Wiki/Combat/Trvale zraneni.md",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Wiki/Combat/Trvale zraneni.png",
-    "Dnd/Wiki/Combat/Cleaving.md",
-    "Pasted image 20230503222729.png",
     "Dnd/Wiki/Treasure/Magic Items.md",
     "Dnd/Wiki/Treasure/Potion of Healing.md",
     "Templates/images/Pasted image 20230503131512.png",
