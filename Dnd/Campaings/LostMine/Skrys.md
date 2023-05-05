@@ -12,16 +12,16 @@
 > - Nižší část komplexu hlídá odporná „okatá příšera“ (viz oblast 8). 
 > - Rudocejši drží v oblasti krypty několik zajatců. Hlídají je kostlivci (viz oblasti 4 a 5).
 
-1. ***Mistnost 2*** 
-	1. pripsat 75xp kazdemu za posledni fight
-	2. Mate pod sebou dve mrtvoly
-2. ***Mistnost 3***
+1. 75xp
+2. ***Mistnost 2*** 
+	1. Mate pod sebou dve mrtvoly
+3. ***Mistnost 3***
 	1. Mohou se pokusit preskocit DC 15 / 10 atletika pro silnejsi
 	2. Pokud si prohlednou diru najdou rimsu kolem ni
 		1. lze zkusit obejit s DC 10 akrobacie
 > [!note] Cti po otevreni dveri
 > V zaprášené kryptě stojí u zdí trojice sarkofágů. O každý z nich je opřena lidská kostra oděná do rezavých zbytků zbroje. Na sloupech podél zdí jsou reliéfy rozložitých dubů. Dvoukřídlé dveře na jihozápadním konci místnosti jsou pobité zašlým měděným plechem.
-3. ***Mistnost 4***
+4. ***Mistnost 4***
 	1. pokud je to nenapadne, tak dat moznost int/wis checku na 15 proc neutoci
 	2. zautoci pouze pokud budou chtit sahnout na prsten (50gp cena)
 	3. nebo az budou odvadet vezne, protoze ti nemaji kapi
@@ -29,7 +29,7 @@
 > [!note] Cti po otevreni dveri
 >Tato podlouhlá místnost je rozdělená na tři části. Severní a jižní konec slouží jako cely oddělené od prostřední části ocelovými mřížemi. Na podlaze cel je poházena špinavá sláma, vrátka jistí řetězy a visací zámky. V jižní cele je držena dvojice žen, v severní chlapec. Všichni jsou oděni do jednoduchých lněných tunik a kolem krku mají ocelové obojky. 
 >U zdi leží hromada špinavého oblečení.
-4. ***Mistnost 5***
+5. ***Mistnost 5***
 	1. dva zmrdi
 		1. jestli byl fight s kostma tak schovani na prepadeni
 		2. jestli ne tak buzerujou vezne
@@ -40,16 +40,16 @@
 		4. Pokud je vyprovodi ven v poradku tak +25xp
 	3. +50xp za ty dva zmrdy
 	4. Pokud prosli kolem skeletonu jentak, tak je nech otevrit celu a skeletony zautocit na vezne
-5. ***Mistnost 6*
+6. ***Mistnost 6*
 	1. zamcena - DC atletika 20
 	2. Cti pokud otevrou:
 		1. Podél zdí místnosti stojí stojany na zbraně všeho druhu – kopí, meče, kuše a šipky. Na hácích u dveří visí tucet rudých plášťů.
-6. ***Mistnost 7*** = nahore sklad
+7. ***Mistnost 7*** = nahore sklad
 > [!note] Cti po otevreni dveri
 >Tato místnost tvoří severní konec přírodní jeskyňky, ale kámen byl opracován a zarovnán. U zdí stojí několik prázdných sudů a beden, na balících slámy leží páčidla, kladiva a krabice s hřebíky.
 >Jeskyňka pokračuje na jih. Odbočuje z ní několik chodeb na východ i na západ. Prostředkem se táhne hluboká průrva.
 >Jedina hodnotna vec = 12 bobrich kozesin za 2gp jedna
-7. ***Mistnost 8*** = Jeskyne = Nothic
+8. ***Mistnost 8*** = Jeskyne = Nothic
 > [!note] Cti po otevreni dveri
 >Mírný vánek v této jeskyni nese slabý zápach hnijícího masa. Prostředkem se táhne hluboká průrva. Po jejích stranách stojí dva hrubě otesané kamenné sloupy podpírající ve výšce čtyř sáhů strop. Přes průrvu vedou na každém jejím konci celkem dva dřevěné mosty.
 	1. Most nahore se propadne pod dvemi lidmi
@@ -60,7 +60,21 @@
 		4. Kdyz se priblizi k pokladu nothic bude bojovat
 	2. Kdyz mu nechaji poklad a nakrmi ho necha je projit nejspis
 	3. 125xp 
-8. Mistnost 9 = Straznice
-9. Mistnost 10 = chlast a kostky
-10. Mistnost 11 = dilna a krysa
-11. Mistnost 12 = Sklivec
+9. Mistnost 9 = Straznice
+> [!note] Cti po otevreni dveri
+>Tato strážnice obsahuje čtyři pryčny s dekami, po podlaze je rozházeno nádobí. Silně zde zapáchají nemytá těla a nahnilé maso. Trojice vysokých, chlupatých gobru(vzpomente si na Klarga z jeskyne) pokřikuje rozkazy na vystrašeného goblina. Ten, když vás spatří, upadne do mdlob na 1d10 minut.
+		1. Perception 10 pasivni slysi goblinstinu
+		2. Jeden z nich = Mosk = vudce
+			1. Ma pasku pres oko s drahokamem (50gp), ale ma ji vysunutou lehce nad oko a je videt ze ma oko a kouka jim
+			2. Klic otevirajici vsechny dvere
+		3. Pokud maji stale rude plaste, tak je gobri ignoruji
+			1. Mohou je zkusit i presvedcit aby se pridali k nim v boji proti podvodnikum DC 15 persuasion
+		4. Goblin Drupy
+			1. Plni rozkazy kohokoliv kdo je nejsilnejsi
+			2. zná Rudocejšskou skrýš docela dobře, včetně jejích tajných dveří a průchodů
+			3. pokud je k tomu vyzván, vyzradí všechno, co může, aby byl družině užitečný.... snaží se vetřít do jejich přízně
+		5. DC Intimidation na Moska k znalosti pozice hradu
+		6. 150xp
+1. Mistnost 10 = chlast a kostky
+2. Mistnost 11 = dilna a krysa
+3. Mistnost 12 = Sklivec
