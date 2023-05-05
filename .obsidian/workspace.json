@@ -69,6 +69,16 @@
                 "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
               }
             }
+          },
+          {
+            "id": "fa85c1b01a282368",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg"
+              }
+            }
           }
         ]
       }
@@ -253,11 +263,13 @@
   },
   "active": "1d8649864d27794e",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Shnuti.md",
-    "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
-    "DM Screen.md",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
     "Dnd/Campaings/LostMine/Skrys.md",
+    "Dnd/Campaings/LostMine/Fendelin.md",
+    "Dnd/Campaings/LostMine/Shnuti.md",
+    "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
+    "DM Screen.md",
     "Dnd/Wiki/Combat/Cleaving.md",
     "Templates/images/Pasted image 20230503222729.png",
     "Dnd/Wiki/Combat/Trvale zraneni.md",
@@ -271,9 +283,7 @@
     "Dnd/Campaings/LostMine/img/LionshieldCoster.webp",
     "Dnd/Campaings/LostMine/img/PhandalinMinersExchange.webp",
     "Dnd/Campaings/LostMine/img/ShrineOfLuck.webp",
-    "Dnd/Campaings/LostMine/img/StonehillInn.webp",
     "Dnd/Campaings/LostMine/img",
-    "Dnd/Sword-Coast-Map_HighRes.jpg",
     "Dnd/Wiki/Gamemastering/Poskozeni predmetu.md",
     "Dnd/Wiki/Gamemastering/Improvizovane zraneni.md",
     "Dnd/Wiki/Gamemastering/Rozhovor.md",

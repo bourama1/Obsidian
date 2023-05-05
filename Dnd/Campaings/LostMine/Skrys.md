@@ -40,4 +40,27 @@
 		4. Pokud je vyprovodi ven v poradku tak +25xp
 	3. +50xp za ty dva zmrdy
 	4. Pokud prosli kolem skeletonu jentak, tak je nech otevrit celu a skeletony zautocit na vezne
-5. 
+5. ***Mistnost 6*
+	1. zamcena - DC atletika 20
+	2. Cti pokud otevrou:
+		1. Podél zdí místnosti stojí stojany na zbraně všeho druhu – kopí, meče, kuše a šipky. Na hácích u dveří visí tucet rudých plášťů.
+6. ***Mistnost 7*** = nahore sklad
+> [!note] Cti po otevreni dveri
+>Tato místnost tvoří severní konec přírodní jeskyňky, ale kámen byl opracován a zarovnán. U zdí stojí několik prázdných sudů a beden, na balících slámy leží páčidla, kladiva a krabice s hřebíky.
+>Jeskyňka pokračuje na jih. Odbočuje z ní několik chodeb na východ i na západ. Prostředkem se táhne hluboká průrva.
+>Jedina hodnotna vec = 12 bobrich kozesin za 2gp jedna
+7. ***Mistnost 8*** = Jeskyne = Nothic
+> [!note] Cti po otevreni dveri
+>Mírný vánek v této jeskyni nese slabý zápach hnijícího masa. Prostředkem se táhne hluboká průrva. Po jejích stranách stojí dva hrubě otesané kamenné sloupy podpírající ve výšce čtyř sáhů strop. Přes průrvu vedou na každém jejím konci celkem dva dřevěné mosty.
+	1. Most nahore se propadne pod dvemi lidmi
+		1. muzou zkusit Dex save
+		2. 2d6 dmg pri padu
+		3. Ihned po padu si vsimnou truhly a +1 longswordu a stitu viz 5e.tools
+			1. 120gp + 160sp + 2 heal pot
+		4. Kdyz se priblizi k pokladu nothic bude bojovat
+	2. Kdyz mu nechaji poklad a nakrmi ho necha je projit nejspis
+	3. 125xp 
+8. Mistnost 9 = Straznice
+9. Mistnost 10 = chlast a kostky
+10. Mistnost 11 = dilna a krysa
+11. Mistnost 12 = Sklivec
