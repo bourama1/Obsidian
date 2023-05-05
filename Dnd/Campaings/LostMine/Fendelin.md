@@ -33,4 +33,11 @@ Osada sestává ze čtyřiceti nebo padesáti jednoduchých srubů, některých 
 # Hornicka smenarna
 ![[PhandalinMinersExchange.webp]]
 # Kaplicka stesti
+ Hook
+		1. Po navratu do vesnice uvidi slabe modre svetlo vychazejici z jejiho domu.
+		2. Pokud otevrou dvere nebo se podivaji oknem uvidi stonek vyrustajici ze zeme s 3 modrymi sviticimi bobulemi. Jedna bobule bude jiz snedena.
+		3. Pokud někdo bobuli pozře, získá vidění Rudého čaroděje, Staré soví studny a okolních Mečových hor. Můžeš dokonce udělit vizi zombií a svazane sestry Garaele
+		4. Kontrola přírody (kvůli horám) nebo kontrola historie (kvůli studni) odhalí konkrétnější polohu. Pokud při kontrole neuspějí, mohou se na ni vždy zeptat lidí ve městě.
+		5. Sestra Garaele už jednu bobuli snědla, zjistila, kde se Hamun Kost nachází, a nechala je pro toho, kdo by mohl přijít po ní (třeba pro dalšího Harfenika)
+
 ![[ShrineOfLuck.webp]]

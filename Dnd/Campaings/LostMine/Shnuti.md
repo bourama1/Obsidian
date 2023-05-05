@@ -19,7 +19,13 @@
 					2. ideal pro Sildara
 			3. v kazdem pripade najdou dopis
 4. Cast = Side questy / Info gathering
-	1. asd
+	1. Navrat domu v noci - zmizeni sestry Garael
+	2. Cesta k Vyverni skale / studni - encounters a rychlost
+	3. splneni questu - orkove + Kost
+	4. od sestry Garael se dozvi lokaci Rokliskeho hradu
+	5. Roklisky hrad
+		1. bud zachrani Gundrena a najdou mapu
+		2. Gundren zemre, ale podari se jim stejne mapu zachranit
 5. Cast = Jeskyne Hromovych Ozven
 ## Historie
 Před více než pěti sty lety vytvořily klany trpaslíků a gnómů dohodu zvanou Fendelverský pakt, podle níž sdíleli bohatý důl v podivuhodné jeskyni zvané ***jeskyně Hromových ozvěn***. Krom nerostného bohatství zde byla velká magická síla. Lidští sesilatelé se spojili s  gnómy a  trpaslíky, aby svedli a svázali tuto sílu do obrovské kovárny (zvané ***Kovárna kouzel***), kde bylo možné kovat kouzelné předměty. Časy byly dobré a nedaleké lidské městečko Fendelin rovněž vzkvétalo. 
