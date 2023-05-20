@@ -11,9 +11,11 @@
             "id": "3d1517d86a1bbf16",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "DM Screen.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -52,19 +54,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "d9b73f55d2a27428",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.2.8"
-              }
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "b59928af42422b00",
@@ -225,7 +217,7 @@
             }
           },
           {
-            "id": "272bd8f428f3d264",
+            "id": "87534e2076f151f6",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -233,21 +225,7 @@
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "8364404e95ea8e1b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "e5246438a403448b",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -265,13 +243,14 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
+      "markdown-importer:Open format converter": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "d9b73f55d2a27428",
+  "active": "1d8649864d27794e",
   "lastOpenFiles": [
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",

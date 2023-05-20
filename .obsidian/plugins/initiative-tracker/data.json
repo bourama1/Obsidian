@@ -57,7 +57,6 @@
     }
   ],
   "defaultParty": null,
-  "homebrew": [],
   "statuses": [
     {
       "name": "Blinded",
@@ -141,7 +140,11 @@
     }
   ],
   "unconsciousId": "Unconscious",
-  "version": null,
+  "version": [
+    11,
+    1,
+    6
+  ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
   "initiative": "1d20 + %mod%",
@@ -155,13 +158,15 @@
       {
         "name": "Fabio",
         "initiative": 0,
+        "static": false,
         "modifier": 0,
         "hp": 15,
         "currentMaxHP": 15,
         "ac": "11",
         "currentAC": "11",
         "note": "Fabio",
-        "id": "ID_b9a998b9b84b",
+        "path": "Dnd/Campaings/LostMine/chars/Fabio.md",
+        "id": "ID_2a4a7a2bebba",
         "marker": "default",
         "currentHP": 15,
         "tempHP": 0,
@@ -175,13 +180,15 @@
       {
         "name": "Vincent",
         "initiative": 9,
+        "static": false,
         "modifier": 3,
         "hp": 20,
         "currentMaxHP": 20,
         "ac": "18",
         "currentAC": "18",
         "note": "Vincent",
-        "id": "ID_0b1b79d86b4a",
+        "path": "Dnd/Campaings/LostMine/chars/Vincent.md",
+        "id": "ID_e9aa1b78ea4b",
         "marker": "default",
         "currentHP": 20,
         "tempHP": 0,
@@ -195,13 +202,15 @@
       {
         "name": "Hilda",
         "initiative": 0,
+        "static": false,
         "modifier": -1,
         "hp": 21,
         "currentMaxHP": 21,
         "ac": "12",
         "currentAC": "12",
         "note": "Hilda",
-        "id": "ID_db8828fa3a69",
+        "path": "Dnd/Campaings/LostMine/chars/Hilda.md",
+        "id": "ID_8b2b2b4809f9",
         "marker": "default",
         "currentHP": 21,
         "tempHP": 0,
@@ -215,13 +224,15 @@
       {
         "name": "Krutus",
         "initiative": 0,
+        "static": false,
         "modifier": 0,
         "hp": 16,
         "currentMaxHP": 16,
         "ac": "19",
         "currentAC": "19",
         "note": "Krutus",
-        "id": "ID_5a3bc8496ae9",
+        "path": "Dnd/Campaings/LostMine/chars/Krutus.md",
+        "id": "ID_f8b91a3b59e9",
         "marker": "default",
         "currentHP": 16,
         "tempHP": 0,
@@ -235,6 +246,7 @@
       {
         "name": "Bugbear",
         "initiative": 20,
+        "static": false,
         "modifier": 2,
         "hp": 27,
         "currentMaxHP": 27,
@@ -253,6 +265,7 @@
       {
         "name": "Bugbear",
         "initiative": 20,
+        "static": false,
         "modifier": 2,
         "hp": 27,
         "currentMaxHP": 27,
@@ -271,6 +284,7 @@
       {
         "name": "Bugbear",
         "initiative": 20,
+        "static": false,
         "modifier": 2,
         "hp": 27,
         "currentMaxHP": 27,
@@ -1115,12 +1129,13 @@
   "logging": false,
   "logFolder": "/",
   "useLegacy": false,
-  "integrateSRD": true,
   "diplayPlayerHPValues": true,
   "rollHP": false,
   "builder": {
     "showParty": true,
     "showXP": true,
     "sidebarIcon": true
-  }
+  },
+  "homebrew": [],
+  "integrateSRD": true
 }
