@@ -1,53 +1,6 @@
 {
   "mapMarkers": [
     {
-      "id": "Faerun_Map",
-      "lastAccessed": 1668252953395,
-      "markers": [
-        {
-          "id": "ID_291b8958faea",
-          "type": "default",
-          "loc": [
-            1077.1887927900568,
-            1376.2065728843183
-          ],
-          "link": "1. Tajemni navstevnici",
-          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        },
-        {
-          "id": "ID_5a39faaa7b3a",
-          "type": "default",
-          "loc": [
-            1061.6324436039529,
-            1409.0870382094927
-          ],
-          "link": "2. Mlha",
-          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
-          "mutable": true,
-          "command": false,
-          "percent": null,
-          "description": null,
-          "minZoom": null,
-          "maxZoom": null,
-          "tooltip": "hover"
-        }
-      ],
-      "overlays": [],
-      "shapes": [],
-      "files": [
-        "Dnd/Campaings/Curse/00. Hooks/00. Hooks.md",
-        "Templates/3_Markdown/Insert Map (Leaflet).md",
-        "Dnd/Campaings/Curse/01b. Death house/01b. Death house.md"
-      ]
-    },
-    {
       "id": "leaflet-map",
       "lastAccessed": 1668252975880,
       "markers": [
@@ -89,6 +42,122 @@
       "overlays": [],
       "shapes": [],
       "files": []
+    },
+    {
+      "id": "Faerun_Map",
+      "lastAccessed": 1684571471111,
+      "markers": [
+        {
+          "id": "ID_291b8958faea",
+          "type": "default",
+          "loc": [
+            1077.1887927900568,
+            1376.2065728843183
+          ],
+          "link": "1. Tajemni navstevnici",
+          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5a39faaa7b3a",
+          "type": "default",
+          "loc": [
+            1061.6324436039529,
+            1409.0870382094927
+          ],
+          "link": "2. Mlha",
+          "layer": "%5B%5BMapa_SZFearun_HR.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1a2a8a6bda98",
+          "type": "default",
+          "loc": [
+            -311.1269837220809,
+            4364.263053483372
+          ],
+          "layer": "%5B%5BMecove%20pobrezi_hraci.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5b18c83b68d8",
+          "type": "default",
+          "loc": [
+            -1694,
+            904
+          ],
+          "link": "Fendelin",
+          "layer": "%5B%5BMecove%20pobrezi_hraci.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_f88a08ca3a29",
+          "type": "default",
+          "loc": [
+            1380.71875,
+            1173
+          ],
+          "link": "North SC",
+          "layer": "%5B%5BSword-Coast.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_59680b794ab9",
+          "type": "default",
+          "loc": [
+            -479.81614520889667,
+            1626.3455967290595
+          ],
+          "link": "Sword Coast",
+          "layer": "%5B%5BToril.png%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Templates/3_Markdown/Insert Map (Leaflet).md",
+        "Dnd/Sword Coast.md",
+        "Dnd/Toril.md",
+        "Dnd/North SC.md",
+        "Dnd/Fendelin.md"
+      ]
     }
   ],
   "defaultMarker": {
@@ -119,7 +188,50 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": false,
+    "defaultZoom": -0.5,
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "900px",
+    "image": "[[Fendelin_PJ.jpg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[Fendelin_PJ.jpg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": 1.5,
+    "minZoom": -1.5,
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": 1,
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 0.5,
+    "zoomFeatures": false,
+    "id": "Faerun_Map",
+    "lock": true,
+    "recenter": true,
+    "noScrollZoom": false,
+    "width": "100%",
+    "lat": 907.53,
+    "long": 1402.74,
+    "unit": "miles",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.png",

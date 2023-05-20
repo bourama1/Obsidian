@@ -1,4 +1,3 @@
-
 Osada sestává ze čtyřiceti nebo padesáti jednoduchých srubů, některých s kamennými základy. Staré ruiny – svalené kamenné zdi porostlé trním a břečťanem – obklopují novější domy a obchody. Je znát, že před staletími muselo být tohle město daleko větší. Většina nových domů je postavena podél bahnité hlavní ulice, která pozvolna stoupá k troskám panského domu na nedalekém kopci.
 # Hostinec
 - moje mrtvola - Potion of Healing ; nefritovou sošku žáby se zlacenýma očima (40 zl) ; 25gp 35sp

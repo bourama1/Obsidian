@@ -8,38 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3d1517d86a1bbf16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DM Screen.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6569f5d381348392",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/Shnuti.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a3d65eba7b922afd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Fendelin.md",
-                "mode": "source",
-                "source": false
+                "file": "DM Screen.md"
               }
             }
           },
@@ -54,35 +28,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "b59928af42422b00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41bc8dd9469e7a53",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
-              }
-            }
           },
           {
-            "id": "fa85c1b01a282368",
+            "id": "b17ef24d05d0ee46",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg"
+                "file": "Dnd/Fendelin.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -156,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Skrys.md",
+                "file": "Dnd/Fendelin.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Skrys.md",
+                "file": "Dnd/Fendelin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Skrys.md"
+                "file": "Dnd/Fendelin.md"
               }
             }
           },
@@ -250,47 +210,48 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "87534e2076f151f6",
+  "active": "b17ef24d05d0ee46",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
-    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
-    "Dnd/Campaings/LostMine/Skrys.md",
-    "Dnd/Campaings/LostMine/Fendelin.md",
-    "Dnd/Campaings/LostMine/Shnuti.md",
-    "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
+    "Dnd/North SC.md",
+    "Dnd/Sword Coast.md",
+    "Dnd/Toril.md",
+    "Dnd/Fendelin.md",
     "DM Screen.md",
-    "Dnd/Wiki/Combat/Cleaving.md",
+    "Dnd/Campaings/LostMine/Skrys.md",
+    "Fendelin_PJ.md",
+    "Dnd/Campaings/Untitled.md",
+    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
+    "Templates/images/Sword-Coast.png",
+    "Dnd/Campaings/LostMine/Fendelin.md",
+    "Templates/images/Toril.png",
+    "Dnd/Toril Full.png",
+    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
+    "Dnd/Toril Full  v4.png",
+    "Dnd/Campaings/LostMine/Shnuti.md",
+    "Dnd/Sword-Coast-Map_HighRes.jpg",
+    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
+    "Templates/Spell/Abjuration.png",
+    "Templates/bestiary/Template - Beast.md",
+    "Templates/3_Markdown/REGEX - Helpful Code.md",
+    "Templates/3_Markdown/Insert Map (Leaflet).md",
+    "Templates/3_Markdown/Insert Custom Encounter (Initiative Tracker).md",
+    "Templates/3_Markdown/Insert Checkbox.md",
+    "Templates/3_Markdown/Indent Paragraph.md",
+    "Templates/3_Markdown/Handlebar Template (5eTools Monster).md",
+    "Templates/3_Markdown/Embed Website (iframe).md",
+    "Templates/3_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
+    "Templates/3_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
+    "Templates/3_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
+    "Templates/3_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
+    "Templates/3_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
+    "Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
+    "Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Call Out Box.md",
+    "Templates/2_Mechanics Gallery/Mechanics Gallery.md",
+    "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
     "Templates/images/Pasted image 20230503222729.png",
-    "Dnd/Wiki/Combat/Trvale zraneni.md",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
-    "Dnd/Wiki/Combat/Trvale zraneni.png",
-    "Dnd/Wiki/Treasure/Magic Items.md",
-    "Dnd/Wiki/Treasure/Potion of Healing.md",
-    "Templates/images/Pasted image 20230503131512.png",
-    "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
-    "Dnd/Campaings/LostMine/img/BarthensProvisions.webp",
-    "Dnd/Campaings/LostMine/img/LionshieldCoster.webp",
-    "Dnd/Campaings/LostMine/img/PhandalinMinersExchange.webp",
-    "Dnd/Campaings/LostMine/img/ShrineOfLuck.webp",
     "Dnd/Campaings/LostMine/img",
-    "Dnd/Wiki/Gamemastering/Poskozeni predmetu.md",
-    "Dnd/Wiki/Gamemastering/Improvizovane zraneni.md",
-    "Dnd/Wiki/Gamemastering/Rozhovor.md",
-    "Dnd/Wiki/Gameplay/Travel.md",
     "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload",
-    "Dnd/Wiki/Skills/DC Checks.md",
-    "Dnd/Wiki/Prevody jednotek + skok a pad.md",
-    "Dnd/Wiki/Gamemastering/Uspech a neuspech.md",
-    "Dnd/Wiki/Gameplay/Inspiration.md",
-    "Dnd/Wiki/Skills/Wisdom.md",
-    "Dnd/Wiki/Conditions/Exhaustion.md",
-    "Dnd/Wiki/Combat/Dying.md",
-    "Dnd/Wiki/Combat/Damage types.md",
-    "Dnd/Wiki/Combat/Cover.md",
-    "Dnd/Wiki/Combat/Chvaty.md",
-    "Dnd/Campaings/LostMine/chars/Fabio.md",
-    "Dnd/Campaings/LostMine/chars/Hilda.md",
-    "Dnd/Campaings/LostMine/chars/Krutus.md",
     "Dnd/Campaings/LostMine/dopisy",
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",

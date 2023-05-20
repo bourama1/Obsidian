@@ -23,7 +23,7 @@ kanban-plugin: basic
 ## LostMine
 
 - [ ] [[Shnuti]]
-- [ ] [[Fendelin]]
+- [ ] [[Dnd/Campaings/LostMine/Fendelin]]
 - [ ] [[Skrys]]
 - [ ] [[Fabio]]
 - [ ] [[Hilda]]
