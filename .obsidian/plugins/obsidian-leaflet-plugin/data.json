@@ -45,7 +45,7 @@
     },
     {
       "id": "Faerun_Map",
-      "lastAccessed": 1684571471111,
+      "lastAccessed": 1684572307066,
       "markers": [
         {
           "id": "ID_291b8958faea",
@@ -87,6 +87,22 @@
           "loc": [
             -311.1269837220809,
             4364.263053483372
+          ],
+          "layer": "%5B%5BMecove%20pobrezi_hraci.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b79a95988a9",
+          "type": "default",
+          "loc": [
+            -2650,
+            780
           ],
           "layer": "%5B%5BMecove%20pobrezi_hraci.jpg%5D%5D",
           "mutable": true,
@@ -147,6 +163,91 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_d898a808b948",
+          "type": "default",
+          "loc": [
+            -535.3461246189528,
+            851.3565645486033
+          ],
+          "link": "Hostinec u Kamenika",
+          "layer": "%5B%5BFendelin_PJ.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_cb5b2a890a6a",
+          "type": "default",
+          "loc": [
+            -702.223324978978,
+            646.2955980045045
+          ],
+          "link": "Lvi Stit",
+          "layer": "%5B%5BFendelin_PJ.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3959bafa2809",
+          "type": "default",
+          "loc": [
+            -528.2750568070873,
+            726.9057710597709
+          ],
+          "link": "Kaple Stesti",
+          "layer": "%5B%5BFendelin_PJ.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_09aa492808c9",
+          "type": "default",
+          "loc": [
+            -883.2426609627341,
+            622.2539674441618
+          ],
+          "link": "Hornicka Smenarna",
+          "layer": "%5B%5BFendelin_PJ.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_480b399ad9eb",
+          "type": "default",
+          "loc": [
+            -374.1257785084199,
+            997.0205614730321
+          ],
+          "link": "Bartenuv proviant",
+          "layer": "%5B%5BFendelin_PJ.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
@@ -190,7 +291,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": -0.5,
+    "defaultZoom": -1,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -198,15 +299,17 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "height": "900px",
-    "image": "[[Fendelin_PJ.jpg]]",
+    "image": "[[Mecove pobrezi_hraci.jpg]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Fendelin_PJ.jpg]]"
+      "[[Mecove pobrezi_hraci.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
-    "marker": [],
+    "marker": [
+      "default,-1699.09375,901,,,,"
+    ],
     "commandMarker": [],
     "markerFile": [],
     "markerFolder": [],
@@ -226,7 +329,7 @@
     "lock": true,
     "recenter": true,
     "noScrollZoom": false,
-    "width": "100%",
+    "width": "95%",
     "lat": 907.53,
     "long": 1402.74,
     "unit": "miles",

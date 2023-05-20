@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a3d65eba7b922afd",
+            "id": "f4b03ec58d245831",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -18,31 +18,19 @@
             }
           },
           {
-            "id": "1d8649864d27794e",
+            "id": "f438f86cf98125e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dnd/Campaings/LostMine/Skrys.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b17ef24d05d0ee46",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Fendelin.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Fendelin.md",
+                "file": "Dnd/Campaings/LostMine/Skrys.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Fendelin.md",
+                "file": "Dnd/Campaings/LostMine/Skrys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Fendelin.md"
+                "file": "Dnd/Campaings/LostMine/Skrys.md"
               }
             }
           },
@@ -210,27 +198,37 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "b17ef24d05d0ee46",
+  "active": "f438f86cf98125e7",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "Dnd/Campaings/LostMine/Skrys.md",
+    "Dnd/Campaings/LostMine/Fendelin/Hostinec u Kamenika.md",
+    "Dnd/Fendelin.md",
     "Dnd/North SC.md",
     "Dnd/Sword Coast.md",
     "Dnd/Toril.md",
-    "Dnd/Fendelin.md",
-    "DM Screen.md",
-    "Dnd/Campaings/LostMine/Skrys.md",
+    "Dnd/Campaings/LostMine/Fendelin.md",
+    "Dnd/Campaings/LostMine/Fendelin/Lvi Stit.md",
+    "Dnd/Campaings/LostMine/Fendelin/Bartenuv proviant.md",
+    "Dnd/Campaings/LostMine/Fendelin/Kaple Stesti.md",
+    "Dnd/Campaings/LostMine/Fendelin/Hornicka Smenarna.md",
+    "Dnd/Campaings/Curse/Mapy/Plakáty/Ravenloft.jpg",
+    "Dnd/Campaings/Curse/Mapy/Plakáty/Barovie.jpg",
+    "Dnd/Campaings/Curse/Mapy/Pro PJ/Hostinec.jpg",
+    "Dnd/Campaings/Curse/Mapy/Pro PJ/Ravenloft_Mapa 2.jpg",
+    "uKamenika.md",
+    "StonehillInn.md",
+    "Dnd/Campaings/LostMine/Fendelin",
+    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
+    "Dnd/Campaings/LostMine/img/StonehillInn.webp",
+    "Dnd/Campaings/LostMine/img/ShrineOfLuck.webp",
+    "Dnd/Campaings/LostMine/img/PhandalinMinersExchange.webp",
+    "Dnd/Campaings/LostMine/img/LionshieldCoster.webp",
+    "Dnd/Campaings/LostMine/img/BarthensProvisions.webp",
     "Fendelin_PJ.md",
     "Dnd/Campaings/Untitled.md",
     "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
-    "Templates/images/Sword-Coast.png",
-    "Dnd/Campaings/LostMine/Fendelin.md",
-    "Templates/images/Toril.png",
-    "Dnd/Toril Full.png",
-    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
-    "Dnd/Toril Full  v4.png",
     "Dnd/Campaings/LostMine/Shnuti.md",
-    "Dnd/Sword-Coast-Map_HighRes.jpg",
-    "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
-    "Templates/Spell/Abjuration.png",
     "Templates/bestiary/Template - Beast.md",
     "Templates/3_Markdown/REGEX - Helpful Code.md",
     "Templates/3_Markdown/Insert Map (Leaflet).md",
@@ -240,15 +238,6 @@
     "Templates/3_Markdown/Handlebar Template (5eTools Monster).md",
     "Templates/3_Markdown/Embed Website (iframe).md",
     "Templates/3_Markdown/Combat Templates/Insert Monster (TTRPG Statblock).md",
-    "Templates/3_Markdown/Combat Templates/Insert Encounter (Initiative Tracker).md",
-    "Templates/3_Markdown/Combat Templates/Insert Custom Encounter Table (Initiative Tracker).md",
-    "Templates/3_Markdown/Combat Templates/Insert Customer Monster (TTRPG Statblock).md",
-    "Templates/3_Markdown/Combat Templates/Insert Custom Encounter (Initiative Tracker).md",
-    "Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out Boxes (Admonition).md",
-    "Templates/3_Markdown/Call Out Boxes (Admonition)/Call Out - Call Out Box.md",
-    "Templates/2_Mechanics Gallery/Mechanics Gallery.md",
-    "Dnd/Campaings/LostMine/Mapy/Fendelin_PJ.jpg",
-    "Templates/images/Pasted image 20230503222729.png",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Campaings/LostMine/img",
     "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload",
@@ -256,7 +245,6 @@
     "Dnd/Wiki/pdfs/DM Screen-Cheat Sheet 2.0.pdf",
     "Dnd/Wiki/pdfs/Denik_postavy.pdf",
     "Dnd/Wiki/pdfs/critical-hit-fumble-table.pdf",
-    "Dnd/Campaings/LostMine/dm-screen.json",
-    "Templates/images"
+    "Dnd/Campaings/LostMine/dm-screen.json"
   ]
 }

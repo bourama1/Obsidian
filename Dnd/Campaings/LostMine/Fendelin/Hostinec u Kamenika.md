@@ -1,0 +1,1 @@
+![[StonehillInn.webp]]
