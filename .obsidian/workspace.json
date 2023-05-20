@@ -52,9 +52,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9b73f55d2a27428",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.2.8"
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "b59928af42422b00",
@@ -261,7 +271,7 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "1d8649864d27794e",
+  "active": "d9b73f55d2a27428",
   "lastOpenFiles": [
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/Mapy/Rudocejska skrys_PJ.jpg",
