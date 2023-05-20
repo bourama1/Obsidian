@@ -1,0 +1,185 @@
+{
+	"fileType": "dm-screen",
+	"siteVersion": "1.181.1",
+	"w": 6,
+	"h": 4,
+	"ctc": false,
+	"fs": false,
+	"lk": false,
+	"ps": [
+		{
+			"x": 0,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 0,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "DMG",
+				"u": "shield%20of%20missile%20attraction_dmg"
+			}
+		},
+		{
+			"x": 3,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "DMG",
+				"u": "%2b1%20weapon_dmg"
+			}
+		},
+		{
+			"x": 0,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "bugbear_mm"
+			}
+		},
+		{
+			"x": 1,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "goblin_mm"
+			}
+		},
+		{
+			"x": 3,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "LMoP",
+				"u": "staff%20of%20defense_lmop"
+			}
+		},
+		{
+			"x": 4,
+			"y": 0,
+			"w": 2,
+			"h": 4,
+			"t": 13,
+			"c": {
+				"a": "LMoP",
+				"c": 3
+			}
+		},
+		{
+			"x": 2,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "skeleton_mm"
+			}
+		},
+		{
+			"x": 1,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "LMoP",
+				"u": "redbrand%20ruffian_lmop"
+			}
+		},
+		{
+			"x": 2,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "LMoP",
+				"u": "evil%20mage_lmop"
+			}
+		},
+		{
+			"x": 0,
+			"y": 0,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "nothic_mm"
+			}
+		},
+		{
+			"x": 3,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 1,
+			"c": {
+				"p": "items.html",
+				"s": "HAT-LMI",
+				"u": "hither-thither%20staff_hat-lmi"
+			}
+		}
+	],
+	"ex": []
+}
