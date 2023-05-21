@@ -45,7 +45,7 @@
     },
     {
       "id": "Faerun_Map",
-      "lastAccessed": 1684572307066,
+      "lastAccessed": 1684673228031,
       "markers": [
         {
           "id": "ID_291b8958faea",
@@ -151,14 +151,17 @@
           "id": "ID_59680b794ab9",
           "type": "default",
           "loc": [
-            -479.81614520889667,
-            1626.3455967290595
+            -463.8620484583752,
+            1620.688742479567
           ],
           "link": "Sword Coast",
           "layer": "%5B%5BToril.png%5D%5D",
           "mutable": true,
           "command": false,
-          "percent": null,
+          "percent": [
+            0.2804698972099854,
+            0.19170075978959675
+          ],
           "description": null,
           "minZoom": null,
           "maxZoom": null,
@@ -248,16 +251,117 @@
           "minZoom": null,
           "maxZoom": null,
           "tooltip": "hover"
+        },
+        {
+          "id": "ID_785b59d9d88a",
+          "type": "default",
+          "loc": [
+            -883.2426609627341,
+            622.2539674441618
+          ],
+          "link": "Hornicka Smenarna",
+          "layer": "%5B%5BFendelin_GM.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_a9c89bca2b08",
+          "type": "default",
+          "loc": [
+            -705.0517521037242,
+            646.2955980045045
+          ],
+          "link": "Lvi Stit",
+          "layer": "%5B%5BFendelin_GM.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_b9c81b1818b8",
+          "type": "default",
+          "loc": [
+            -532.5176974942066,
+            731.1484117468902
+          ],
+          "link": "Kaple Stesti",
+          "layer": "%5B%5BFendelin_GM.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_d9a939a8982b",
+          "type": "default",
+          "loc": [
+            -532.5176974942066,
+            857.0134187980957
+          ],
+          "link": "Hostinec u Kamenika",
+          "layer": "%5B%5BFendelin_GM.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_5bfa0b9b8bf9",
+          "type": "default",
+          "loc": [
+            -374.1257785084199,
+            999.8489885977783
+          ],
+          "link": "Bartenuv proviant",
+          "layer": "%5B%5BFendelin_GM.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_6af9091adbfb",
+          "type": "default",
+          "loc": [
+            -538.174551743699,
+            1619.274528917194
+          ],
+          "link": "Skrys",
+          "layer": "%5B%5BFendelin_GM.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
         }
       ],
       "overlays": [],
       "shapes": [],
       "files": [
-        "Templates/3_Markdown/Insert Map (Leaflet).md",
-        "Dnd/Sword Coast.md",
+        "Dnd/Fendelin.md",
         "Dnd/Toril.md",
-        "Dnd/North SC.md",
-        "Dnd/Fendelin.md"
+        "Dnd/Sword Coast.md",
+        "Dnd/North SC.md"
       ]
     }
   ],
@@ -291,7 +395,7 @@
   "mapViewEnabled": true,
   "mapViewParameters": {
     "darkMode": false,
-    "defaultZoom": -1,
+    "defaultZoom": -0.5,
     "distanceMultiplier": 1,
     "drawColor": "#3388ff",
     "geojson": [],
@@ -299,17 +403,15 @@
     "gpx": [],
     "gpxColor": "#3388ff",
     "height": "900px",
-    "image": "[[Mecove pobrezi_hraci.jpg]]",
+    "image": "[[Fendelin_GM.jpg]]",
     "imageOverlay": [],
     "isMapView": false,
     "layers": [
-      "[[Mecove pobrezi_hraci.jpg]]"
+      "[[Fendelin_GM.jpg]]"
     ],
     "linksFrom": [],
     "linksTo": [],
-    "marker": [
-      "default,-1699.09375,901,,,,"
-    ],
+    "marker": [],
     "commandMarker": [],
     "markerFile": [],
     "markerFolder": [],
@@ -329,7 +431,7 @@
     "lock": true,
     "recenter": true,
     "noScrollZoom": false,
-    "width": "95%",
+    "width": "100%",
     "lat": 907.53,
     "long": 1402.74,
     "unit": "miles",
