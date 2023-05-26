@@ -40,7 +40,7 @@ Bohužel pro Skálohledy, nejsou jediní, kdo se o  jeskyni Hromových ozvěn z
 	- dobrotivý padesátník s  čestným místem u gryfí kavalerie
 	-  hlavni cil = zjistit co se stalo s Jarnem = kolega z Panske jednoty
 	- zachraneny z goblini jeskyne, tezce v pici
-	- **Člen Panské jednoty** = skupina politických mocností zabývajících se bezpečností a prosperitou  ***=> nabidne titul Pláště***
+	- **Člen Panské jednoty** = ***Aliance Lordu* = skupina politických mocností zabývajících se bezpečností a prosperitou  ***=> nabidne titul Pláště***
 	- ***Úkol: Hledání Rokliského hradu***
 	- ***Úkol: Hledání Jarna***
 - Jarno = Sklivec = zmrd
