@@ -11,9 +11,11 @@
             "id": "f4b03ec58d245831",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Wiki/Combat/Crit and Fumble Table.md",
+                "mode": "preview",
+                "source": false
               }
             }
           },
@@ -29,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Skrys.md",
+                "file": "Dnd/Wiki/Combat/Crit and Fumble Table.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Skrys.md",
+                "file": "Dnd/Wiki/Combat/Crit and Fumble Table.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/Skrys.md"
+                "file": "Dnd/Wiki/Combat/Crit and Fumble Table.md"
               }
             }
           },
@@ -198,8 +199,11 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "f438f86cf98125e7",
+  "active": "f4b03ec58d245831",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "Dnd/Campaings/LostMine/Fendelin.md",
+    "Dnd/Campaings/LostMine/Skrys.md",
     "Dnd/Fendelin.md",
     "Dnd/North SC.md",
     "Dnd/Sword Coast.md",
@@ -209,9 +213,6 @@
     "Dnd/Campaings/LostMine/Fendelin/Kaple Stesti.md",
     "Dnd/Campaings/LostMine/Fendelin/Hostinec u Kamenika.md",
     "Dnd/Campaings/LostMine/Fendelin/Bartenuv proviant.md",
-    "Dnd/Campaings/LostMine/Skrys.md",
-    "DM Screen.md",
-    "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/Curse/Mapy/Plakáty/Ravenloft.jpg",
     "Dnd/Campaings/Curse/Mapy/Plakáty/Barovie.jpg",
     "Dnd/Campaings/Curse/Mapy/Pro PJ/Hostinec.jpg",
