@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21aa75e3d4cfc3fd",
+            "id": "d5385b079acfc35f",
             "type": "leaf",
             "state": {
               "type": "kanban",
@@ -152,7 +152,7 @@
             }
           },
           {
-            "id": "87534e2076f151f6",
+            "id": "8c65eeaaca3d50c0",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
@@ -160,21 +160,7 @@
             }
           }
         ],
-        "currentTab": 6
-      },
-      {
-        "id": "1a2eb4194455ebe2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7581be98b7426b4",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -193,13 +179,13 @@
       "workspaces:Manage workspace layouts": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "homepage:Open homepage": false,
       "markdown-importer:Open format converter": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
-      "initiative-tracker:Intiative Tracker Encounter Builder": false
+      "initiative-tracker:Intiative Tracker Encounter Builder": false,
+      "homepage:Open homepage": false
     }
   },
-  "active": "21aa75e3d4cfc3fd",
+  "active": "d5385b079acfc35f",
   "lastOpenFiles": [
     "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
     "DM Screen.md",
