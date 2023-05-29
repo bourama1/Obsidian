@@ -156,90 +156,6 @@
   "state": {
     "creatures": [
       {
-        "name": "Redbrand Ruffian",
-        "display": "redbrand",
-        "initiative": 13,
-        "static": false,
-        "modifier": 2,
-        "hp": 16,
-        "currentMaxHP": 16,
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_0aabe8398a9a",
-        "currentHP": 16,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8 + 3"
-      },
-      {
-        "name": "Redbrand Ruffian",
-        "display": "redbrand",
-        "initiative": 15,
-        "static": false,
-        "modifier": 2,
-        "hp": 16,
-        "currentMaxHP": 16,
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_c85a18f8fa7b",
-        "currentHP": 16,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8 + 3"
-      },
-      {
-        "name": "Redbrand Ruffian",
-        "display": "redbrand",
-        "initiative": 2,
-        "static": false,
-        "modifier": 2,
-        "hp": 16,
-        "currentMaxHP": 16,
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_2808680a4b79",
-        "currentHP": 16,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8 + 3"
-      },
-      {
-        "name": "Redbrand Ruffian",
-        "display": "redbrand",
-        "initiative": 10,
-        "static": false,
-        "modifier": 2,
-        "hp": 16,
-        "currentMaxHP": 16,
-        "ac": 14,
-        "currentAC": 14,
-        "id": "ID_e8086928cb5b",
-        "currentHP": 16,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "xp": 100,
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "hit_dice": "3d8 + 3"
-      },
-      {
         "name": "Fabio",
         "initiative": 0,
         "static": false,
@@ -250,7 +166,7 @@
         "currentAC": "11",
         "note": "Fabio",
         "path": "Dnd/Campaings/LostMine/chars/Fabio.md",
-        "id": "ID_6919e82b8b89",
+        "id": "ID_385afb5b3a4b",
         "marker": "default",
         "currentHP": 15,
         "tempHP": 0,
@@ -272,7 +188,7 @@
         "currentAC": "18",
         "note": "Vincent",
         "path": "Dnd/Campaings/LostMine/chars/Vincent.md",
-        "id": "ID_d8f999d868a8",
+        "id": "ID_68ba5bdab9ba",
         "marker": "default",
         "currentHP": 20,
         "tempHP": 0,
@@ -294,7 +210,7 @@
         "currentAC": "12",
         "note": "Hilda",
         "path": "Dnd/Campaings/LostMine/chars/Hilda.md",
-        "id": "ID_4a2a59ab586b",
+        "id": "ID_4bc9393b0909",
         "marker": "default",
         "currentHP": 21,
         "tempHP": 0,
@@ -316,7 +232,7 @@
         "currentAC": "19",
         "note": "Krutus",
         "path": "Dnd/Campaings/LostMine/chars/Krutus.md",
-        "id": "ID_a9eb49798a7a",
+        "id": "ID_98aaca9aa9d9",
         "marker": "default",
         "currentHP": 16,
         "tempHP": 0,
@@ -326,10 +242,29 @@
         "player": true,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Evil Mage",
+        "initiative": 14,
+        "static": false,
+        "modifier": 2,
+        "hp": 22,
+        "currentMaxHP": 22,
+        "ac": 12,
+        "currentAC": 12,
+        "id": "ID_69c8e84888ea",
+        "currentHP": 22,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "xp": 200,
+        "hidden": false,
+        "friendly": false,
+        "hit_dice": "5d8"
       }
     ],
     "state": false,
-    "name": "vs4",
+    "name": "iarno",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -1159,8 +1094,8 @@
   "diplayPlayerHPValues": true,
   "rollHP": false,
   "builder": {
-    "showParty": true,
-    "showXP": true,
+    "showParty": false,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
@@ -1183,7 +1118,165 @@
         "field": "alignment",
         "type": 0
       }
-    ]
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [
+            0,
+            30
+          ],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "Huge",
+            "Medium",
+            "Large",
+            "Small",
+            "Tiny",
+            "Gargantuan",
+            "medium",
+            "gargantuan",
+            "small",
+            "huge",
+            ""
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [
+            "monstrosity",
+            "humanoid",
+            "aberration",
+            "construct",
+            "undead",
+            "giant",
+            "elemental",
+            "beast",
+            "fey",
+            "celestial",
+            "plant",
+            "dragon",
+            "ooze",
+            "fiend",
+            "humanoid (human, shapechanger), curse of strahd",
+            "construct, curse of strahd",
+            "humanoid (human), curse of strahd",
+            "humanoid (mongrelfolk), curse of strahd",
+            "undead, curse of strahd",
+            "humanoid (elf), curse of strahd",
+            "undead (shapechanger), curse of strahd",
+            "plant, curse of strahd",
+            "Variant Aasimar"
+          ],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [
+            "unaligned",
+            "neutral or good",
+            "neutral",
+            "chaotic or evil",
+            "chaotic or good",
+            "lawful or neutral",
+            "chaotic or neutral",
+            "neutral good or neutral evil",
+            "neutral or evil",
+            "lawful or evil",
+            "lawful or good",
+            null,
+            "any alignment",
+            "chaotic evil",
+            "chaotic good",
+            "neutral evil",
+            "chaotic neutral",
+            "lawful evil",
+            "lawful good",
+            "chaotic good (chaotic evil when fully possessed)",
+            "lawful or neutral (law/chaos axis) or chaotic or neutral (good/evil axis) or evil",
+            "chaotic silly",
+            "neutral or neutral (law/chaos axis) neutral (good/evil axis) neutral",
+            "lawful grumpy",
+            "neutral oozy",
+            "chaotic sticky",
+            "neutral (law/chaos axis) or chaotic or good or neutral (good/evil axis) or evil",
+            "chaotic or good or neutral (good/evil axis) or evil",
+            "lawful or neutral (law/chaos axis) or chaotic or evil",
+            "neutral good (50%) or neutral evil (50%)",
+            "chaotic good (75%) or neutral evil (25%)",
+            "as the eidolon's alignment",
+            "chaotic evil (Demon only) or lawful evil (Devil only) or neutral evil (Yugoloth only)",
+            "lawful"
+          ],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        },
+        {
+          "type": 1,
+          "text": "Name",
+          "fields": [
+            "name"
+          ],
+          "options": "",
+          "id": "ID_DEFAULT_NAME_FILTER",
+          "derive": false
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "homebrew": [],
   "integrateSRD": true
