@@ -16,29 +16,8 @@
                 "file": "DM Screen.md"
               }
             }
-          },
-          {
-            "id": "b10e628f04716d66",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/PDF Rules/DPMC_5e_CZ.pdf"
-              }
-            }
-          },
-          {
-            "id": "69674e2a707b247a",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.4"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
+                "file": "DM Screen.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
+                "file": "DM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/PDF Rules/DPMC_5e_CZ.pdf"
+                "file": "DM Screen.md"
               }
             }
           },
@@ -220,10 +199,10 @@
       "initiative-tracker:Intiative Tracker Encounter Builder": false
     }
   },
-  "active": "69674e2a707b247a",
+  "active": "21aa75e3d4cfc3fd",
   "lastOpenFiles": [
-    "DM Screen.md",
     "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
+    "DM Screen.md",
     "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/LostMine/Shnuti.md",
     "Dnd/Fendelin.md",
