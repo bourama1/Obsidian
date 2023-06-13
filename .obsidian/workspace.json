@@ -16,8 +16,19 @@
                 "file": "DM Screen.md"
               }
             }
+          },
+          {
+            "id": "d2234a4d96d3a7e3",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf"
               }
             }
           },
@@ -185,10 +196,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d5385b079acfc35f",
+  "active": "d2234a4d96d3a7e3",
   "lastOpenFiles": [
-    "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
+    "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
+    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "DM Screen.md",
+    "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
     "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/Campaings/LostMine/Shnuti.md",
     "Dnd/Fendelin.md",
@@ -210,7 +223,6 @@
     "uKamenika.md",
     "StonehillInn.md",
     "Dnd/Campaings/LostMine/Fendelin",
-    "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/img/StonehillInn.webp",
     "Dnd/Campaings/LostMine/img/ShrineOfLuck.webp",
     "Dnd/Campaings/LostMine/img/PhandalinMinersExchange.webp",
@@ -218,7 +230,6 @@
     "Dnd/Campaings/LostMine/img/BarthensProvisions.webp",
     "Fendelin_PJ.md",
     "Dnd/Campaings/Untitled.md",
-    "Dnd/Campaings/LostMine/Mapy/Mecove pobrezi_PJ.jpg",
     "Templates/bestiary/Template - Beast.md",
     "Templates/3_Markdown/REGEX - Helpful Code.md",
     "Templates/3_Markdown/Insert Map (Leaflet).md",
