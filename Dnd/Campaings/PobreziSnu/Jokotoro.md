@@ -23,3 +23,32 @@
 
 ## Chatrc starsich
 
+> [!NOTE] Cti
+> Na kraji vesnice se choulí malá chatrč, před níž se shromáždilo několik místních. Když se přiblížíte, cítíte ostrou vůni pálené šalvěje. Uvnitř sedí u bublajícího kotlíku dvě stařeny.
+
+- Lui Tu-a a Mej Ču-eng - stareny
+	- medicina a rady mistnim
+	- lecive lektvary za dvojnasobek
+
+## Kovar
+
+> [!NOTE] Cti
+> Kovárna je jedna z mála kamenných budov na ostrově. Žár z otevřeného ohně cítíte už zdálky, u primitivní studny stojí kovadlina. Můžete vidět drsného muže, ohánějícího se kladivem a upravujícího kus do ruda rozžhaveného železa.
+
+- Tiang Kao - nabouchanec
+	- trochu neurvalý, ale myslí to dobře a rád zodpoví všechny otázky postav
+	- Často vychvaluje Prisku (secret love)
+
+## Strazni vez
+
+> [!NOTE] Cti
+> Uprostřed vesnice, shlížející na domky a loďky, stojí bambusová věž. Zespodu nevidíte, jestli je někdo nahoře.
+
+- 4 strážní - spi
+	- nalehaji aby slezli pokud zacnou lezt nahoru
+	- pokud dobrodruzi zacnou o ztracenych dobrodruzich pusti je a promluvi si (odkazuji na Prisku)
+
+## Pobrezi snu
+
+> [!NOTE] Cti
+> Pobřeží snů je dvoupodlažní kamenná budova. Uvnitř jsou dlouhé stoly a lavice, sálající krb a dobře zásobený bar. Sedí zde pár vesničanů, popíjejí saké a hodují, před sebou tácy plné mořských živočichů. V zadní části místnosti je ozdobené pódium z  vyřezávaného bambusu. V rohu je opřena krásně vyřezávaná šamisen - dlouhokrká loutna se třemi strunami.
