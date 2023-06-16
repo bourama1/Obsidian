@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "file": "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "file": "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
+                "file": "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf"
               }
             }
           },
@@ -228,10 +228,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fa585fd45699a5f9",
+  "active": "d923a21f784a14ea",
   "lastOpenFiles": [
-    "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
     "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+    "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
+    "Dnd/Sword Coast.md",
+    "Templates/images/Pasted image 20230616152555.png",
     "Templates/images/Pasted image 20230616142042.png",
     "Dnd/Campaings/LostMine/chars/Fabio.md",
     "Dnd/Campaings/PobreziSnu/chars/Libor - Monk -.md",
@@ -254,7 +256,6 @@
     "Dnd/Wiki/Combat/Crit and Fumble Table.md",
     "Dnd/Campaings/LostMine/Skrys.md",
     "Dnd/North SC.md",
-    "Dnd/Sword Coast.md",
     "Dnd/Toril.md",
     "Dnd/Campaings/LostMine/Fendelin/Lvi Stit.md",
     "Dnd/Campaings/LostMine/Fendelin/Hornicka Smenarna.md",
@@ -270,7 +271,6 @@
     "Dnd/Campaings/LostMine/Fendelin",
     "Dnd/Campaings/LostMine/img/StonehillInn.webp",
     "Dnd/Campaings/LostMine/img/ShrineOfLuck.webp",
-    "Dnd/Campaings/LostMine/img/PhandalinMinersExchange.webp",
     "Fendelin_PJ.md",
     "Dnd/Campaings/Untitled.md",
     "Dnd/Campaings/LostMine/img",
