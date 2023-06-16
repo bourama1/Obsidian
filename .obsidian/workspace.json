@@ -21,9 +21,11 @@
             "id": "fa585fd45699a5f9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf"
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -33,14 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/LostMine/chars/dnd beyond.md"
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
               }
             }
           },
@@ -184,6 +186,20 @@
           }
         ],
         "currentTab": 6
+      },
+      {
+        "id": "f66bd0147e66e8bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06dbf4577dbd1703",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -207,15 +223,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d923a21f784a14ea",
+  "active": "fa585fd45699a5f9",
   "lastOpenFiles": [
-    "Dnd/Campaings/LostMine/chars/Fabio.md",
-    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
+    "Dnd/Campaings/PobreziSnu/Shore of Dreams Notes.pdf",
+    "Dnd/Campaings/PobreziSnu/chars/Matej - Fighter -.md",
+    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "DM Screen.md",
+    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+    "Dnd/Campaings/PobreziSnu/chars/Jiran - Sorcerer -.md",
+    "Dnd/Campaings/PobreziSnu/chars/Libor - Monk -.md",
+    "Dnd/Campaings/LostMine/chars/Fabio.md",
+    "Dnd/Campaings/PobreziSnu/chars",
+    "Dnd/Campaings/LostMine/chars/dnd beyond.md",
     "Dnd/Campaings/LostMine/Shnuti.md",
     "Dnd/Wiki/Equipment/Weapons.md",
-    "Dnd/Campaings/PobreziSnu/Shore of Dreams Notes.pdf",
     "Dnd/Campaings/PobreziSnu/Chram-bouri_mapa-pro-hrace.jpg",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
@@ -246,14 +268,7 @@
     "Dnd/Campaings/LostMine/img/LionshieldCoster.webp",
     "Fendelin_PJ.md",
     "Dnd/Campaings/Untitled.md",
-    "Templates/bestiary/Template - Beast.md",
-    "Templates/3_Markdown/REGEX - Helpful Code.md",
-    "Templates/3_Markdown/Insert Map (Leaflet).md",
-    "Templates/3_Markdown/Insert Custom Encounter (Initiative Tracker).md",
-    "Templates/3_Markdown/Insert Checkbox.md",
-    "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Campaings/LostMine/img",
-    "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload",
-    "Dnd/Campaings/LostMine/dopisy"
+    "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload"
   ]
 }
