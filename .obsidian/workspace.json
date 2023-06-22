@@ -173,23 +173,23 @@
             }
           },
           {
-            "id": "efe71b2a522d1fca",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {}
-            }
-          },
-          {
             "id": "8c65eeaaca3d50c0",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {}
             }
+          },
+          {
+            "id": "190cb794d50860db",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "f66bd0147e66e8bc",
