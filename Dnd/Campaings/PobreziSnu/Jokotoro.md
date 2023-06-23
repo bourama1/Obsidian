@@ -55,7 +55,7 @@
 > [!NOTE] Cti
 > Pobřeží snů je dvoupodlažní kamenná budova. Uvnitř jsou dlouhé stoly a lavice, sálající krb a dobře zásobený bar. Sedí zde pár vesničanů, popíjejí saké a hodují, před sebou tácy plné mořských živočichů. V zadní části místnosti je ozdobené pódium z  vyřezávaného bambusu. V rohu je opřena krásně vyřezávaná šamisen - dlouhokrká loutna se třemi strunami.
 ![[Pasted image 20230616152555.png]]
-- **Priska Ahlorsath (NZ tritónská žena)
+- **Priska Ahlorsath (NZ tritónská žena)**
 	- majitelka
 	- velice charismatická a inteligentní
 	- zářivě modrou pokožku a měděné vlasy
@@ -66,6 +66,7 @@
 	- Mladá, naivní, malé postavy
 	- love Rolen Moonbrook
 	- jedina proti Prisce
+![[Pasted image 20230623140336.png]]
 - **Lerissa „Temerity“ (NZ tieflinská žena)**
 	- Pohledná nebezpečná
 	- dělá za ni těžkou práci a stará se o dobrodruhy, aby se nebouřili
