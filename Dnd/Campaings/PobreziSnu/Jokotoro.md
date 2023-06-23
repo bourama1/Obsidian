@@ -4,7 +4,7 @@
 	- poklad podel Mlzneho srazu
 	- parta 4 = Rolen Moonbrook + Cchung + Errich a Wellby Highbarrelovi (zpratelena slechta)
 	- za kazdeho koho najde dostane 100zl
-- najal si sourozence dobrodruhy, aby mu pomohli najit jeho bratra s prislibem pokladu a 100zl za jeho bratra
+- najal si dobrodruhy, aby mu pomohli najit jeho bratra s prislibem 100zl za jeho bratra
 
 ## Lantan
 - vsechny stopy vedou k ostrovu Lantan
@@ -50,7 +50,7 @@
 	- nalehaji aby slezli pokud zacnou lezt nahoru
 	- pokud dobrodruzi zacnou o ztracenych dobrodruzich pusti je a promluvi si (odkazuji na Prisku)
 
-## Pobrezi snu
+# Pobrezi snu
 
 > [!NOTE] Cti
 > Pobřeží snů je dvoupodlažní kamenná budova. Uvnitř jsou dlouhé stoly a lavice, sálající krb a dobře zásobený bar. Sedí zde pár vesničanů, popíjejí saké a hodují, před sebou tácy plné mořských živočichů. V zadní části místnosti je ozdobené pódium z  vyřezávaného bambusu. V rohu je opřena krásně vyřezávaná šamisen - dlouhokrká loutna se třemi strunami.
@@ -83,3 +83,13 @@
 - **Za oponou**
 > [!NOTE] Cti
 > Sedli jste si k večeři, když Priska zavolá z pódia: „Tahle píseň je pro naše nejvzácnější hosty. Děkujeme, že jste svou návštěvou poctili náš skromný ostrov a přejeme vám to nejlepší na vašich dalších cestách a dobrodruzstvich.“ Tritónka pak začne hrát na svůj šamisen baladu, jakou jste nikdy neslyšeli. Melodie je lehká a čistá, každý tón vám ještě dlouho zní v uších. Jakmile začne zpívat, cítíte se jejím hlasem zcela pohlceni.
+- dve mozne pokracovani
+	- vsichni upadnou do bezvedomi => Vezeni bez veci
+	- neupadnou vsichni do bezvedomi
+		- temerity se je snazi zamestnat a mezitim priska mizi
+		- prijdou 4 strazni pokusi se je omracit, mezitim temerity bezi za Priskou
+			- uspech => vezeni
+		- pokud neuspeji a zacne bitka tak se brzy vzdaji a povi o Prisce
+			- Furie se pokusi zmizet
+
+# [[Temple]]
