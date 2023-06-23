@@ -6,6 +6,7 @@
       {
         "id": "46090aa73a10ee64",
         "type": "tabs",
+        "dimension": 39.920724801812,
         "children": [
           {
             "id": "d5385b079acfc35f",
@@ -18,13 +19,25 @@
             }
           },
           {
-            "id": "fa585fd45699a5f9",
+            "id": "a5ed4a8fe6bae7d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7058c2b7377e0d70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dnd/Campaings/PobreziSnu/Temple.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -35,6 +48,7 @@
       {
         "id": "fd70c6b121d52340",
         "type": "tabs",
+        "dimension": 60.079275198188,
         "children": [
           {
             "id": "d923a21f784a14ea",
@@ -120,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md"
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
               }
             }
           },
@@ -228,14 +242,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fa585fd45699a5f9",
+  "active": "8c65eeaaca3d50c0",
   "lastOpenFiles": [
-    "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
+    "DM Screen.md",
+    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "Dnd/Campaings/PobreziSnu/Temple.md",
+    "Dnd/Campaings/PobreziSnu/chars/Kuba.md",
+    "Dnd/Campaings/PobreziSnu/chars/Ester.md",
+    "Dnd/Campaings/PobreziSnu/chars/Eso.md",
+    "Dnd/Campaings/PobreziSnu/chars/Ada.md",
+    "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
     "Templates/images/Pasted image 20230623142137.png",
     "Templates/images/Pasted image 20230623141557.png",
     "Templates/images/Pasted image 20230623140524.png",
-    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "Templates/images/Pasted image 20230623140336.png",
     "Templates/images/Pasted image 20230503222729.png",
     "Templates/images/Pasted image 20230616142042.png",
@@ -245,7 +264,6 @@
     "Dnd/Campaings/PobreziSnu/chars/Libor - Monk -.md",
     "Dnd/Campaings/PobreziSnu/chars/Matej - Fighter -.md",
     "Dnd/Campaings/PobreziSnu/chars/Jiran - Sorcerer -.md",
-    "DM Screen.md",
     "Dnd/Campaings/PobreziSnu/Shore of Dreams Notes.pdf",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Campaings/PobreziSnu/chars",
@@ -269,10 +287,7 @@
     "Dnd/Campaings/LostMine/Fendelin/Hostinec u Kamenika.md",
     "Dnd/Campaings/LostMine/Fendelin/Bartenuv proviant.md",
     "Dnd/Campaings/Curse/Mapy/Plakáty/Ravenloft.jpg",
-    "uKamenika.md",
-    "StonehillInn.md",
     "Dnd/Campaings/LostMine/Fendelin",
-    "Fendelin_PJ.md",
     "Dnd/Campaings/LostMine/img",
     "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload"
   ]
