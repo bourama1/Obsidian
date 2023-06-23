@@ -24,7 +24,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md",
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Temple.md"
+                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
               }
             }
           },
@@ -209,7 +209,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 470.5
+    "width": 470.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,14 +232,14 @@
   },
   "active": "a5ed4a8fe6bae7d4",
   "lastOpenFiles": [
-    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "Dnd/Campaings/PobreziSnu/Temple.md",
+    "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
+    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "DM Screen.md",
     "Dnd/Campaings/PobreziSnu/chars/Kuba.md",
     "Dnd/Campaings/PobreziSnu/chars/Ester.md",
     "Dnd/Campaings/PobreziSnu/chars/Eso.md",
     "Dnd/Campaings/PobreziSnu/chars/Ada.md",
-    "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
     "Templates/images/Pasted image 20230623142137.png",
     "Templates/images/Pasted image 20230623141557.png",
     "Templates/images/Pasted image 20230623140524.png",
@@ -272,7 +273,6 @@
     "Dnd/Campaings/LostMine/Fendelin/Hornicka Smenarna.md",
     "Dnd/Campaings/LostMine/Fendelin/Kaple Stesti.md",
     "Dnd/Campaings/LostMine/Fendelin/Hostinec u Kamenika.md",
-    "Dnd/Campaings/LostMine/Fendelin/Bartenuv proviant.md",
     "Dnd/Campaings/Curse/Mapy/Plakáty/Ravenloft.jpg",
     "Dnd/Campaings/LostMine/Fendelin",
     "Dnd/Campaings/LostMine/img",

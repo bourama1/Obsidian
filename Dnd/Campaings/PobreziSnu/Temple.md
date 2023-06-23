@@ -1,9 +1,54 @@
 # Mista
+
+> [!NOTE] Cti
+> Vydali jste se z vesnice po pobřeží, když vám cestu přeťal prudký sráz pokrytý popínavými rostlinami. U paty útesu je jeskyně s pobořenými zbytky klenuté chodby, značícími vstup do chrámu či svatyně.
+
+- u vstupu bourna bestie
+
 ## T1. Vězení
+Pokud byli chyceni:
+
+> [!NOTE] Cti
+> Pomalu se probouzíte, třesete se. Cítíte se zmámeně a bolí vás celé tělo, jako by s vámi někdo smýkal po podlaze. Jak přicházíte k sobě, uvědomíte si, že jste uvězněni. Pevné bambusové tyče jsou zapuštěny v podlaze i ve stropě této místnosti. Ozvěnou se vám vrací zvuk kapek dopadající vody, ozývající se hlouběji z jeskynního systému.
+> „Teď opatrně!“ ozve se za vámi. „Nedělejte nic zbrklého, protože jste zesláblí.“
+
+- Je zde uveznen Rolen Monnbrook a Cchung(pulroci zena barbar)
+- Nejsou spoutani - lze zkusit znicit mrize Sila 17 - probudi bournou bestii u vstupu
+- Pokud nic neudelaji prvni vecer prijde priska a strazny
+- dostanou krumpace a jdou kopat do T2/3
+
+> [!seealso] Cti pokud nejsou chyceni
+> V malém výklenku jsou ukotveny silné bambusové tyče tvořící vězení. Uvnitř je pár ovčích kůží, sloužících jako přikrývky, trocha sena a vědro. Jak se vaše oči přizpůsobí temnotě, všimnete si dvou osob. Pomalu se přiblíží k mříži.
 
 ## T2. Vstup do jeskyně
 
+> [!NOTE] Cti
+> Jak pokračujete jeskynním komplexem vpřed, slyšíte zesilující se zvuk kapání vody. O 6 sáhů dál jste už po pás ve vodě.
+
+- moznosti
+	- kopaji
+		- Poté, co jste s námahou odstranili další kus suti, se poslední část zřítila. Najednou po vás sáhne kostlivá ruka a kolem hlavy vám zahvízdá scimitar, jak se vám kostlivec dlouho mrtvého válečníka snaží useknout hlavu.
+		- cesta do T3
+	- nasleduji prisku
+		- Jak postupujete do místnosti, něco vystřelí proti vám a sklapne ohromnou čelist plnou ostrých zubů
+		- = souboj s dalsi bestii
+		- cesta do T3
+
 ## T3. Síň Olhydry
+
+> [!NOTE] Cti
+> Zakopáváte o zbytky suti ve stojaté vodě a vidíte, že jste ve velké, lidmi vyhloubené síni. Zdi jsou ozdobeny freskami, na nichž jsou zobrazeni lidé, vezoucí se na obřích žralocích a rozbíjející děsivé vodní stěny. Na zdech visí různé zbraně a štíty, které musely patřit původním obyvatelům tohoto místa. Po místnosti jsou rozházeny zbytky povalených a rozbitých lavic. Ty co jsou položeny níže, jsou pokryty spousty svijonožců. Na jedné straně je oltář a za ním velký oltářní nástavec (retábulum), na kterém je nakreslena obří vlna, která jako by měla zaplnit celou místnost.
+
+- zbrane na zdech
+- oltar s chybejici perlou a bednou za nim
+- u oltare
+	- vnimani 16 muze odhalit bubliny ve vode
+	- patrani 16 muze odhalit perlu
+	- pokud otevrou zautoci elem
+- dvere do pokladnice
+	- „TI, KDO SE PROTIVÍ TEMNÉMU PŘÍLIVU, BUDOU UTOPENI.“
+	- patrani 16 na zdi tlacitko pro otevreni do t4
+	- kristalovy kruh se roztece na zelatinu a museji nakreslit znak
 
 ## T4. Pokladnice
 
