@@ -7,6 +7,10 @@
 > [!NOTE] Cti
 > Dveře se otevřou a odhalí místnost bez jakéhokoli nábytku či ozdob. Ve středu místnosti je obří lastura, zářící pulzujícím růžovým a modrým světlem. Lastura je dostatečně veliká, aby se do ní vlezl člověk, a jsou na ní vyryty reliéfy. U paty lastury vyrůstají krystaly, které září bledým modrým světlem, odrážejícím se na stěnách a na stropě. Zvlněná stojící voda odráží světlo po celé místnosti, takže to působí, jako byste byli pod vodou.
 
+Pokud vstoupi do lastury tak:
+
+> [!NOTE] Cti
+> Jak vstoupíš do lastury, jako bys zavřel dveře a zvuky zvenku slyšíš jen tlumeně. Cítíš ale nepříjemný chlad, jako bys stál v ledové vodě. Na podstavci z korálů a chaluh před tebou je zamlžený skleněný box, uvnitř něhož vidíš obrys koruny.
 
 ### Koruna z cernych perel
 Divotvorný předmět, velmi vzácný (vyžaduje sladění s kouzlící postavou)
@@ -15,6 +19,10 @@ Když korunu nosíš, máš dovednost dýchat pod vodou a dostaneš přirozenou 
 „Voda je životní míza celého světa. Kdokoliv ji znesvětí, musí být smeten.“
 ![[Pasted image 20230623142137.png]]
 ## T5. Studovna
+Tato místnost je přístupná pouze umístěním perly do prázdného důlku v oltářním obraze v oblasti T3 (viz str. 11).
+
+> [!NOTE] Cti
+> Jak se potápíte hlouběji do zatopeného tunelu, po stranách máte slizem pokryté stěny, které se postupně zvyšují. Když vyplavete, vynoříte se v místnosti plné skříní, naplněných svitky a knihami, uprostřed které stojí stůl. Zdá se, že na stole něco leží, pohřbeno pod svitky, které popadaly z polic. V zadní části místnosti vidíte zával.
 
 ## T6. Zahrazená místnost
 ### Bourna Bestie
