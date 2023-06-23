@@ -1,7 +1,10 @@
 # Mista
 ## T1. Vězení
+
 ## T2. Vstup do jeskyně
+
 ## T3. Síň Olhydry
+
 ## T4. Pokladnice
 
 > [!NOTE] Cti
@@ -24,7 +27,14 @@ Tato místnost je přístupná pouze umístěním perly do prázdného důlku v 
 > [!NOTE] Cti
 > Jak se potápíte hlouběji do zatopeného tunelu, po stranách máte slizem pokryté stěny, které se postupně zvyšují. Když vyplavete, vynoříte se v místnosti plné skříní, naplněných svitky a knihami, uprostřed které stojí stůl. Zdá se, že na stole něco leží, pohřbeno pod svitky, které popadaly z polic. V zadní části místnosti vidíte zával.
 
+poklad a kostlivec s plastem
 ## T6. Zahrazená místnost
+
+> [!NOTE] Cti
+> Vaše přítomnost očividně něco probudila. Slyšíte hrdelní chrčení podobné krokodýlímu a šplouchání vody, jak se něco pohybuje v temnotě.
+
+- pozustatky sourozencu Highbarrelu co hledaji
+- vnimani 16 - zatopeny tunel na pobrezi k vesnici
 ### Bourna Bestie
 Tito dinosaurům podobní tvorové připomínají krokodýla, mají ale kratší čumák a delší krk. Na hřbetě mají modré destičky a v široce rozevřené tlamě řadu ostrých zubů. Přítomnost v blízkosti Kultu ničivých vln mu dodala určitou živelnou moc, kterou původní obyvatelé chrámu u různých druhů šlechtili.
 ![[Pasted image 20230623141557.png]]
