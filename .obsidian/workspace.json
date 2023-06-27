@@ -29,9 +29,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9718a822d0b1f97e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "fd70c6b121d52340",
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -230,11 +242,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a5ed4a8fe6bae7d4",
+  "active": "9718a822d0b1f97e",
   "lastOpenFiles": [
+    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+    "conflict-files-obsidian-git.md",
     "Dnd/Campaings/PobreziSnu/Temple.md",
     "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
-    "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "DM Screen.md",
     "Dnd/Campaings/PobreziSnu/chars/Kuba.md",
     "Dnd/Campaings/PobreziSnu/chars/Ester.md",
