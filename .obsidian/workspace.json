@@ -6,40 +6,15 @@
       {
         "id": "46090aa73a10ee64",
         "type": "tabs",
-        "dimension": 39.920724801812,
         "children": [
           {
             "id": "d5385b079acfc35f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "pdf",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
               }
-            }
-          },
-          {
-            "id": "a5ed4a8fe6bae7d4",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fd70c6b121d52340",
-        "type": "tabs",
-        "dimension": 60.079275198188,
-        "children": [
-          {
-            "id": "d923a21f784a14ea",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -116,6 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,6 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
+              }
             }
           },
           {
@@ -220,7 +199,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a5ed4a8fe6bae7d4",
+  "active": "d5385b079acfc35f",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Dnd/Campaings/PobreziSnu/Jokotoro.md",
