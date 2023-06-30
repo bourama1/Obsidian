@@ -22,12 +22,8 @@
             "id": "a5ed4a8fe6bae7d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -42,10 +38,8 @@
             "id": "d923a21f784a14ea",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -122,7 +116,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +132,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +153,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
-              }
+              "state": {}
             }
           },
           {
