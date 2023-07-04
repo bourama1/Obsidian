@@ -6,45 +6,14 @@
       {
         "id": "46090aa73a10ee64",
         "type": "tabs",
-        "dimension": 39.920724801812,
         "children": [
           {
             "id": "d5385b079acfc35f",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "DM Screen.md"
-              }
-            }
-          },
-          {
-            "id": "a5ed4a8fe6bae7d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "fd70c6b121d52340",
-        "type": "tabs",
-        "dimension": 60.079275198188,
-        "children": [
-          {
-            "id": "d923a21f784a14ea",
-            "type": "leaf",
-            "state": {
               "type": "pdf",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf"
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
               }
             }
           }
@@ -122,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md",
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/PobreziSnu/Jokotoro.md"
+                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
               }
             }
           },
@@ -230,8 +199,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a5ed4a8fe6bae7d4",
+  "active": "d5385b079acfc35f",
   "lastOpenFiles": [
+    "Dnd/Fendelin.md",
+    "Dnd/North SC.md",
+    "Dnd/Sword Coast.md",
+    "Dnd/Toril.md",
+    "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
     "conflict-files-obsidian-git.md",
     "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "Dnd/Campaings/PobreziSnu/Temple.md",
@@ -248,7 +222,6 @@
     "Templates/images/Pasted image 20230503222729.png",
     "Templates/images/Pasted image 20230616142042.png",
     "Templates/images/Pasted image 20230616152555.png",
-    "Dnd/Sword Coast.md",
     "Dnd/Campaings/LostMine/chars/Fabio.md",
     "Dnd/Campaings/PobreziSnu/chars/Libor - Monk -.md",
     "Dnd/Campaings/PobreziSnu/chars/Matej - Fighter -.md",
@@ -264,19 +237,14 @@
     "Dnd/Campaings/LostMine/dopisy/sklivecDopis.png",
     "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
     "Dnd/Campaings/LostMine/Fendelin.md",
-    "Dnd/Fendelin.md",
     "Dnd/PDF Rules/Starter_CZ.pdf",
     "Dnd/Wiki/Combat/Crit and Fumble Table.md",
     "Dnd/Campaings/LostMine/Skrys.md",
-    "Dnd/North SC.md",
-    "Dnd/Toril.md",
     "Dnd/Campaings/LostMine/Fendelin/Lvi Stit.md",
     "Dnd/Campaings/LostMine/Fendelin/Hornicka Smenarna.md",
     "Dnd/Campaings/LostMine/Fendelin/Kaple Stesti.md",
-    "Dnd/Campaings/LostMine/Fendelin/Hostinec u Kamenika.md",
     "Dnd/Campaings/Curse/Mapy/Plakáty/Ravenloft.jpg",
     "Dnd/Campaings/LostMine/Fendelin",
-    "Dnd/Campaings/LostMine/img",
-    "Dnd/Sword-Coast-Map_HighRes.jpg.crdownload"
+    "Dnd/Campaings/LostMine/img"
   ]
 }
