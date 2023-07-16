@@ -20,22 +20,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "3eb14392f4038eba",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fcfe11e41046b42c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -219,27 +203,28 @@
   },
   "active": "d5385b079acfc35f",
   "lastOpenFiles": [
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Brother Morton.png",
-    "Dnd/Campaings/OneShots/Kaple/1. cast.md",
     "Dnd/Campaings/OneShots/Kaple/Prehled.md",
+    "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
+    "Dnd/Campaings/OneShots/Kaple/Player Maps/Saint Sidvela's Chapel - Player Map.jpg",
+    "Dnd/Campaings/OneShots/Kaple/Player Maps/The Barrow Mound - Player Map.jpg",
+    "Dnd/Campaings/OneShots/Kaple/Player Maps/The Workshop - Player Map.jpg",
+    "Dnd/Campaings/OneShots/Kaple/Player Maps/Kennmouth - Player Map.jpg",
+    "Dnd/Campaings/OneShots/Kaple/Player Maps/Kennmouth Regional - Player Map.jpg",
+    "Dnd/Campaings/OneShots/Kaple/Player Maps/Kenmouth.png",
+    "Dnd/Campaings/OneShots/Kaple/1. cast.md",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/The Chapel On The Cliff.png",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/The Idol.png",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/Saint Sidvela.png",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/Ruth's Talisman.png",
+    "Kathryn Reed.md",
     "Dnd/Campaings/OneShots/Kaple/3. cast.md",
     "Dnd/Campaings/OneShots/Kaple/2. cast.md",
-    "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Aina.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Claw of the Deep.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Ghost of Mark Elson.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Kathryn Reed.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Richard.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Ruth's Talisman.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Saint Sidvela.png",
-    "Dnd/Campaings/OneShots/Kaple/Illustrations/Saint Sidvela (NPC).png",
     "DM Screen.md",
     "Templates/1_Story World Templates/Events/Template - Storyline.md",
     "Templates/1_Story World Templates/Events/Template - Scene.md",
     "Templates/1_Story World Templates/Events/Template - Incident.md",
     "Templates/1_Story World Templates/Events/Template - Quest.md",
     "Templates/1_Story World Templates/Events/Template - Event List.md",
-    "Dnd/Campaings/OneShots/Kaple/Sample Houses/Huge House (DM).jpg",
     "Dnd/Fendelin.md",
     "Dnd/North SC.md",
     "Dnd/Sword Coast.md",
@@ -255,7 +240,6 @@
     "Dnd/Campaings/LostMine/chars/Fabio.md",
     "Dnd/Campaings/PobreziSnu/chars/Libor - Monk -.md",
     "Dnd/Campaings/PobreziSnu/chars/Matej - Fighter -.md",
-    "Dnd/Campaings/PobreziSnu/chars/Jiran - Sorcerer -.md",
     "Dnd/Campaings/PobreziSnu/Shore of Dreams Notes.pdf",
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Campaings/PobreziSnu/chars",
