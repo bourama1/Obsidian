@@ -11,6 +11,24 @@
             "id": "d5385b079acfc35f",
             "type": "leaf",
             "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dnd/Campaings/OneShots/Kaple/1. cast.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "3eb14392f4038eba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcfe11e41046b42c",
+            "type": "leaf",
+            "state": {
               "type": "pdf",
               "state": {
                 "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
@@ -91,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
+                "file": "Dnd/Campaings/OneShots/Kaple/1. cast.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
+                "file": "Dnd/Campaings/OneShots/Kaple/1. cast.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf"
+                "file": "Dnd/Campaings/OneShots/Kaple/1. cast.md"
               }
             }
           },
@@ -201,18 +219,27 @@
   },
   "active": "d5385b079acfc35f",
   "lastOpenFiles": [
-    "Dnd/Campaings/OneShots/Kaple/Sample Houses/Huge House (DM).jpg",
-    "Dnd/Campaings/OneShots/Kaple/Player Maps/The Barrow Mound - Player Map.jpg",
-    "Dnd/Campaings/OneShots/Kaple/Player Maps/Saint Sidvela's Chapel - Player Map.jpg",
-    "Dnd/Campaings/OneShots/Kaple/Player Maps/Kennmouth Regional - Player Map.jpg",
-    "Dnd/Campaings/OneShots/Kaple/Player Maps/Kennmouth - Player Map.jpg",
+    "Dnd/Campaings/OneShots/Kaple/Prehled.md",
+    "Dnd/Campaings/OneShots/Kaple/3. cast.md",
+    "Dnd/Campaings/OneShots/Kaple/2. cast.md",
+    "Dnd/Campaings/OneShots/Kaple/1. cast.md",
+    "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/Aina.png",
     "Dnd/Campaings/OneShots/Kaple/Illustrations/Brother Morton.png",
     "Dnd/Campaings/OneShots/Kaple/Illustrations/Claw of the Deep.png",
     "Dnd/Campaings/OneShots/Kaple/Illustrations/Ghost of Mark Elson.png",
     "Dnd/Campaings/OneShots/Kaple/Illustrations/Kathryn Reed.png",
     "Dnd/Campaings/OneShots/Kaple/Illustrations/Richard.png",
     "Dnd/Campaings/OneShots/Kaple/Illustrations/Ruth's Talisman.png",
-    "Dnd/Campaings/OneShots/Kaple/Kaple_na_utesech.pdf",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/Saint Sidvela.png",
+    "Dnd/Campaings/OneShots/Kaple/Illustrations/Saint Sidvela (NPC).png",
+    "DM Screen.md",
+    "Templates/1_Story World Templates/Events/Template - Storyline.md",
+    "Templates/1_Story World Templates/Events/Template - Scene.md",
+    "Templates/1_Story World Templates/Events/Template - Incident.md",
+    "Templates/1_Story World Templates/Events/Template - Quest.md",
+    "Templates/1_Story World Templates/Events/Template - Event List.md",
+    "Dnd/Campaings/OneShots/Kaple/Sample Houses/Huge House (DM).jpg",
     "Dnd/Fendelin.md",
     "Dnd/North SC.md",
     "Dnd/Sword Coast.md",
@@ -221,7 +248,6 @@
     "Dnd/Campaings/PobreziSnu/Jokotoro.md",
     "Dnd/Campaings/PobreziSnu/Temple.md",
     "Dnd/Campaings/PobreziSnu/Pobrezi_snu.pdf",
-    "DM Screen.md",
     "Dnd/Campaings/PobreziSnu/chars/Kuba.md",
     "Dnd/Campaings/PobreziSnu/chars/Ester.md",
     "Dnd/Campaings/PobreziSnu/chars/Eso.md",
@@ -234,17 +260,9 @@
     "Dnd/PDF Rules/PPJ_5e_CZ.pdf",
     "Dnd/Campaings/PobreziSnu/chars",
     "Dnd/Campaings/LostMine/chars/dnd beyond.md",
-    "Dnd/Campaings/LostMine/Shnuti.md",
-    "Dnd/Wiki/Equipment/Weapons.md",
     "Dnd/Campaings/LostMine/Ztraceny dul Fendelveru.pdf",
     "Dnd/PDF Rules/DPMC_5e_CZ.pdf",
-    "Dnd/Campaings/LostMine/Fendelin.md",
     "Dnd/PDF Rules/Starter_CZ.pdf",
-    "Dnd/Wiki/Combat/Crit and Fumble Table.md",
-    "Dnd/Campaings/LostMine/Skrys.md",
-    "Dnd/Campaings/LostMine/Fendelin/Lvi Stit.md",
-    "Dnd/Campaings/LostMine/Fendelin/Hornicka Smenarna.md",
-    "Dnd/Campaings/LostMine/Fendelin/Kaple Stesti.md",
     "Dnd/Campaings/LostMine/Fendelin",
     "Dnd/Campaings/LostMine/img"
   ]

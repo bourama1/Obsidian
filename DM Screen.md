@@ -20,18 +20,6 @@ kanban-plugin: basic
 - [ ] [[Uspech a neuspech]]
 
 
-## LostMine
-
-- [ ] [[Shnuti]]
-- [ ] [[Dnd/Campaings/LostMine/Fendelin]]
-- [ ] [[Skrys]]
-- [ ] [[Fabio]]
-- [ ] [[Hilda]]
-- [ ] [[Krutus]]
-- [ ] [[Vincent]]
-- [ ] > [!important] Navrh inspirace od hrace jinemu hraci
-
-
 ## Equipment
 
 - [ ] [[Armor]]
@@ -89,6 +77,18 @@ kanban-plugin: basic
 - [ ] [[Stunned]]
 - [ ] [[Unconscious]]
 - [ ] [[Dnd/Wiki/Conditions/Quick reference]]
+
+
+## LostMine
+
+- [ ] [[Shnuti]]
+- [ ] [[Dnd/Campaings/LostMine/Fendelin]]
+- [ ] [[Skrys]]
+- [ ] [[Fabio]]
+- [ ] [[Hilda]]
+- [ ] [[Krutus]]
+- [ ] [[Vincent]]
+- [ ] > [!important] Navrh inspirace od hrace jinemu hraci
 
 
 
