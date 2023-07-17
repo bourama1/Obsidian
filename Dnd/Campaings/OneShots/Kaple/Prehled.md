@@ -20,6 +20,7 @@ Původ kletby se objasní za soumraku, kdy si postavy všimnou přízračné zá
 	- problemy s administrativou
 - Robert Keymer ^0a7241
 	- prezivsi
+	- kolem 60, opravuje rybarske site
 
 ### Places
 - Hather Bay
