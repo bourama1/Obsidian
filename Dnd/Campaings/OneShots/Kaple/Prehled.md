@@ -12,6 +12,7 @@ Původ kletby se objasní za soumraku, kdy si postavy všimnou přízračné zá
 - Kathryn Reedova
 	- podnikatelka
 	- otravna
+	- ![[Kathryn Reed.png]]
 - Susan Mortonova
 	- stryc byl Morton ktery zavinil kletbu a je z nej bestie
 - Andrew Wakely
