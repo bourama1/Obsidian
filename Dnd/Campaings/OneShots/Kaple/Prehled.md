@@ -13,11 +13,12 @@ Původ kletby se objasní za soumraku, kdy si postavy všimnou přízračné zá
 	- podnikatelka, neúnavná ambiciózní žena, pres 30
 	- ![[Kathryn Reed.png]]
 - Susan Mortonova ^8bdaa3
-	- jiz postarsi dama kolem 70, moc si toho nepamatuje
+	- jiz postarsi mila dama kolem 70, moc si toho nepamatuje
 	- stryc byl Morton ktery zavinil kletbu a je z nej bestie
 - Andrew Wakely ^d806d7
-	- duchovni
-- Robert Keymer
+	- duchovni, utrapeny muz stredniho veku
+	- problemy s administrativou
+- Robert Keymer ^0a7241
 	- prezivsi
 
 ### Places
