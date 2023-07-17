@@ -1,6 +1,6 @@
 {
 	"fileType": "dm-screen",
-	"siteVersion": "1.181.1",
+	"siteVersion": "1.181.8",
 	"w": 6,
 	"h": 4,
 	"ctc": false,
@@ -9,6 +9,13 @@
 	"ps": [
 		{
 			"x": 0,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 0,
 			"y": 2,
 			"w": 1,
 			"h": 1,
@@ -17,6 +24,13 @@
 		{
 			"x": 0,
 			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 1,
+			"y": 1,
 			"w": 1,
 			"h": 1,
 			"t": 0
@@ -37,6 +51,13 @@
 		},
 		{
 			"x": 2,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 2,
 			"y": 2,
 			"w": 1,
 			"h": 1,
@@ -51,78 +72,94 @@
 		},
 		{
 			"x": 3,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 3,
 			"y": 3,
 			"w": 1,
 			"h": 1,
-			"t": 1,
-			"c": {
-				"p": "items.html",
-				"s": "DMG",
-				"u": "shield%20of%20missile%20attraction_dmg"
-			}
+			"t": 0
 		},
 		{
-			"x": 3,
+			"x": 4,
 			"y": 1,
 			"w": 1,
 			"h": 1,
-			"t": 1,
-			"c": {
-				"p": "items.html",
-				"s": "DMG",
-				"u": "%2b1%20weapon_dmg"
-			}
+			"t": 0
 		},
 		{
-			"x": 0,
-			"y": 1,
+			"x": 4,
+			"y": 2,
 			"w": 1,
 			"h": 1,
-			"t": 1,
-			"c": {
-				"p": "bestiary.html",
-				"s": "MM",
-				"u": "bugbear_mm"
-			}
+			"t": 0
 		},
 		{
-			"x": 1,
-			"y": 1,
+			"x": 4,
+			"y": 3,
 			"w": 1,
 			"h": 1,
-			"t": 1,
-			"c": {
-				"p": "bestiary.html",
-				"s": "MM",
-				"u": "goblin_mm"
-			}
+			"t": 0
 		},
 		{
-			"x": 3,
+			"x": 5,
 			"y": 0,
 			"w": 1,
 			"h": 1,
 			"t": 1,
 			"c": {
-				"p": "items.html",
-				"s": "LMoP",
-				"u": "staff%20of%20defense_lmop"
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "wight_mm"
 			}
+		},
+		{
+			"x": 5,
+			"y": 1,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 5,
+			"y": 2,
+			"w": 1,
+			"h": 1,
+			"t": 0
+		},
+		{
+			"x": 5,
+			"y": 3,
+			"w": 1,
+			"h": 1,
+			"t": 0
 		},
 		{
 			"x": 4,
 			"y": 0,
-			"w": 2,
-			"h": 4,
-			"t": 13,
+			"w": 1,
+			"h": 1,
+			"t": 1,
 			"c": {
-				"a": "LMoP",
-				"c": 3
+				"p": "bestiary.html",
+				"s": "MM",
+				"u": "will-o'-wisp_mm"
 			}
 		},
 		{
-			"x": 2,
-			"y": 1,
+			"x": 0,
+			"y": 0,
 			"w": 1,
 			"h": 1,
 			"t": 1,
@@ -140,8 +177,8 @@
 			"t": 1,
 			"c": {
 				"p": "bestiary.html",
-				"s": "LMoP",
-				"u": "redbrand%20ruffian_lmop"
+				"s": "MM",
+				"u": "ghoul_mm"
 			}
 		},
 		{
@@ -152,12 +189,12 @@
 			"t": 1,
 			"c": {
 				"p": "bestiary.html",
-				"s": "LMoP",
-				"u": "evil%20mage_lmop"
+				"s": "MM",
+				"u": "ghast_mm"
 			}
 		},
 		{
-			"x": 0,
+			"x": 3,
 			"y": 0,
 			"w": 1,
 			"h": 1,
@@ -165,21 +202,22 @@
 			"c": {
 				"p": "bestiary.html",
 				"s": "MM",
-				"u": "nothic_mm"
+				"u": "swarm%20of%20bats_mm"
 			}
-		},
+		}
+	],
+	"ex": [
 		{
-			"x": 3,
-			"y": 2,
+			"x": 5,
+			"y": 0,
 			"w": 1,
 			"h": 1,
 			"t": 1,
 			"c": {
-				"p": "items.html",
-				"s": "HAT-LMI",
-				"u": "hither-thither%20staff_hat-lmi"
+				"p": "bestiary.html",
+				"s": "DMG",
+				"u": "avatar%20of%20death_dmg"
 			}
 		}
-	],
-	"ex": []
+	]
 }
