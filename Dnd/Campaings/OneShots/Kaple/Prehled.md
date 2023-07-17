@@ -9,13 +9,13 @@ Původ kletby se objasní za soumraku, kdy si postavy všimnou přízračné zá
 
 ## Key People, Places, and Things
 ### People
-- Kathryn Reedova
-	- podnikatelka
-	- otravna
+- Kathryn Reedova ^Kathryn
+	- podnikatelka, neúnavná ambiciózní žena, pres 30
 	- ![[Kathryn Reed.png]]
-- Susan Mortonova
+- Susan Mortonova ^8bdaa3
+	- jiz postarsi dama kolem 70, moc si toho nepamatuje
 	- stryc byl Morton ktery zavinil kletbu a je z nej bestie
-- Andrew Wakely
+- Andrew Wakely ^d806d7
 	- duchovni
 - Robert Keymer
 	- prezivsi
