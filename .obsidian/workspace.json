@@ -11,9 +11,11 @@
             "id": "652ec5a2aa7972c4",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/OneShots/Kaple/Pokracovani.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/OneShots/Kaple/Pokracovani.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Screen.md",
+                "file": "Dnd/Campaings/OneShots/Kaple/Pokracovani.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Screen.md"
+                "file": "Dnd/Campaings/OneShots/Kaple/Pokracovani.md"
               }
             }
           },
@@ -187,13 +189,14 @@
   },
   "active": "652ec5a2aa7972c4",
   "lastOpenFiles": [
+    "DM Screen.md",
+    "Dnd/Campaings/OneShots/Kaple/Pokracovani.md",
     "Dnd/Campaings/OneShots/Kaple/Player Maps/Saint Sidvela's Chapel - Player Map.jpg",
     "Dnd/Campaings/OneShots/Kaple/Player Maps/Kennmouth - Player Map.jpg",
     "Dnd/Campaings/OneShots/Kaple/Player Maps/Kennmouth Regional - Player Map.jpg",
     "Dnd/Campaings/OneShots/Kaple/Player Maps/The Barrow Mound - Player Map.jpg",
     "Dnd/Campaings/OneShots/Kaple/Player Maps/The Workshop - Player Map.jpg",
     "Dnd/Campaings/OneShots/Kaple/2. cast.md",
-    "DM Screen.md",
     "map.md",
     "Templates/images/Pasted image 20230717170804.png",
     "Dnd/Campaings/OneShots/Kaple/Monster Tokens/Ghast.png",
