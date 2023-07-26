@@ -7,4 +7,8 @@
 	5. radnice s radnim a jeho zapisy
 	6. ?dilna pro nastroje k opevneni?
 	7. ?lod duchu?
-2. 
+
+# Aina
+- cesta
+	- utes za kapli = 30 metru => lano a SO atletika 15
+	- lodi
